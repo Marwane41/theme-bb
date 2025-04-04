@@ -16,7 +16,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/B1D4938D-BF6E-4E2E-9CEB-8E47696B6576.jpg",
+        "image": "shopify://shop_images/Banniere_pc_pureliss.jpg",
         "mobile_image": "shopify://shop_images/3A9C1664-77A7-43C3-959C-578573F95BDC.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -31,7 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/545941.png",
+            "logo": "shopify://shop_images/Womens-Health-Logo.jpg",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Womens-Health-Logo.jpg",
+            "logo": "shopify://shop_images/self-magazine2063.logowik.com.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -97,8 +97,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F_1.jpg",
-        "mobile_image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F_1.jpg",
+        "image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F.jpg",
+        "mobile_image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -277,7 +277,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_1591ea17-2f2a-4990-a530-48e616c03988.png",
+            "image": "shopify://shop_images/2_48572147-49ca-4d2d-8b9a-21e49356e700.png",
             "column_size": "3",
             "title": "Madison",
             "heading_tag": "h4",
@@ -290,7 +290,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_be5185b2-6286-4422-a697-98b09a9cbb28.png",
+            "image": "shopify://shop_images/1_4a3bd143-c1da-4d11-91e2-e2f279bc853f.png",
             "column_size": "3",
             "title": "Jake",
             "heading_tag": "h4",
@@ -303,7 +303,7 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_e9d2ffb3-3f72-48b3-b977-67074ae5bd67.png",
+            "image": "shopify://shop_images/5_17fc7c8d-6ec1-4db1-894d-2f1bcec13be1.png",
             "column_size": "3",
             "title": "Brooklyn",
             "heading_tag": "h4",
@@ -316,7 +316,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_ef60956d-2fcb-413f-8f85-bfd6dc170b52.png",
+            "image": "shopify://shop_images/3_b24981b7-db4d-4694-8e91-3e16d8a20da5.png",
             "column_size": "3",
             "title": "Marc",
             "heading_tag": "h4",
@@ -329,9 +329,9 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_bf98cc41-dde3-4285-9860-1533e6de92e2.png",
+            "image": "shopify://shop_images/4_9e96477e-3dee-4ce9-b53e-df6c5614bd47.png",
             "column_size": "3",
-            "title": "Brandon",
+            "title": "Brigitte",
             "heading_tag": "h4",
             "content": "<p>\"I've struggled with sinus congestion for years, and nothing seemed to help long-term. I decided to give this product a try, and I’m so glad I did! After just a few days, I can already feel a difference—my breathing is clearer, and I wake up feeling refreshed. It’s easy to use, completely painless, and a game-changer for my sinus issues!\"</p>",
             "link_url": "",
@@ -572,7 +572,7 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_e9d2ffb3-3f72-48b3-b977-67074ae5bd67.png",
+            "image": "shopify://shop_images/gif3.webp",
             "column_size": "3",
             "title": "How does Vitalora work ?",
             "heading_tag": "h4",
