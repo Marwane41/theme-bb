@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banniere_pc_pureliss.jpg",
-        "mobile_image": "shopify://shop_images/3A9C1664-77A7-43C3-959C-578573F95BDC.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_9_avr._2025_23_51_19.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_9_avr._2025_23_51_51.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Womens-Health-Logo.jpg",
+            "logo": "shopify://shop_images/1_0a25ff53-bbb4-4141-9d5f-247645ef319b.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/self-magazine2063.logowik.com.webp",
+            "logo": "shopify://shop_images/2_88d8286c-7667-4a11-b989-c424edae3242.png",
             "logo_width": 120,
             "link": ""
           }
@@ -52,7 +52,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "As seen on :",
+        "title": "On parle de nous",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -71,7 +71,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "What Makes Us Different ?",
+            "text": "Pourquoi vous équipez avec nous ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -97,8 +97,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F.jpg",
-        "mobile_image": "shopify://shop_images/995ED222-5599-4C09-8959-25B1BCF7CD4F.jpg",
+        "image": "shopify://shop_images/Banniere_benef_ok.png",
+        "mobile_image": "shopify://shop_images/Banniere_benef_ok.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -112,22 +112,12 @@
         "richtext_FmJULR": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Clear </strong>your <strong>sinuses</strong> with<strong> 660nm red light anti-inflammatory</strong> and <strong>restorative</strong> !</p>"
-          }
-        },
-        "image_76Xeag": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sequenz_01_1.webp",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "content": "<h4>Partez à la <strong>découverte</strong> de <strong>paysages</strong> grandioses, vivez la<strong> liberté</strong>, le <strong>dépassement</strong> de <strong>soi</strong> et la <strong>magie</strong> de chaque <strong>pas</strong>.<br/><br/></h4>"
           }
         }
       },
       "block_order": [
-        "richtext_FmJULR",
-        "image_76Xeag"
+        "richtext_FmJULR"
       ],
       "settings": {
         "full_width": true,
@@ -138,6 +128,30 @@
         "text_color": ""
       }
     },
+    "video_whpQqg": {
+      "type": "video",
+      "blocks": {
+        "play_Hz8MGt": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_Hz8MGt"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/snaptik_7413853099124624673.mp4",
+        "mobile_video": "shopify://files/videos/snaptik_7413853099124624673.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "custom_css": [
@@ -146,7 +160,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Our customers say it best",
+        "heading": "Nos clients en parlent le mieux",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -166,7 +180,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>Based on  +<strong>1 067</strong> reviews</p>",
+        "text": "<p>Basé sur  +<strong>1 067</strong> avis</p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -737,6 +751,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_iG6MLz",
+    "video_whpQqg",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
