@@ -291,7 +291,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_48572147-49ca-4d2d-8b9a-21e49356e700.png",
+            "image": "shopify://shop_images/1_31060ad6-44d2-4ea3-9bc7-df01757bcb6f.png",
             "column_size": "3",
             "title": "Madison",
             "heading_tag": "h4",
@@ -304,7 +304,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_4a3bd143-c1da-4d11-91e2-e2f279bc853f.png",
+            "image": "shopify://shop_images/3_ca3b3eec-2734-44b9-8e37-36c1ef69ce5e.png",
             "column_size": "3",
             "title": "Jake",
             "heading_tag": "h4",
@@ -317,7 +317,7 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_17fc7c8d-6ec1-4db1-894d-2f1bcec13be1.png",
+            "image": "shopify://shop_images/5_181957dd-5d75-43f0-a3f9-1fc2cab1cf23.png",
             "column_size": "3",
             "title": "Brooklyn",
             "heading_tag": "h4",
@@ -330,7 +330,7 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_b24981b7-db4d-4694-8e91-3e16d8a20da5.png",
+            "image": "shopify://shop_images/2_38ba2158-4008-4dd4-a998-eab6ccfced0f.png",
             "column_size": "3",
             "title": "Marc",
             "heading_tag": "h4",
@@ -343,7 +343,20 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_9e96477e-3dee-4ce9-b53e-df6c5614bd47.png",
+            "image": "shopify://shop_images/4_967ec173-e97c-4105-ad63-21864c2bc560.png",
+            "column_size": "3",
+            "title": "Brigitte",
+            "heading_tag": "h4",
+            "content": "<p>\"I've struggled with sinus congestion for years, and nothing seemed to help long-term. I decided to give this product a try, and I’m so glad I did! After just a few days, I can already feel a difference—my breathing is clearer, and I wake up feeling refreshed. It’s easy to use, completely painless, and a game-changer for my sinus issues!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jXPkyH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_d8fe1fdb-a2a6-4097-85dc-3495760e60f0.png",
             "column_size": "3",
             "title": "Brigitte",
             "heading_tag": "h4",
@@ -359,7 +372,8 @@
         "item_JJLm4U",
         "item_GECyWQ",
         "item_MwJML3",
-        "item_p6MkDp"
+        "item_p6MkDp",
+        "item_jXPkyH"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
