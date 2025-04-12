@@ -475,6 +475,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kaching_bundles_app_block_k4WB7G": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -508,6 +514,7 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "kaching_bundles_app_block_k4WB7G",
         "buy-buttons",
         "image_NnVtjL"
       ],
@@ -594,65 +601,20 @@
         "heading_gradient": ""
       }
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gif3.webp",
-            "column_size": "3",
-            "title": "How does Vitalora work ?",
-            "heading_tag": "h4",
-            "content": "<p>It works thanks to the innovative technology of red light therapy.</p><p>Here’s how it works:</p><p>1 - <strong>Red light therapy (660 nm)</strong>: The device uses 660 nm red light, clinically proven to improve cellular metabolism and soothe nasal inflammation.</p><p>2 - <strong>Immediate relief</strong>: The red light works instantly, reducing symptoms within the first few minutes of use.</p><p>3 - <strong>Strengthening nasal cells</strong>: The red light stimulates nasal cells, making them more resistant to viruses and bacteria.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sequenz_01_1.webp",
-            "column_size": "3",
-            "title": "How to use our device ?",
-            "heading_tag": "h4",
-            "content": "<p>Using Vitalora is incredibly simple with these 3 easy steps: Find all the detailed information in the \"User Manual\" section.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_dPL9Rr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sans_titre_800_x_800_px_1.gif",
-            "column_size": "3",
-            "title": "Say Goodbye to Bacteria and Viruses with Red Light !",
-            "heading_tag": "h4",
-            "content": "<p>Your environment is a breeding ground for germs. Every day, bacteria and viruses multiply on surfaces and in the air, increasing the risk of infections and weakening your immune system.</p><p><strong>A Powerful and Safe Technology:</strong><br/><br/>Inspired by scientific research, red light enhances your protection by effectively eliminating bacteria and viruses.</p><p>Don't let microbes threaten your health any longer—bring comfort and peace of mind into your daily life.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_dPL9Rr"
-      ],
+    "image_with_text_overlay_cx8fje": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Clinically tested",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_famille_benefices.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_12_avr._2025_22_24_18.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_MQHPPV": {
@@ -798,7 +760,7 @@
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
-    "multi_column_wTJTNc",
+    "image_with_text_overlay_cx8fje",
     "faq_MQHPPV",
     "17359565654f612dcd",
     "17443613369de13f1c"
