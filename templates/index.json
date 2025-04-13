@@ -623,29 +623,29 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "What is the delivery time ?",
-            "content": "<p>Home delivery is free. The estimated delivery time is between 6 to 9 business days.​</p><p>To track your order, please leave us a message with your name and order number on the \"Track My Order\" </p>"
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>La livraison est gratuite. Le délai de livraison est compris entre 7 à 10 jours ouvrés.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "What is red light therapy exactly ?",
-            "content": "<p>Red light therapy, also known as photobiomodulation (PBM) or low-level laser therapy (LLLT), is a treatment that uses red and near-infrared light wavelengths to penetrate the skin and tissues, potentially offering therapeutic benefits</p>"
+            "title": "Comment faire si les produits ne me plaisent pas ?",
+            "content": "<p>Vous avez une garantie 30 jours satisfait ou remboursé ! Si les produits ne correspondent pas à vos attentes il suffit de nous le dire, de nous renvoyer les produits et vous serez remboursé.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "How often should red light therapy be used ?",
-            "content": "<p>For optimal results, it is recommended to use your red light therapy device for 10 minutes per day, 1 to 2 times daily. Noticeable improvements can typically be observed after 6 to 12 sessions. Each device comes with a detailed user manual to guide you through your treatment.​</p>"
+            "title": "Quelle est la taille et le poids du matelas de randonnée une fois déplié ?",
+            "content": "<p><strong>Poids : </strong>800 g<br/><strong>Dimensions plié : </strong>30 x 10 cm<br/><strong>Dimensions déplié : </strong>200 x 70 cm</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Is the Vitalora device safe ?",
-            "content": "<p>Yes, red light therapy is completely safe. Thousands of scientific studies have proven its effectiveness without undesirable side effects.​</p><p>All ClearAir™ devices undergo rigorous testing and strict quality control.​</p>"
+            "title": "Comment gonfler le matelas ?",
+            "content": "<p>Le matelas de couchage autogonflant peut être gonflé rapidement car il est équipé d'une <strong>pompe à air intégrée</strong> .<br/>Cette pompe innovante permet <strong>de gonfler entièrement le tapis en seulement 30 secondes.</strong></p>"
           }
         },
         "item_mrg8b4": {
