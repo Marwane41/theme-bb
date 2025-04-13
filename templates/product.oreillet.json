@@ -112,6 +112,73 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_VYf6pB": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_hM6pAN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/im_coussin_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ULTRA PETIT, LÉGER COMME UNE PLUME ET TOUJOURS AVEC VOUS",
+            "content": "<p>Emportez votre coussin de siège avec vous partout où vous allez : il est ultra-petit et léger, idéal pour vos déplacements. Avec un format mini de moins de 12,5 cm et seulement 85 g, ce coussin de siège est parfait pour les déplacements - se glisse dans n'importe quel sac à dos et offre un confort maximal, où que vous soyez ! Une fois gonflé, le coussin d'assise mesure 40x34 cm.</p>"
+          }
+        },
+        "item_gVWBDi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_13_avr._2025_18_00_12.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "GONFLAGE RAPIDE ET FACILE",
+            "content": "<p>Oubliez les tracas du gonflage : appuyez simplement avec vos doigts pendant 30 secondes et l'oreiller se remplira tout seul. La pompe à air intégrée permet un gonflage rapide et facile, éliminant ainsi les tracas du pompage manuel.</p>"
+          }
+        },
+        "item_6BrN4k": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_13_avr._2025_18_07_21.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ERGONOMIQUE ET ULTRA CONFORTABLE",
+            "content": "<p>Asseyez-vous sainement et en douceur - notre coussin soutient votre corps de manière optimale.<br/>L'oreiller est de forme ergonomique pour s'adapter de manière optimale à votre corps, ce qui garantit un confort élevé. L'épaisseur du coussin offre un rembourrage confortable et une bonne isolation contre les surfaces froides.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hM6pAN",
+        "item_gVWBDi",
+        "item_6BrN4k"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image_with_text_overlay_Bc87zW": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2025_18_04_04.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -144,23 +211,13 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "17399958338b7cfeb3": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "main",
+    "images_with_text_scrolling_VYf6pB",
+    "image_with_text_overlay_Bc87zW",
     "related-products",
-    "173998905724905a15",
-    "17399958338b7cfeb3"
+    "173998905724905a15"
   ]
 }
