@@ -112,6 +112,57 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_yjnnVg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_p7H9Na": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gants_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "100% ÉTANCHE",
+            "content": "<p>Grâce à l'utilisation innovante de plusieurs couches de matériaux différentes, les gants Adventure sont  <strong>100 % imperméables</strong> . Ils  impressionnent par  <strong>leur tissu respirant et ultra doux et leur doublure intérieure chauffante</strong> .</p>"
+          }
+        },
+        "item_q7e7pi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/grip_1024x1024_86a9fb99-5074-4e16-b72b-71cc8974adf2.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ANTIDÉRAPANT",
+            "content": "<p>Les paumes et les doigts des gants Adventure sont fabriqués à partir de<strong>matériaux antidérapants et de haute qualité</strong>. La <strong>forte adhérence</strong> empêche le risque de glissement et assure une plus grande sécurité lors de diverses activités de plein air.</p>"
+          }
+        },
+        "item_JyN9w7": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_p7H9Na",
+        "item_q7e7pi",
+        "item_JyN9w7"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -156,70 +207,38 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_yjnnVg": {
-      "type": "images-with-text-scrolling",
+    "17445619819ad31a83": {
+      "type": "apps",
       "blocks": {
-        "item_p7H9Na": {
-          "type": "item",
+        "loox_reviews_loox_dynamic_section_zgjVBy": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "image": "shopify://shop_images/gants_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "100% ÉTANCHE",
-            "content": "<p>Grâce à l'utilisation innovante de plusieurs couches de matériaux différentes, les gants Adventure sont  <strong>100 % imperméables</strong> . Ils  impressionnent par  <strong>leur tissu respirant et ultra doux et leur doublure intérieure chauffante</strong> .</p>"
-          }
-        },
-        "item_LbebNQ": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_q7e7pi": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_JyN9w7": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
           }
         }
       },
       "block_order": [
-        "item_p7H9Na",
-        "item_LbebNQ",
-        "item_q7e7pi",
-        "item_JyN9w7"
+        "loox_reviews_loox_dynamic_section_zgjVBy"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     }
   },
   "order": [
     "main",
     "images_with_text_scrolling_yjnnVg",
+    "17445619819ad31a83",
     "related-products",
     "173998905724905a15",
     "17399958338b7cfeb3"
