@@ -493,6 +493,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_RitrtF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sans_armatures_Confort_absolu_sans_compression_9.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_NnVtjL": {
           "type": "image",
           "settings": {
@@ -517,6 +525,7 @@
         "quantity-selector",
         "kaching_bundles_app_block_k4WB7G",
         "buy-buttons",
+        "image_RitrtF",
         "image_NnVtjL"
       ],
       "settings": {
@@ -530,7 +539,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -607,6 +616,36 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "featured_collection_M44CEG": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "thermofit-multifunktionshandschuhe-sonderedition",
+          "adventure-light-trek",
+          "matelas-assise",
+          "matelas-randonnee"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Les immanquables pour vos aventures",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "faq_MQHPPV": {
@@ -741,6 +780,22 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_BKcBPc": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/En-tete_4.jpg",
+        "mobile_image": "shopify://shop_images/En-tete_4.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "17359565654f612dcd": {
       "type": "apps",
       "settings": {
@@ -793,7 +848,9 @@
     "featured-product",
     "tabs_Waa9zt",
     "image_with_text_overlay_cx8fje",
+    "featured_collection_M44CEG",
     "faq_MQHPPV",
+    "image_with_text_overlay_BKcBPc",
     "17359565654f612dcd",
     "17445615887c490fde"
   ]
