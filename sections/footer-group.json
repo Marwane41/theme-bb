@@ -88,15 +88,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up to receive our offers and updates",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -109,13 +100,12 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p><strong>Customer Service: </strong></p><p><a><strong>contact@purelisse.fr </strong></a><strong>Hours: Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</strong></p>",
+            "content": "<p><strong>Service client ;</strong></p><p>Notre équipe est disponible pour répondre à vos questions sept jours sur sept.<br/><br/>Du lundi au vendredi : 9h – 12h et 14h – 18h<br/>Le samedi et dimanche : 10h – 12h. </p><p>N’hésitez pas à nous contacter !</p>",
             "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
-        "newsletter",
         "links",
         "text"
       ],
