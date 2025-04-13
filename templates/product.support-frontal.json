@@ -112,6 +112,58 @@
         "input_text_color": ""
       }
     },
+    "images_with_text_scrolling_gbA7RH": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_weF6q3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_lampe_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "LA LAMPE FRONTALE LA PLUS INNOVANTE",
+            "content": "<p>Désormais, vous <strong>n'aurez plus à tâtonner dans le noir</strong> ! Avec l'Adventure Light, vous avez toujours <strong>tout en vue !</strong>   </p><p>Grâce à la bande lumineuse COB intégrée le long du front, vous obtenez un <strong>grand angle de 230 degrés</strong> et pouvez facilement éclairer une pièce ou une rue entière <strong>même dans l'obscurité totale .</strong></p>"
+          }
+        },
+        "item_bmAn3p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_lampe_2.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "CAPTEUR INTÉGRÉ",
+            "content": "<p>Grâce au <strong>capteur intégré</strong>, vous pouvez allumer <strong>et éteindre l'Adventure Light avec de simples mouvements de la main</strong>. Le <strong>système LED innovant </strong>de la lampe frontale LED assure <strong>une répartition uniforme de la lumière </strong>et vous permet de <strong>passer facilement </strong>d'une puissance maximale à une puissance atténuée. L' Adventure Light assure <strong>un éclairage parfait </strong>des zones les plus importantes : les zones centrales, lointaines et latérales.</p>"
+          }
+        },
+        "item_bRFtHb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_lampe_3.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "BANDEAU RÉGLABLE",
+            "content": "<p>Le <strong>bandeau élastique</strong> est réglable individuellement et convient aussi bien aux <strong>enfants</strong> qu'aux <strong>adultes</strong> . L'  Adventure Light  est universellement applicable et parfait pour <strong>la randonnée, le jogging, l'alpinisme, la course à pied, le ski de randonnée, le trail et d'autres activités de plein air.</strong>      </p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_weF6q3",
+        "item_bmAn3p",
+        "item_bRFtHb"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -155,12 +207,48 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "media_with_text_rQEKeb": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_UciBXR": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_UciBXR"
+      ],
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "main",
+    "images_with_text_scrolling_gbA7RH",
     "related-products",
     "173998905724905a15",
-    "17399958338b7cfeb3"
+    "17399958338b7cfeb3",
+    "media_with_text_rQEKeb"
   ]
 }
