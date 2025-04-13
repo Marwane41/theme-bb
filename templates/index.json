@@ -752,10 +752,10 @@
         "text_color": ""
       }
     },
-    "1744559450045032d1": {
+    "17445615887c490fde": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_agg_section_3Wye6X": {
+        "loox_reviews_loox_agg_section_nMFpAH": {
           "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
@@ -769,7 +769,7 @@
         }
       },
       "block_order": [
-        "loox_reviews_loox_agg_section_3Wye6X"
+        "loox_reviews_loox_agg_section_nMFpAH"
       ],
       "settings": {
         "full_width": true,
@@ -795,6 +795,6 @@
     "image_with_text_overlay_cx8fje",
     "faq_MQHPPV",
     "17359565654f612dcd",
-    "1744559450045032d1"
+    "17445615887c490fde"
   ]
 }
