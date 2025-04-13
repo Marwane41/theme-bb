@@ -164,6 +164,110 @@
         "heading_gradient": ""
       }
     },
+    "image_with_text_overlay_r3tmzf": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2025_11_49_43.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_6wCJDr": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NKEaWW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_1.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>Cette lampe est tout simplement incroyable ! Elle éclaire d'une manière très précise et l'option grand angle est vraiment utile. Je peux voir sur toute la largeur de mon chemin. Le confort est également top, elle est légère et facile à ajuster. Je la recommande vivement pour toutes vos aventures.</p><p></p><p><strong>Pierre D.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cY8QUf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis6.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>Je suis absolument ravi de cette lampe. Elle est super brillante, l'autonomie de la batterie est impressionnante et la fonction de commande gestuelle est très pratique. Je n’ai plus besoin de chercher le bouton dans l’obscurité. Elle est ultra-légère et confortable, c'est un excellent choix pour les randonneurs.</p><p></p><p><strong>Martin E.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_T6fJXA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_2.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>C'est la meilleure lampe frontale que j'ai utilisée jusqu'à présent. Elle offre une lumière incroyablement claire et forte. Le faisceau de 230° est parfait pour voir autour de moi pendant mes treks nocturnes. De plus, elle est super facile à recharger grâce au port USB-C.</p><p></p><p><strong>Amélie R.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fYpHBi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_4.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>La lampe est super puissante, je n'ai jamais eu une aussi bonne visibilité lors de mes randonnées de nuit. La batterie dure longtemps, et je n'ai pas à m'inquiéter de manquer de lumière en pleine nature. Elle est aussi très légère et facile à transporter. Un excellent achat !</p><p><strong>Alexis J.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_epJEWC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_3.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>J'adore ! Elle est non seulement légère et confortable à porter, mais elle éclaire d’une façon incroyable. Elle offre une luminosité folle et le fait de pouvoir ajuster la lumière sans toucher à la lampe avec la commande gestuelle est génial !</p><p><strong>Nathalie S.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NKEaWW",
+        "item_cY8QUf",
+        "item_T6fJXA",
+        "item_fYpHBi",
+        "item_epJEWC"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ils en parlent mieux que nous :",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -207,48 +311,15 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "media_with_text_rQEKeb": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_UciBXR": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_UciBXR"
-      ],
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
     }
   },
   "order": [
     "main",
     "images_with_text_scrolling_gbA7RH",
+    "image_with_text_overlay_r3tmzf",
+    "multi_column_6wCJDr",
     "related-products",
     "173998905724905a15",
-    "17399958338b7cfeb3",
-    "media_with_text_rQEKeb"
+    "17399958338b7cfeb3"
   ]
 }
