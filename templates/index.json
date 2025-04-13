@@ -651,29 +651,50 @@
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Are results guaranteed within 30 days or a full refund ?",
-            "content": "<p>We are so confident in the effectiveness of ClearAir™ that if you do not notice improvement within 30 days or less, we will provide a full refund. We firmly believe in the quality of our products and want you to fully enjoy them. If you are not satisfied, you can return your product under our 30-day money-back guarantee.​</p>"
+            "title": "Le matelas est-il confortable pour dormir sur des surfaces dures ?",
+            "content": "<p>Oui, ce matelas est conçu pour offrir un confort optimal même sur des surfaces dures grâce à sa construction de qualité et son design alvéolé qui répartit la pression et procure un soutien adapté à votre corps.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Is there a warranty on the product ?",
-            "content": "<p>We offer a one-year warranty to ensure the durability of our products. In case of any issues, we are committed to providing a quick and effective solution.​</p>"
+            "title": "Est-ce que le matelas est résistant à l'eau ?",
+            "content": "<p>Oui, le matelas est conçu avec une surface résistante à l'eau, ce qui le rend idéal pour le camping ou les randonnées en extérieur. Il vous permet de dormir confortablement même près d'une source d'eau sans vous soucier de l'humidité.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "How long does it take to see results with Vitalora ?",
-            "content": "<p>87.9% of our customers report immediate relief and significant improvement from the first use of ClearAir.​</p><p>The remaining 12.1% notice significant results in just 2 to 3 days.​</p><p>Thanks to its cutting-edge technology, ClearAir stands out as one of the most effective solutions against cold symptoms, sinusitis, and allergies.​</p>"
+            "title": "Peut-on l'utiliser comme matelas pneumatique dans l'eau ?",
+            "content": "<p>Oui, grâce à sa conception étanche, le matelas peut être utilisé comme un matelas pneumatique sur l'eau pour se détendre et flotter au calme.</p>"
           }
         },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Are the benefits of red light therapy immediate ?",
-            "content": "<p>Some users may experience immediate relief and relaxation from the first uses. However, the most noticeable effects of red light therapy generally manifest with regular use, allowing for lasting and progressive results over time</p>"
+            "title": "Est-ce que le matelas convient aux températures froides ?",
+            "content": "<p>Le matelas est conçu pour isoler du froid du sol, mais si vous prévoyez de l'utiliser par temps très froid, il peut être utile d'ajouter une couverture de survie ou un matelas supplémentaire pour améliorer l'isolation thermique</p>"
+          }
+        },
+        "item_yq83q3": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que le matelas est garanti ?",
+            "content": "<p>Oui, nous offrons une garantie de 1 an pour ce produit. Si vous rencontrez des problèmes avec le matelas pendant cette période, contactez notre service client pour obtenir une solution.</p>"
+          }
+        },
+        "item_FfnTaL": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la différence avec les produits concurrents ?",
+            "content": "<p>La principale différence entre le matelas de couchage autogonflant et ses concurrents est sa pompe à air intégrée innovante, qui permet un <strong>gonflage rapide en seulement 30 secondes</strong> .<br/><br/>De plus, le tapis est particulièrement confortable avec une épaisseur de 10 cm et un design ergonomique. Son <strong>faible poids de 800 g et sa taille compacte pliée de 30 x 12 cm</strong> le rendent idéal pour un transport facile.<br/><br/>La possibilité <strong>de connecter plusieurs tapis à l'aide de boutons-pression</strong> offre une flexibilité et une commodité supplémentaires par rapport aux autres produits.</p>"
+          }
+        },
+        "item_aRggqx": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
@@ -685,7 +706,10 @@
         "item_mrg8b4",
         "item_K9EhFR",
         "item_XY77ii",
-        "item_P6yRzh"
+        "item_P6yRzh",
+        "item_yq83q3",
+        "item_FfnTaL",
+        "item_aRggqx"
       ],
       "settings": {
         "full_width": true,
