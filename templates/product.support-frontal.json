@@ -138,11 +138,11 @@
         "item_bRFtHb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_lampe_3.webp",
+            "image": "shopify://shop_images/image_lampe_4.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "BANDEAU RÉGLABLE",
-            "content": "<p>Le <strong>bandeau élastique</strong> est réglable individuellement et convient aussi bien aux <strong>enfants</strong> qu'aux <strong>adultes</strong> . L'  Adventure Light  est universellement applicable et parfait pour <strong>la randonnée, le jogging, l'alpinisme, la course à pied, le ski de randonnée, le trail et d'autres activités de plein air.</strong>      </p>"
+            "title": "PRATIQUE ET RECHARGEABLE",
+            "content": "<p>L'  Adventure Light est très <strong>économique</strong> avec la <strong>batterie Li-ion intégrée de 1200 mAh</strong> et la source lumineuse a 350 lumens. En <strong>seulement 2,5 heures,</strong> l'Adventure Light<strong>, entièrement chargé</strong> et prêt à l'emploi à nouveau avec le <strong>câble USB inclus</strong> dans la livraison.    </p>"
           }
         }
       },
