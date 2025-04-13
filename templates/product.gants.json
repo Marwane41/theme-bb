@@ -155,10 +155,71 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "images_with_text_scrolling_yjnnVg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_p7H9Na": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gants_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "100% ÉTANCHE",
+            "content": "<p>Grâce à l'utilisation innovante de plusieurs couches de matériaux différentes, les gants Adventure sont  <strong>100 % imperméables</strong> . Ils  impressionnent par  <strong>leur tissu respirant et ultra doux et leur doublure intérieure chauffante</strong> .</p>"
+          }
+        },
+        "item_LbebNQ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_q7e7pi": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_JyN9w7": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_p7H9Na",
+        "item_LbebNQ",
+        "item_q7e7pi",
+        "item_JyN9w7"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
+    "images_with_text_scrolling_yjnnVg",
     "related-products",
     "173998905724905a15",
     "17399958338b7cfeb3"
