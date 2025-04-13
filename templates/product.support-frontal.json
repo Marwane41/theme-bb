@@ -208,6 +208,19 @@
             "link_style": "link"
           }
         },
+        "item_NGayVG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_7.jpg",
+            "column_size": "3",
+            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "heading_tag": "h4",
+            "content": "<p>Cette lampe est tout ce que je recherchais. Elle est extrêmement lumineuse et le faisceau grand angle m'a permis de voir clairement tout autour de moi. L'autonomie est également impressionnante et j'apprécie vraiment le fait qu’elle soit rechargeable via USB-C. Je la recommande à tous les amateurs de plein air.</p><p><strong>Marie-Pierre D.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_T6fJXA": {
           "type": "item",
           "settings": {
@@ -251,6 +264,7 @@
       "block_order": [
         "item_NKEaWW",
         "item_cY8QUf",
+        "item_NGayVG",
         "item_T6fJXA",
         "item_fYpHBi",
         "item_epJEWC"
