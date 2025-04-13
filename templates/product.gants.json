@@ -134,22 +134,11 @@
             "title": "ANTIDÉRAPANT",
             "content": "<p>Les paumes et les doigts des gants Adventure sont fabriqués à partir de<strong>matériaux antidérapants et de haute qualité</strong>. La <strong>forte adhérence</strong> empêche le risque de glissement et assure une plus grande sécurité lors de diverses activités de plein air.</p>"
           }
-        },
-        "item_JyN9w7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_13_avr._2025_18_48_45.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "GANTS MULTIFONCTIONNELS",
-            "content": "<p>Les gants Adventure réchauffent vos mains, sont  <strong>sensibles au toucher</strong>, <strong>antidérapants</strong> et offrent une <strong>sensation super douce, confortable et de haute qualité</strong> .</p><p>Que ce soit pour les femmes ou les hommes, les Thermo Touch Pro sont le <strong>meilleur choix pour toutes les activités de plein air</strong> telles que la course à pied, le vélo, la randonnée, le ski ou la marche.</p>"
-          }
         }
       },
       "block_order": [
         "item_p7H9Na",
-        "item_q7e7pi",
-        "item_JyN9w7"
+        "item_q7e7pi"
       ],
       "settings": {
         "full_width": true,
@@ -166,22 +155,6 @@
     },
     "17445619819ad31a83": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_zgjVBy": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_zgjVBy"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
