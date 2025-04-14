@@ -132,12 +132,23 @@
             "title": "EXTRÊMEMENT PLIABLE ET ULTRA LÉGER",
             "content": "<p>Pesant seulement <strong>800 g, </strong>à peine perceptible, et avec un <strong>design compact qui se plie </strong>à <strong>30 x 12 cm</strong>, notre matelas de couchage autogonflant économise de l'espace dans vos bagages. Il offre la combinaison idéale de praticité et de confort. Préparez-vous à une liberté illimitée et découvrez le luxe d'un petit sac qui révolutionnera votre expérience en plein air.</p>"
           }
+        },
+        "item_RJpr77": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_14_avr._2025_17_35_24.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "DEUX FOIS C'EST MIEUX - MÊME EN DORMANT",
+            "content": "<p>Grâce à <strong>des boutons-pression innovants</strong> sur les côtés, vous pouvez <strong>facilement connecter deux tapis ensemble et créer un lit double confortable</strong> en un rien de temps . Que vous voyagiez seul ou en couple, notre matelas de couchage s'adapte de manière flexible à vos besoins.</p>"
+          }
         }
       },
       "block_order": [
         "item_KxzYh8",
         "item_3HVNm3",
-        "item_L4tyyA"
+        "item_L4tyyA",
+        "item_RJpr77"
       ],
       "settings": {
         "full_width": true,
