@@ -43,11 +43,29 @@
             "logo_width": 120,
             "link": ""
           }
+        },
+        "logo_RcAMD6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_6NNhia": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/GQ-Logo-1958.png",
+            "logo_width": 150,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_A964Gc",
-        "logo_PwVxki"
+        "logo_PwVxki",
+        "logo_RcAMD6",
+        "logo_6NNhia"
       ],
       "settings": {
         "full_width": true,
