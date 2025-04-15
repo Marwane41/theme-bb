@@ -489,6 +489,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_erWynm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Copie_de_OFFRE_RESIZE_4.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -530,6 +538,7 @@
         "description",
         "quantity-selector",
         "kaching_bundles_app_block_khBzfz",
+        "image_erWynm",
         "buy-buttons",
         "image_RitrtF",
         "image_NnVtjL"
