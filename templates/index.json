@@ -483,7 +483,7 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_k4WB7G": {
+        "kaching_bundles_app_block_khBzfz": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
@@ -529,7 +529,7 @@
         "separator",
         "description",
         "quantity-selector",
-        "kaching_bundles_app_block_k4WB7G",
+        "kaching_bundles_app_block_khBzfz",
         "buy-buttons",
         "image_RitrtF",
         "image_NnVtjL"

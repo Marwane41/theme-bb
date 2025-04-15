@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRES DE PRINTEMPS JUSQU’À -40%",
+            "text": "OFFRES DE PRINTEMPS JUSQU’À -50%",
             "url": ""
           }
         },
@@ -50,7 +50,7 @@
         "scrolling_speed": 10,
         "background": "#b6cdd9",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "header": {
