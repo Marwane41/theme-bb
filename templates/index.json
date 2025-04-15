@@ -455,6 +455,7 @@
         },
         "image_h9L7gC": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/7cbe0290-f4df-4b60-9caa-5594896bbed1.png",
             "alignment": "center",
@@ -642,6 +643,7 @@
     },
     "featured_collection_M44CEG": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [
