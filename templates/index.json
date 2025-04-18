@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_Ordi.png",
-        "mobile_image": "shopify://shop_images/tel.png",
+        "image": "shopify://shop_images/En-tete.png",
+        "mobile_image": "shopify://shop_images/En-tete_1300_x_1500_px.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -115,8 +115,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices_b9d8c69f-43dc-4566-905d-77c6c4b8ba85.png",
-        "mobile_image": "shopify://shop_images/Benefices_b9d8c69f-43dc-4566-905d-77c6c4b8ba85.png",
+        "image": "shopify://shop_images/En-tete_1.png",
+        "mobile_image": "shopify://shop_images/En-tete_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -144,30 +144,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_whpQqg": {
-      "type": "video",
-      "blocks": {
-        "play_Hz8MGt": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_Hz8MGt"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/snaptik_7413853099124624673.mp4",
-        "mobile_video": "shopify://files/videos/snaptik_7413853099124624673.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -681,7 +657,6 @@
         "video_zj3D6a",
         "video_ML4gTy"
       ],
-      "name": "SS - Product videos #4",
       "settings": {
         "videos_position": "below_buy",
         "heading": "",
@@ -1008,7 +983,6 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_iG6MLz",
-    "video_whpQqg",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
