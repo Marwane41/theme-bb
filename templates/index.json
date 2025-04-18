@@ -794,15 +794,15 @@
     "rich_text_i3Q3nr": {
       "type": "rich-text",
       "blocks": {
-        "subheading_4tKfXD": {
-          "type": "subheading",
+        "liquid_N3xdrp": {
+          "type": "liquid",
           "settings": {
-            "text": ""
+            "liquid": ""
           }
         }
       },
       "block_order": [
-        "subheading_4tKfXD"
+        "liquid_N3xdrp"
       ],
       "settings": {
         "full_width": true,
