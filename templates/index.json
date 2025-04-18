@@ -778,6 +778,13 @@
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
+        "item_aRggqx": {
+          "type": "item",
+          "settings": {
+            "title": "Que contient le kit Norkka ?",
+            "content": "<p>2 disques menstruels réutilisables (tailles Regular et Small)</p><p>1 étui de rangement offert</p>"
+          }
+        },
         "item_qfyPPE": {
           "type": "item",
           "settings": {
@@ -795,100 +802,69 @@
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la taille et le poids du matelas de randonnée une fois déplié ?",
-            "content": "<p><strong>Poids : </strong>800 g<br/><strong>Dimensions plié : </strong>30 x 10 cm<br/><strong>Dimensions déplié : </strong>200 x 70 cm</p>"
+            "title": "Qu’est-ce qu’un disque menstruel et comment fonctionne-t-il ?",
+            "content": "<p>Le disque menstruel est une protection périodique interne qui s’insère dans le vagin pour recueillir le flux menstruel. Contrairement aux tampons ou aux coupes menstruelles, il se place plus haut dans le vagin, juste sous le col de l’utérus, et repose contre l’os pubien. Il offre une protection discrète et confortable pendant plusieurs heures.<br/><br/></p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Comment gonfler le matelas ?",
-            "content": "<p>Le matelas de couchage autogonflant peut être gonflé rapidement car il est équipé d'une <strong>pompe à air intégrée</strong> .<br/>Cette pompe innovante permet <strong>de gonfler entièrement le tapis en seulement 30 secondes.</strong></p>"
-          }
-        },
-        "item_mrg8b4": {
-          "type": "item",
-          "settings": {
-            "title": "Le matelas est-il confortable pour dormir sur des surfaces dures ?",
-            "content": "<p>Oui, ce matelas est conçu pour offrir un confort optimal même sur des surfaces dures grâce à sa construction de qualité et son design alvéolé qui répartit la pression et procure un soutien adapté à votre corps.</p>"
+            "title": "Combien de temps puis-je porter le disque Norkka ?",
+            "content": "<p>Le disque menstruel Norkka peut être porté jusqu’à 12 heures d’affilée, selon l’abondance de votre flux. Cependant, il est recommandé de ne pas dépasser cette durée pour des raisons d’hygiène et de confort.<br/><br/></p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que le matelas est résistant à l'eau ?",
-            "content": "<p>Oui, le matelas est conçu avec une surface résistante à l'eau, ce qui le rend idéal pour le camping ou les randonnées en extérieur. Il vous permet de dormir confortablement même près d'une source d'eau sans vous soucier de l'humidité.</p>"
+            "title": "Comment nettoyer et entretenir le disque ?",
+            "content": "<p>Après chaque utilisation, rincez le disque à l’eau tiède et au savon doux.</p><p><br/><br/></p><p><br/></p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Peut-on l'utiliser comme matelas pneumatique dans l'eau ?",
-            "content": "<p>Oui, grâce à sa conception étanche, le matelas peut être utilisé comme un matelas pneumatique sur l'eau pour se détendre et flotter au calme.</p>"
+            "title": "Le disque est-il réutilisable ?",
+            "content": "<p>Oui, le disque menstruel Norkka est réutilisable. Avec un entretien approprié, il peut durer plusieurs années, offrant une alternative économique et écologique aux protections jetables.<br/><br/></p>"
           }
         },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que le matelas convient aux températures froides ?",
-            "content": "<p>Le matelas est conçu pour isoler du froid du sol, mais si vous prévoyez de l'utiliser par temps très froid, il peut être utile d'ajouter une couverture de survie ou un matelas supplémentaire pour améliorer l'isolation thermique</p>"
+            "title": "Est-il compatible avec un stérilet (DIU) ?",
+            "content": "<p>Le disque menstruel Norkka est généralement compatible avec le port d’un dispositif intra-utérin (DIU). Cependant, il est recommandé de consulter votre professionnel de santé pour confirmer cette compatibilité en fonction de votre situation personnelle.​<br/><br/></p>"
           }
         },
         "item_yq83q3": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que le matelas est garanti ?",
-            "content": "<p>Oui, nous offrons une garantie de 1 an pour ce produit. Si vous rencontrez des problèmes avec le matelas pendant cette période, contactez notre service client pour obtenir une solution.</p>"
+            "title": "Peut-on avoir des rapports sexuels avec le disque en place ?",
+            "content": "<p>Oui, le disque menstruel Norkka peut être porté pendant les rapports sexuels. Sa position haute dans le vagin le rend discret et confortable pour les deux partenaires.​<br/><br/></p>"
           }
         },
         "item_FfnTaL": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la différence avec les produits concurrents ?",
-            "content": "<p>La principale différence entre le matelas de couchage autogonflant et ses concurrents est sa pompe à air intégrée innovante, qui permet un <strong>gonflage rapide en seulement 30 secondes</strong> .<br/><br/>De plus, le tapis est particulièrement confortable avec une épaisseur de 10 cm et un design ergonomique. Son <strong>faible poids de 800 g et sa taille compacte pliée de 30 x 12 cm</strong> le rendent idéal pour un transport facile.<br/><br/>La possibilité <strong>de connecter plusieurs tapis à l'aide de boutons-pression</strong> offre une flexibilité et une commodité supplémentaires par rapport aux autres produits.</p>"
-          }
-        },
-        "item_aRggqx": {
-          "type": "item",
-          "settings": {
-            "title": "Comment fonctionne la lampe frontale ?",
-            "content": "<p>La lampe frontale fonctionne en appuyant simplement sur le bouton d'alimentation situé sur le côté du boîtier. Vous pouvez choisir parmi plusieurs niveaux d'intensité lumineuse en appuyant sur le bouton pour ajuster la luminosité selon vos besoins.</p>"
-          }
-        },
-        "item_hqEbRe": {
-          "type": "item",
-          "settings": {
-            "title": "La lampe est-elle rechargeable ?",
-            "content": "<p>Oui, cette lampe frontale est équipée d'une batterie rechargeable. Il vous suffit de la brancher via un câble USB (fourni avec le produit) pour la recharger facilement.</p>"
-          }
-        },
-        "item_r6Mybm": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps la batterie dure-t-elle ?",
-            "content": "<p>La durée de la batterie dépend du niveau d’intensité lumineux choisi. En mode faible, la batterie peut durer jusqu'à 10 heures, tandis qu'en mode fort, elle peut durer environ 4 à 5 heures.</p>"
+            "title": "En quoi est-il plus écologique que les tampons ?",
+            "content": "<p>Le disque menstruel Norkka est réutilisable, ce qui réduit considérablement les déchets liés aux protections périodiques jetables. De plus, il est fabriqué en silicone médical, une matière durable et respectueuse de l’environnement.<br/><br/></p>"
           }
         }
       },
       "block_order": [
+        "item_aRggqx",
         "item_qfyPPE",
         "item_yDiwY9",
         "item_8yPykD",
         "item_Qt9h7g",
-        "item_mrg8b4",
         "item_K9EhFR",
         "item_XY77ii",
         "item_P6yRzh",
         "item_yq83q3",
-        "item_FfnTaL",
-        "item_aRggqx",
-        "item_hqEbRe",
-        "item_r6Mybm"
+        "item_FfnTaL"
       ],
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
+        "title": "FAQ 🌸",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "Notre service client est disponbile 7J/7",
@@ -896,7 +872,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
