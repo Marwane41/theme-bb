@@ -130,7 +130,7 @@
         "richtext_FmJULR": {
           "type": "richtext",
           "settings": {
-            "content": "<h4>Partez à la <strong>découverte</strong> de <strong>paysages</strong> grandioses, vivez la<strong> liberté</strong>, le <strong>dépassement</strong> de <strong>soi</strong> et la <strong>magie</strong> de chaque <strong>pas</strong>.<br/><br/></h4>"
+            "content": "<h2><strong>Libre</strong>, <strong>sereine</strong>, <strong>protégée</strong> : vos<strong> règles</strong> sans <strong>compromis</strong> ni <strong>stress</strong></h2><h4><br/><br/></h4>"
           }
         }
       },
@@ -144,6 +144,22 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_MBHGKq": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gif_Insertion.webp",
+        "mobile_image": "shopify://shop_images/Gif_Insertion.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -285,11 +301,11 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_31060ad6-44d2-4ea3-9bc7-df01757bcb6f.png",
+            "image": "shopify://shop_images/Manon_Fuite.png",
             "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Merci beaucoup pour cette découverte, ça a changé mes étés pour la plage. Ça se gonfle en 2 secondes avec la pompe intégré et ça se plie aussi rapidement ! </p><p><strong>Lucas F.</strong></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -298,11 +314,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_ca3b3eec-2734-44b9-8e37-36c1ef69ce5e.png",
+            "image": "shopify://shop_images/Retour_experience.png",
             "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>J'ai utilisé ce matelas lors de mes dernières aventures et il a dépassé mes attentes. Je le recommande sans hésiter.</p><p><strong>Stéphanie B.</strong></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -311,11 +327,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_181957dd-5d75-43f0-a3f9-1fc2cab1cf23.png",
+            "image": "shopify://shop_images/Avis_Amelie_-_Liberte.png",
             "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>J'ai utilisé ce matelas lors de ma dernière aventure en montagne et il a vraiment surpassé mes attentes. Il est super léger et facile à gonfler. La nuit, je n'ai même pas ressenti le froid ni les irrégularités du sol, un véritable confort. Je le recommande à 100%!</p><p><strong>Marine E.</strong></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -324,11 +340,11 @@
         "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_38ba2158-4008-4dd4-a998-eab6ccfced0f.png",
+            "image": "shopify://shop_images/Utilisation.png",
             "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Ce matelas est génial ! Il se range facilement dans mon sac à dos, et il offre un confort incroyable même après une longue journée de marche. Il isole parfaitement du sol froid. Je l'utilise maintenant pour toutes mes sorties en plein air.</p><p><strong>Marc T.</strong></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,24 +353,11 @@
         "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_967ec173-e97c-4105-ad63-21864c2bc560.png",
+            "image": "shopify://shop_images/Avis_-_alternative_tampon_-_avis.png",
             "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Ce matelas est fantastique ! Il est extrêmement facile à gonfler et à dégonfler, et il ne prend pas de place dans le sac. Très confortable pour dormir, je ne suis plus gêné par les cailloux ou l'humidité du sol. Parfait pour le camping ou les randonnées.</p><p><strong>Serge V.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jXPkyH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6_d8fe1fdb-a2a6-4097-85dc-3495760e60f0.png",
-            "column_size": "3",
-            "title": "⭐️⭐️⭐️⭐️⭐️",
-            "heading_tag": "h4",
-            "content": "<p>Ce matelas a transformé mes nuits en plein air ! Non seulement il est confortable, mais il est aussi léger et compact. Je l'ai utilisé lors de ma dernière excursion et je n'ai pas ressenti le moindre inconfort, même après une journée fatigante de randonnée. Un excellent investissement !</p><p><strong>Tina M.</strong></p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -366,8 +369,7 @@
         "item_JJLm4U",
         "item_GECyWQ",
         "item_MwJML3",
-        "item_p6MkDp",
-        "item_jXPkyH"
+        "item_p6MkDp"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -531,7 +533,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "matelas-randonnee",
+        "product": "menstruationsscheibe",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -983,6 +985,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_iG6MLz",
+    "image_with_text_overlay_MBHGKq",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
