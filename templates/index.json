@@ -556,7 +556,7 @@
           "type": "tab",
           "settings": {
             "title": "Les kits Norkka",
-            "content": "<ul><li><strong>Matelas Gonflable Norkka</strong><br/><br/>Confort thermique optimisé grâce à une structure alvéolée isolante.<br/>Système de gonflage rapide : prêt en moins de 30 secondes.<br/>Format compact et poids plume : moins de 500g.<br/>Résistance à l’humidité et aux terrains accidentés.<br/>Dimensions : 190 x 58 cm | Épaisseur : 6 cm.</li></ul><p></p><ul><li><strong>Lampe Frontale Haute Puissance — Offerte avec le kit 🎁</strong><br/><br/>Autonomie longue durée : jusqu’à 10 heures d’utilisation.<br/>Mode clignotant de sécurité intégré.<br/>Résistance à la pluie (norme IPX4).<br/>Conception ultra légère : seulement 80g.</li></ul><p>Ce kit a été conçu pour répondre aux besoins des randonneurs exigeants : confort, performance, résistance aux éléments, et gain de place. Le tout dans un format optimisé pour vous accompagner partout.</p>",
+            "content": "<ul><li> <strong>2 disques menstruels réutilisables</strong></li></ul><p><br/>1 Regular (flux abondants, cervix moyen/haut)<br/> 1 Small (flux modérés, cervix bas ou mobile)</p><p><strong>🎁 1 étui de rangement premium offert</strong><br/><br/>Discret, hygiénique et élégant<br/>Idéal pour les déplacements ou le rangement à la maison</p><p>🩷 En choisissant Norkka, vous êtes <strong>libre, protégée et sereine</strong> pendant vos règles — <strong>sans compromis</strong> sur le confort ni l’environnement.</p>",
             "page": ""
           }
         },
@@ -603,22 +603,6 @@
         "text_color": "#1a1a1a",
         "heading_color": "#1a1a1a",
         "heading_gradient": ""
-      }
-    },
-    "image_with_text_overlay_cx8fje": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image_famille_benefices.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_12_avr._2025_22_24_23.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "insta_VdL4QF": {
@@ -990,7 +974,6 @@
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
-    "image_with_text_overlay_cx8fje",
     "insta_VdL4QF",
     "featured_collection_M44CEG",
     "faq_MQHPPV",
