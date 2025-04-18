@@ -473,7 +473,7 @@
         "image_erWynm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copie_de_Copie_de_OFFRE_RESIZE.png",
+            "image": "shopify://shop_images/Copie_de_Copie_de_OFFRE_RESIZE_1.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -535,7 +535,7 @@
         "full_width": false,
         "product": "menstruationsscheibe",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
