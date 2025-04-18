@@ -791,6 +791,28 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_i3Q3nr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4tKfXD": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4tKfXD"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
@@ -890,7 +912,7 @@
         "text_position": "center",
         "background": "#e9427d",
         "background_gradient": "",
-        "text_color": "#1a1a1a",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
@@ -970,6 +992,7 @@
     "insta_VdL4QF",
     "featured_collection_M44CEG",
     "image_with_text_overlay_gngpkQ",
+    "rich_text_i3Q3nr",
     "faq_MQHPPV",
     "image_with_text_overlay_BKcBPc",
     "17359565654f612dcd",
