@@ -448,6 +448,7 @@
         },
         "liquid_EnrynQ": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div id='ss-product-video-4'></div>"
           }
