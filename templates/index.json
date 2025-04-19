@@ -618,21 +618,14 @@
         "video_RaNMrN": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/snaptik_7415277577356561696.mp4",
+            "video": "shopify://files/videos/créasangculotte.mp4",
             "title": ""
           }
         },
         "video_zj3D6a": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/snaptik_7470848661086342422.mp4",
-            "title": ""
-          }
-        },
-        "video_ML4gTy": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/snaptik_7436874881150651680.mp4",
+            "video": "shopify://files/videos/0419.mp4",
             "title": ""
           }
         }
@@ -640,8 +633,7 @@
       "block_order": [
         "video_L9C4bP",
         "video_RaNMrN",
-        "video_zj3D6a",
-        "video_ML4gTy"
+        "video_zj3D6a"
       ],
       "settings": {
         "videos_position": "below_buy",
