@@ -340,10 +340,11 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1744390308__1744390303910-designsanstitreee__original_1.webp",
             "column_size": "3",
-            "title": "Laura",
+            "title": "Charlotte",
             "heading_tag": "h4",
-            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "content": "<p>\"J'étais sceptique au début, difficile de croire qu’un simple patch pouvait faire une différence. Mais à la troisième semaine ? J’ai clairement remarqué que mes pulls tombaient différemment.Fini les soutiens-gorge rembourrés ou les angles stratégiques pour les photos !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -352,10 +353,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_8.webp",
             "column_size": "3",
-            "title": "Marie",
+            "title": "Manon",
             "heading_tag": "h4",
-            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
+            "content": "<p><strong>\"Je pensais aux implants depuis longtemps, mais les risques me freinaient toujours.</strong><br/><strong>GetSimm’a permis de tester un effet plus volumineux sans passer par la case bistouri — aucun regret.</strong><br/><br/>Le plus drôle ? J’ai complètement laissé tomber l’idée de la chirurgie.<br/><br/><strong>Ça fait très bien le job.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -364,82 +366,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_12.webp",
             "column_size": "3",
-            "title": "Agathe",
+            "title": "Kamélia",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MwJML3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Mélanie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_p6MkDp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sylvie",
-            "heading_tag": "h4",
-            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4yzaE8": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Brigitte",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EwNkYx": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Estelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yViHK3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Tiphaine",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JUW7xR": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Christelle",
-            "heading_tag": "h4",
-            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
+            "content": "<p><strong>Après mon deuxième bébé, les kilos sont restés et j’avais du mal à me reconnaître.</strong><br/><br/>Un jour, je suis tombée sur une vieille photo d’avant la grossesse – ce n’était pas juste mon reflet qui avait changé, mais aussi cette étincelle de confiance.<br/><br/><strong>Je ne cherchais pas de miracle, mais quelle surprise : BustPlump m’a redonné ce petit “lift” – dans tous les sens du terme.</strong><br/><br/>J’ai toujours mes courbes de maman, certes, mais maintenant, elles me ressemblent à nouveau.<br/><br/><strong>Comme si j’avais récupéré une partie de moi.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -449,13 +380,7 @@
       "block_order": [
         "item_7BdeiK",
         "item_JJLm4U",
-        "item_GECyWQ",
-        "item_MwJML3",
-        "item_p6MkDp",
-        "item_4yzaE8",
-        "item_EwNkYx",
-        "item_yViHK3",
-        "item_JUW7xR"
+        "item_GECyWQ"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
