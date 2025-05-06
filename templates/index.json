@@ -616,6 +616,20 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kaching_bundles_app_block_x9H6jD": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "image_xhkbeX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/derniere_chance_creme.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -650,6 +664,8 @@
         "description",
         "variant-picker",
         "quantity-selector",
+        "kaching_bundles_app_block_x9H6jD",
+        "image_xhkbeX",
         "buy-buttons",
         "image_NnVtjL"
       ],
@@ -664,7 +680,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -838,6 +854,32 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_GgqKXA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YwzJ3A": {
+          "type": "heading",
+          "settings": {
+            "text": "Redessinez votre poitrine en 3 étapes",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YwzJ3A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "how_to_use_sambal_x8CkJT": {
@@ -1016,6 +1058,7 @@
     "media_with_text_Aq4eWQ",
     "multi_column_wTJTNc",
     "image_with_text_overlay_qKCr8Q",
+    "rich_text_GgqKXA",
     "how_to_use_sambal_x8CkJT",
     "rich_text_JEkECK",
     "faq_MQHPPV",
