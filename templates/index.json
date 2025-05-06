@@ -110,7 +110,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
+            "text": "Pourquoi choisir les patchs Lunara ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -224,32 +224,32 @@
         "buttons_size": 32,
         "buttons_size_mobile": 36,
         "buttons_border_thickness": 0,
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_bg_gradient": "",
-        "card_border_color": "#F95E45",
+        "card_border_color": "#f95e45",
         "video_overlay_color": "#000000",
-        "card_animation_color": "#F95E45",
-        "play_button_color": "#FFFFFF",
+        "card_animation_color": "#f95e45",
+        "play_button_color": "#ffffff",
         "title_color": "#000000",
-        "arrow_color": "#FFFFFF",
-        "arrow_hover_color": "#FFFFFF",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#ffffff",
         "arrow_bg_color": "#000000",
         "arrow_bg_hover_color": "#555555",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#555555",
         "dots_color": "#000000",
         "modal_overlay_color": "#242424",
-        "modal_bg_color": "#FFFFFF",
+        "modal_bg_color": "#ffffff",
         "modal_border_color": "#000000",
         "modal_video_border_color": "#000000",
-        "action_icon_color": "#FFFFFF",
+        "action_icon_color": "#ffffff",
         "action_bg_color": "#000000",
         "action_border_color": "#000000",
         "buttons_icon_color": "#000000",
-        "buttons_bg_color": "#FFFFFF",
+        "buttons_bg_color": "#ffffff",
         "buttons_border_color": "#000000",
         "heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -289,8 +289,8 @@
         "heading_gcwVkK": {
           "type": "heading",
           "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
+            "text": "Une poitrine ferme et naturellement redessinée en 3 semaines",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -587,9 +587,11 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
+        "liquid_CLcnkK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>ÉLU INNOVATION BEAUTÉ 2025</span>\n  <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 0px; vertical-align: middle;\">\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #e0e0e0; /* Gris clair */\n    color: #000000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px;\n    border-radius: 20px;\n    width: 300px;\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: bold;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n</style>"
+          }
         },
         "description": {
           "type": "description",
@@ -643,7 +645,7 @@
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
-        "separator",
+        "liquid_CLcnkK",
         "description",
         "variant-picker",
         "quantity-selector",
