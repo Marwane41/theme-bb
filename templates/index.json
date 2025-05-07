@@ -694,7 +694,7 @@
           "type": "tab",
           "settings": {
             "title": "Contenu du Kit Lunara",
-            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de <strong>4 patchs par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 16 patchs(4patchs/semaines)</li><li><strong>Cure de 2 mois</strong> : 32 patchs (4patchs/semaines)</li><li><strong>Cure de 3 mois</strong> : 48 patchs (4patchs/semaines)</li></ul>",
+            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de <strong>4 patchs par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 16 patchs(4patchs/semaines)</li><li><strong>Cure de 3 mois</strong> : 32+16 patchs offerts  (4patchs/semaines)</li></ul>",
             "page": ""
           }
         },
@@ -718,7 +718,7 @@
           "type": "tab",
           "settings": {
             "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@luunaara.com</p>",
             "page": ""
           }
         }
