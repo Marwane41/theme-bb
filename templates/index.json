@@ -556,6 +556,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -591,6 +592,12 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"loved-by-customers\">\n  <span>ÉLU INNOVATION BEAUTÉ 2025</span>\n  <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 0px; vertical-align: middle;\">\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #e0e0e0; /* Gris clair */\n    color: #000000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px;\n    border-radius: 20px;\n    width: 300px;\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: bold;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n</style>"
+          }
+        },
+        "liquid_8pdhdY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-video-4'></div>"
           }
         },
         "description": {
@@ -661,6 +668,7 @@
         "image_h9L7gC",
         "rating",
         "liquid_CLcnkK",
+        "liquid_8pdhdY",
         "description",
         "variant-picker",
         "quantity-selector",
