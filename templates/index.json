@@ -764,23 +764,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_Dwj4ek": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "media_with_text_Aq4eWQ": {
       "type": "media-with-text",
       "blocks": {
@@ -794,7 +777,7 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "AUCUN RISUQE POUR LA SANTÉ",
+            "title": "AUCUN RISQUE POUR LA SANTÉ",
             "content": "<p><strong>Les patchs</strong> mammaires <strong>Lunara</strong> sont conçus dans le respect des <strong>normes européennes</strong> strictes, avec une sélection rigoureuse <strong>d’ingrédients naturels </strong>et <strong>contrôlés</strong>. Inspirés des standards de<strong> qualité</strong> <strong>scandinaves</strong>, nos <strong>formulations privilégient</strong> la <strong>sécurité</strong>, <strong>l’efficacité </strong>et la <strong>transparence</strong>. Chaque patch est testé<strong> cliniquement </strong>et s<strong>oumis</strong> à des <strong>contrôles </strong>de<strong> qualité exigeants</strong>, garantissant une solution sûre et adaptée à une utilisation régulière.</p>",
             "link_text": "",
             "link_url": "",
@@ -815,6 +798,23 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "image_with_text_overlay_Dwj4ek": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "custom_liquid_hb36W4": {
