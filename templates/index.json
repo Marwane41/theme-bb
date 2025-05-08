@@ -277,45 +277,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Une poitrine ferme et naturellement redessinée en 3 semaines",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_Jppnp4": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -800,6 +761,36 @@
         "spacing": "small"
       }
     },
+    "press_cEbJ4W": {
+      "type": "press",
+      "blocks": {
+        "quote_WKcLJx": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "\"Une cure bluffante : poitrine galbée en trois mois.\"",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_WKcLJx"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image_with_text_overlay_Dwj4ek": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -1086,7 +1077,6 @@
     "rich_text_c9UmPD",
     "storiesinsta_WY4MLc",
     "image_with_text_overlay_pjaxby",
-    "rich_text_QXqMJ7",
     "image_with_text_overlay_Jppnp4",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
@@ -1094,6 +1084,7 @@
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
     "media_with_text_Aq4eWQ",
+    "press_cEbJ4W",
     "image_with_text_overlay_Dwj4ek",
     "custom_liquid_hb36W4",
     "multi_column_wTJTNc",
