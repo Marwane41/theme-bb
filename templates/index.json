@@ -277,6 +277,36 @@
         "overlay_opacity": 0
       }
     },
+    "press_cEbJ4W": {
+      "type": "press",
+      "blocks": {
+        "quote_WKcLJx": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "\"Une cure bluffante : poitrine galbée en quelques jours.\"",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_WKcLJx"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image_with_text_overlay_Jppnp4": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -761,34 +791,66 @@
         "spacing": "small"
       }
     },
-    "press_cEbJ4W": {
-      "type": "press",
+    "impact_text_iGPqLN": {
+      "type": "impact-text",
       "blocks": {
-        "quote_WKcLJx": {
-          "type": "quote",
+        "item_L6N4BC": {
+          "type": "item",
           "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "\"Une cure bluffante : poitrine galbée en trois mois.\"",
-            "show_rating": true,
-            "rating": 5
+            "title": "93%",
+            "subheading": "des clientes affirment se sentir plus confiantes",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_Bjfjb8": {
+          "type": "item",
+          "settings": {
+            "title": "89%",
+            "subheading": "ressentent une poitrine plus ferme et galbée",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_JRp99V": {
+          "type": "item",
+          "settings": {
+            "title": "76%",
+            "subheading": "des clientes déclarent une amélioration visible du volume après 1 mois",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "quote_WKcLJx"
+        "item_L6N4BC",
+        "item_Bjfjb8",
+        "item_JRp99V"
       ],
-      "name": "Press",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "line",
+        "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "heading_text_color": "#051832",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image_with_text_overlay_Dwj4ek": {
@@ -1077,6 +1139,7 @@
     "rich_text_c9UmPD",
     "storiesinsta_WY4MLc",
     "image_with_text_overlay_pjaxby",
+    "press_cEbJ4W",
     "image_with_text_overlay_Jppnp4",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
@@ -1084,7 +1147,7 @@
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
     "media_with_text_Aq4eWQ",
-    "press_cEbJ4W",
+    "impact_text_iGPqLN",
     "image_with_text_overlay_Dwj4ek",
     "custom_liquid_hb36W4",
     "multi_column_wTJTNc",
