@@ -285,7 +285,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "\"Une cure bluffante : poitrine galbée en quelques jours.\"",
+            "content": "\"Une cure bluffante : poitrine harmonieuse en quelques jours.\"",
             "show_rating": true,
             "rating": 5
           }
@@ -491,7 +491,7 @@
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_12.webp",
             "column_size": "3",
-            "title": "Kamélia",
+            "title": "Vanessa",
             "heading_tag": "h4",
             "content": "<p>\"Après mon deuxième bébé, les kilos sont restés et j’avais du mal à me reconnaître.<br/>Un jour, je suis tombée sur une vieille photo d’avant la grossesse, ce n’était pas juste mon reflet qui avait changé, mais aussi cette étincelle de confiance.<br/>Je ne cherchais pas de miracle, mais quelle surprise : Lunara m’a redonné ce petit “lift” – dans tous les sens du terme..\"</p>",
             "link_url": "",
@@ -791,6 +791,23 @@
         "spacing": "small"
       }
     },
+    "image_with_text_overlay_Dwj4ek": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
+        "mobile_image": "shopify://shop_images/NORMES.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "impact_text_iGPqLN": {
       "type": "impact-text",
       "blocks": {
@@ -851,23 +868,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_Dwj4ek": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
-        "mobile_image": "shopify://shop_images/NORMES.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "custom_liquid_hb36W4": {
@@ -1144,6 +1144,9 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
+    "rich_text_JEkECK",
+    "rich_text_GgqKXA",
+    "how_to_use_sambal_x8CkJT",
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
     "media_with_text_Aq4eWQ",
@@ -1152,9 +1155,6 @@
     "custom_liquid_hb36W4",
     "multi_column_wTJTNc",
     "image_with_text_overlay_qKCr8Q",
-    "rich_text_GgqKXA",
-    "how_to_use_sambal_x8CkJT",
-    "rich_text_JEkECK",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
