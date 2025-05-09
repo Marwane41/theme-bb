@@ -686,6 +686,88 @@
         "input_text_color": ""
       }
     },
+    "rich_text_JEkECK": {
+      "type": "rich-text",
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_GgqKXA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YwzJ3A": {
+          "type": "heading",
+          "settings": {
+            "text": "Redessinez votre poitrine en 3 étapes",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YwzJ3A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "how_to_use_sambal_x8CkJT": {
+      "type": "how-to-use-sambal",
+      "blocks": {
+        "step_j3rHgC": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/GIF_2.gif",
+            "video": "",
+            "title": "RECEVEZ VOTRE PATCH",
+            "description": "",
+            "alignment": "left"
+          }
+        },
+        "step_WXXExX": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/GIF_3.gif",
+            "video": "",
+            "title": "APPLIQUEZ LE PATCH À VOTRE POITRINE",
+            "description": "",
+            "alignment": "left"
+          }
+        },
+        "step_PPmNwe": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/GIF_7.gif",
+            "video": "",
+            "title": "REGAGNEZ CONFIANC EN VOUS !",
+            "description": "",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_j3rHgC",
+        "step_WXXExX",
+        "step_PPmNwe"
+      ],
+      "name": "How to Use",
+      "settings": {}
+    },
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
@@ -693,7 +775,7 @@
           "type": "tab",
           "settings": {
             "title": "Contenu du Kit Lunara",
-            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de <strong>4 patchs par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 16 patchs(4patchs/semaines)</li><li><strong>Cure de 3 mois</strong> : 32+16 patchs offerts  (4patchs/semaines)</li></ul>",
+            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de 1 <strong>patch par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 4 patchs(1 patch/semaine)</li><li><strong>Cure de 3 mois</strong> : 8+4 patchs offerts  </li></ul>",
             "page": ""
           }
         },
@@ -945,88 +1027,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "rich_text_GgqKXA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_YwzJ3A": {
-          "type": "heading",
-          "settings": {
-            "text": "Redessinez votre poitrine en 3 étapes",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_YwzJ3A"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "how_to_use_sambal_x8CkJT": {
-      "type": "how-to-use-sambal",
-      "blocks": {
-        "step_j3rHgC": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/GIF_2.gif",
-            "video": "",
-            "title": "RECEVEZ VOTRE PATCH",
-            "description": "",
-            "alignment": "left"
-          }
-        },
-        "step_WXXExX": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/GIF_3.gif",
-            "video": "",
-            "title": "APPLIQUEZ LE PATCH À VOTRE POITRINE",
-            "description": "",
-            "alignment": "left"
-          }
-        },
-        "step_PPmNwe": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/GIF_7.gif",
-            "video": "",
-            "title": "REGAGNEZ CONFIANC EN VOUS !",
-            "description": "",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_j3rHgC",
-        "step_WXXExX",
-        "step_PPmNwe"
-      ],
-      "name": "How to Use",
-      "settings": {}
-    },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq_MQHPPV": {
