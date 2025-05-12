@@ -585,6 +585,12 @@
             "liquid": "<div class=\"loved-by-customers\">\n  <span>ÉLU INNOVATION BEAUTÉ 2025</span>\n  <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 0px; vertical-align: middle;\">\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #e0e0e0; /* Gris clair */\n    color: #000000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px;\n    border-radius: 20px;\n    width: 300px;\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: bold;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n</style>"
           }
         },
+        "liquid_tEnczJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Les patchs Lunara offrent une alternative naturelle et efficace à la chirurgie. Ils raffermissent la poitrine sans risque ni intervention invasive.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Médecin esthétique</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
+          }
+        },
         "liquid_8pdhdY": {
           "type": "liquid",
           "settings": {
@@ -659,6 +665,7 @@
         "image_h9L7gC",
         "rating",
         "liquid_CLcnkK",
+        "liquid_tEnczJ",
         "liquid_8pdhdY",
         "description",
         "variant-picker",
