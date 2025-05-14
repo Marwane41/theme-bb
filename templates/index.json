@@ -634,6 +634,7 @@
         "image_NnVtjL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/poitrine_badge.png",
             "alignment": "center",
             "max_width": 500
           }
