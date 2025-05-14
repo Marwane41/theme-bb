@@ -109,6 +109,7 @@
       "blocks": {
         "heading_JGUWbW": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Votre rituel, plus besoin de soins beauté inutiles",
             "heading_tag": "h3",
@@ -120,6 +121,7 @@
       "block_order": [
         "heading_JGUWbW"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -131,6 +133,7 @@
     },
     "video_yP66FG": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -431,13 +434,13 @@
         "buttons_border_thickness": 0,
         "card_bg_color": "#ffffff",
         "card_bg_gradient": "",
-        "card_border_color": "#F95E45",
+        "card_border_color": "#f95e45",
         "video_overlay_color": "#000000",
-        "card_animation_color": "#F95E45",
+        "card_animation_color": "#f95e45",
         "play_button_color": "#ffffff",
         "title_color": "#000000",
-        "arrow_color": "#FFFFFF",
-        "arrow_hover_color": "#FFFFFF",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#ffffff",
         "arrow_bg_color": "#000000",
         "arrow_bg_hover_color": "#555555",
         "arrow_border_color": "#000000",
@@ -447,14 +450,14 @@
         "modal_bg_color": "#ffffff",
         "modal_border_color": "#000000",
         "modal_video_border_color": "#000000",
-        "action_icon_color": "#FFFFFF",
+        "action_icon_color": "#ffffff",
         "action_bg_color": "#000000",
         "action_border_color": "#000000",
         "buttons_icon_color": "#000000",
-        "buttons_bg_color": "#FFFFFF",
+        "buttons_bg_color": "#ffffff",
         "buttons_border_color": "#000000",
         "heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -587,10 +590,6 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -613,6 +612,12 @@
         "quantity-selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "kaching_bundles_app_block_abLQp6": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
         },
         "liquid_wgdhgd": {
           "type": "liquid",
@@ -650,10 +655,10 @@
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
-        "separator",
         "description",
         "variant-picker",
         "quantity-selector",
+        "kaching_bundles_app_block_abLQp6",
         "liquid_wgdhgd",
         "buy-buttons",
         "image_NnVtjL"
