@@ -750,6 +750,70 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_UYQwzg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_qihqXB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/lauren_shower_1x1_7b72e17f-c81d-4d6f-88f4-66725a472c19.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Dites bonjour à une peau et des cheveux sublimés.",
+            "content": "<p>Si Norkka ne vous convainc pas pleinement, nous vous remboursons intégralement, sans aucune condition.</p>"
+          }
+        },
+        "item_9pXYj7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Justine_resized.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Adieu boutons, cheveux cassés… bonjour puissance et pureté.",
+            "content": "<p>Vous vouliez plus de pression ? On vous a écoutés.<br/><br/>Avec Norkka, profitez d’un jet 2,5x plus puissant pour une peau nette et des cheveux renforcés, même les plus épais.</p>"
+          }
+        },
+        "item_q67bza": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/boujee_bath_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "À votre peau… et à une eau vraiment pure.",
+            "content": "<p>Une eau si propre que vous pourriez presque la boire 😉<br/><br/>Heureusement, votre peau et vos cheveux en prof</p>"
+          }
+        },
+        "item_zHTQBK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/aya_champagne_resized.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vous méritez le luxe.",
+            "content": "<p>Norkka a été conçu pour celles et ceux qui savent apprécier les belles choses de la vie.</p><p>Mais Norkka ne se contente pas d’embellir votre salle de bain : c’est un véritable engagement pour la santé de votre peau, de vos cheveux, et votre bien-être au quotidien.</p><p>Avec Norkka, vous ne choisissez pas simplement un pommeau de douche.<br/><br/>Vous choisissez une version plus saine de vous-même.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qihqXB",
+        "item_9pXYj7",
+        "item_q67bza",
+        "item_zHTQBK"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
@@ -989,6 +1053,7 @@
     "featured-product",
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
+    "images_with_text_scrolling_UYQwzg",
     "multi_column_wTJTNc",
     "how_to_use_sambal_x8CkJT",
     "rich_text_JEkECK",
