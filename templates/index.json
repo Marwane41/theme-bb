@@ -752,25 +752,6 @@
     },
     "image_with_text_overlay_EwWgh9": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_rEiBnj": {
-          "type": "heading",
-          "settings": {
-            "text": "Avec Norkka, se mouiller devient un vrai plaisir.",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_k7tbda": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Le verre de gauche contient l’eau de douche classique, pleine de chlore et de métaux lourds.<br/><br/>Celui de droite ? Une eau pure, filtrée par Norkka, si propre qu’on pourrait la boire.</p><p>Ne laissez plus le chlore et l’eau calcaire abîmer votre peau et vos cheveux.</p><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rEiBnj",
-        "richtext_k7tbda"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -783,7 +764,40 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_qaeLiT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RaiczD": {
+          "type": "heading",
+          "settings": {
+            "text": "Avec Norkka, se mouiller devient un vrai plaisir.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_F9BFqw": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Le verre de <strong>gauche </strong>contient l’eau de douche classique, <strong>pleine de chlore </strong>et de <strong>métaux lourds</strong>.<br/><br/>Celui de droite ? Une <strong>eau pure</strong>, filtrée par <strong>Norkka</strong>, si propre qu’on pourrait la <strong>boire</strong>.</p><p>Ne laissez plus le <strong>chlore et l’eau et calcaire</strong> <strong>abîmer </strong>votre <strong>peau </strong>et vos <strong>cheveux</strong>.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RaiczD",
+        "richtext_F9BFqw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "images_with_text_scrolling_UYQwzg": {
@@ -1126,6 +1140,7 @@
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
     "image_with_text_overlay_EwWgh9",
+    "rich_text_qaeLiT",
     "images_with_text_scrolling_UYQwzg",
     "multi_column_wTJTNc",
     "impact_text_KLUBnL",
