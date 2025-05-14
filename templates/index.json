@@ -775,7 +775,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
+        "enable_parallax": true,
         "image_size": "auto",
         "image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
         "mobile_image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
