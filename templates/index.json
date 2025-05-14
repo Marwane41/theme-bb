@@ -888,6 +888,42 @@
         "text_color": ""
       }
     },
+    "impact_text_KLUBnL": {
+      "type": "impact-text",
+      "blocks": {
+        "item_fDfQ3N": {
+          "type": "item",
+          "settings": {
+            "title": "20",
+            "subheading": "Secondes d'installation pour 90 jours de routine capilaire et skincare parfaite !",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_fDfQ3N"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "how_to_use_sambal_x8CkJT": {
       "type": "how-to-use-sambal",
       "blocks": {
@@ -1055,6 +1091,7 @@
     "custom_html_ckLRAJ",
     "images_with_text_scrolling_UYQwzg",
     "multi_column_wTJTNc",
+    "impact_text_KLUBnL",
     "how_to_use_sambal_x8CkJT",
     "rich_text_JEkECK",
     "faq_MQHPPV",
