@@ -157,8 +157,8 @@
         "heading_gcwVkK": {
           "type": "heading",
           "settings": {
-            "text": "Un mode d'infusion innovant et indolore",
-            "heading_tag": "h3",
+            "text": "Parce que la beauté commence avec une eau pure",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -192,6 +192,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Image5.png",
+        "mobile_image": "shopify://shop_images/Image5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -338,6 +340,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_1.webp",
             "column_size": "3",
             "title": "Charlotte",
             "heading_tag": "h4",
@@ -350,10 +353,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_2.webp",
             "column_size": "3",
             "title": "Manon",
             "heading_tag": "h4",
-            "content": "<p>\"Je pensais aux implants depuis longtemps, mais les risques me freinaient toujours.<br/>Lunara m’a permis de tester un effet plus volumineux sans passer par la case bistouri, aucun regret.<br/>Le plus drôle ? J’ai complètement laissé tomber l’idée de la chirurgie.<br/>Ça fait très bien le job.\"</p>",
+            "content": "<p>\"J’avais peur que l’installation soit compliquée, mais c’était fait en 3 minutes ! Depuis, mon fils n’a plus la peau sèche après le bain. Et l’eau a une odeur plus fraîche, c’est surprenant.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -362,10 +366,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avis_3.webp",
             "column_size": "3",
             "title": "Kamélia",
             "heading_tag": "h4",
-            "content": "<p>\"Après mon deuxième bébé, les kilos sont restés et j’avais du mal à me reconnaître.<br/>Un jour, je suis tombée sur une vieille photo d’avant la grossesse, ce n’était pas juste mon reflet qui avait changé, mais aussi cette étincelle de confiance.<br/>Je ne cherchais pas de miracle, mais quelle surprise : Lunara m’a redonné ce petit “lift” – dans tous les sens du terme..\"</p>",
+            "content": "<p>\"Honnêtement, je trouvais ça un peu cher pour une pomme de douche… Mais entre les économies sur les produits capillaires et la sensation après chaque douche, l’investissement est largement rentabilisé.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -515,7 +520,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "bustup-patch-mammaire",
+        "product": "eskiin-filtered-showerhead",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -537,16 +542,16 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du Kit Lunara",
-            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de <strong>4 patchs par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 16 patchs(4patchs/semaines)</li><li><strong>Cure de 2 mois</strong> : 32 patchs (4patchs/semaines)</li><li><strong>Cure de 3 mois</strong> : 48 patchs (4patchs/semaines)</li></ul>",
+            "title": "Contenu du Kit Norkka",
+            "content": "<p><strong>🔹 1 pommeau de douche filtrant Norkka</strong><br/></p><p>Le filtre multicouche est directement installé dans le pommeau, prêt à l'emploi.<br/><br/>Il offre jusqu’à <strong>3 mois de filtration active</strong> pour une famille standard.<br/><br/>(La durée peut varier selon la qualité de l’eau dans votre région.)<br/></p><p>L’installation ne prend que <strong>2 à 3 minutes</strong> et ne nécessite aucun outil.<br/><br/>Le guide vous accompagne pas à pas pour une mise en place simple, accessible à tous, même sans expérience en plomberie.<br/></p>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Nouvelle formule innovante 🌿",
-            "content": "<p>Les patchs Lunara intègrent une combinaison d’actifs puissants et naturels pour garantir des résultats optimaux :</p><ul><li><strong>Procollagène III (Peptide)</strong> : Stimule la production naturelle de collagène pour une peau plus ferme et élastique.<br/><br/></li><li><strong>Fenugrec</strong> : Favorise l’accumulation des lipides dans les cellules graisseuses, contribuant au développement du tissu mammaire.<br/><br/></li><li><strong>Volufiline</strong> : Cible les adipocytes pour augmenter leur taille et leur densité, renforçant ainsi le volume du tissu graisseux.<br/><br/></li><li><strong>Commiphora Mukul (Guggul)</strong> : Active les adipocytes pour maximiser leur activité, procurant un effet liftant et tonifiant.<br/><br/></li><li><strong>Extrait de Grande Camomille</strong> : Aide à réduire les irritations et améliore le confort cutané.<br/><br/></li><li><strong>Huile de Cyprès</strong> : Tonifie la peau et stimule la microcirculation, renforçant l’élasticité des tissus.<br/><br/></li><li><strong>Extrait de Papaye</strong> : Lisse et illumine la peau tout en favorisant le renouvellement cellulaire.<br/><br/></li><li><strong>Extrait de racine de Kudzu</strong> : Antioxydant puissant qui protège et revitalise la peau.<br/><br/></li></ul><p><strong>Extrait d’Hamamélis</strong> : Tonifie et apaise la peau, offrant une texture douce et uniforme.</p>",
+            "title": "Éfficacité prouvée",
+            "content": "<p>Élimine jusqu'à 98,7 % du chlore, des métaux lourds et autres impuretés grâce à un système de filtration à 15 étapes, incluant du KDF-55, du sulfite de calcium et du charbon actif de coco </p>",
             "page": ""
           }
         },
@@ -562,7 +567,7 @@
           "type": "tab",
           "settings": {
             "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@norkka.com</p>",
             "page": ""
           }
         }
@@ -594,7 +599,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Les patchs Lunara offrent une alternative naturelle et efficace à la chirurgie. Ils raffermissent la poitrine sans risque ni intervention invasive.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Médecin esthétique</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
+        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Un geste simple que je recommande : ce filtre réduit les agressions de l’eau sur la peau et les cheveux sensibles.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Dermatologue </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -606,10 +611,11 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/coconut_activated_carbon_2.webp",
             "column_size": "3",
-            "title": "Collagène",
+            "title": "Charbon actif de noix de coco",
             "heading_tag": "h4",
-            "content": "<p><strong>Le collagène est la clé d’une poitrine ferme et tonique.</strong><br/><br/>Naturellement présent dans la peau, il lui donne sa souplesse et sa tenue. Avec l’âge ou après une grossesse, sa production diminue.<br/><br/>Nos patchs  stimulent le collagène pour raffermir, lisser et redonner du galbe à votre poitrine naturellement, sans chirurgie.</p>",
+            "content": "<p>Utilisé pour absorber les impuretés telles que le chlore, l'oxygène et le fluorure présents dans l'eau. Le charbon actif de noix de coco est reconnu pour sa capacité à améliorer la qualité de l'eau en éliminant les contaminants organiques et chimiques.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -618,10 +624,36 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/kdf-55.webp",
             "column_size": "3",
-            "title": "Le fenugrec",
+            "title": "KDF-55 (alliage de cuivre et de zinc)",
             "heading_tag": "h4",
-            "content": "<p><strong>Le fenugrec, un secret ancestral pour sublimer la poitrine.</strong><br/><br/>Riche en phytoœstrogènes naturels, il aide à stimuler le développement des tissus mammaires, favorisant un galbe plus rond et une peau plus tonique.<br/><br/>Utilisé régulièrement, il contribue à une poitrine visiblement plus ferme et féminine de façon 100 % naturelle.</p>",
+            "content": "<p>Réduit efficacement les métaux lourds tels que le plomb, le nickel, le mercure et le chrome. Ce composant empêche également la croissance des bactéries, des champignons, des algues et du tartre. </p><p><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gcQRWB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/calcium.webp",
+            "column_size": "3",
+            "title": "Sulfite de calcium",
+            "heading_tag": "h4",
+            "content": "<p>Élimine le chlore et les chloramines de l'eau de douche, laissant la peau hydratée et réduisant les irritations cutanées.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_igQPKV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Coton PP (polypropylène)",
+            "heading_tag": "h4",
+            "content": "<p>Absorbe la saleté, la poussière et d'autres substances nocives, laissant la peau plus lisse et les cheveux plus doux.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -630,7 +662,9 @@
       },
       "block_order": [
         "item_xiaYUR",
-        "item_QdbeiM"
+        "item_QdbeiM",
+        "item_gcQRWB",
+        "item_igQPKV"
       ],
       "settings": {
         "full_width": true,
@@ -638,7 +672,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ingrédients testés cliniquement",
+        "title": "Filtres testés cliniquement",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -651,8 +685,9 @@
         "step_j3rHgC": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/Step_1.webp",
             "video": "",
-            "title": "RECEVEZ VOTRE PATCH",
+            "title": "Retirez votre pommeau de douche",
             "description": "",
             "alignment": "left"
           }
@@ -660,17 +695,19 @@
         "step_WXXExX": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/Step_2.webp",
             "video": "",
-            "title": "APPLIQUEZ LE PATCH À VOTRE POITRINE",
+            "title": "Installez votre pommeau Norkka",
             "description": "",
             "alignment": "left"
           }
         },
-        "step_PPmNwe": {
+        "step_FgfeGt": {
           "type": "step",
           "settings": {
+            "image": "shopify://shop_images/stEP_3.webp",
             "video": "",
-            "title": "REGAGNEZ CONFIANC EN VOUS !",
+            "title": "Profitez de votre douche revitalisante",
             "description": "",
             "alignment": "left"
           }
@@ -679,7 +716,7 @@
       "block_order": [
         "step_j3rHgC",
         "step_WXXExX",
-        "step_PPmNwe"
+        "step_FgfeGt"
       ],
       "name": "How to Use",
       "settings": {}
@@ -704,57 +741,50 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionnent les patchs mammaires ?",
-            "content": "<p>Les patchs délivrent progressivement des actifs naturels à travers la peau pour raffermir, lisser et tonifier la poitrine. Ils agissent en stimulant la microcirculation et en favorisant la production de collagène et d’élastine.</p>"
+            "title": "Comment savoir si le pommeau Eskiin est compatible avec ma douche ?",
+            "content": "<p>Le pommeau Norkka est conçu pour s'adapter à la majorité des douches standards. Il se visse facilement sur les bras de douche de taille universelle, sans nécessiter d'adaptateur supplémentaire.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "À qui s’adressent ces patchs ?",
-            "content": "<p>Ils sont conçus pour toutes les femmes souhaitant améliorer l’aspect de leur poitrine de façon naturelle, sans recours à la chirurgie. Idéal après une perte de poids, une grossesse, ou simplement pour un soin préventif.</p>"
+            "title": "L'installation est-elle compliquée ?",
+            "content": "<p>Non, l'installation est simple et rapide. Le kit comprend tous les accessoires nécessaires, y compris une clé et du ruban de plombier. Un guide d'installation illustré est fourni, et une vidéo tutorielle est également disponible pour vous accompagner pas à pas.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que c’est vraiment efficace ?",
-            "content": "<p>Oui, des milliers d’utilisatrices rapportent une peau plus ferme, une poitrine plus galbée et un meilleur maintien dès 3 à 5 semaines d’utilisation régulière. Les résultats varient selon les morphologies et la régularité d’usage.</p>"
+            "title": "Quels résultats puis-je attendre ?",
+            "content": "<p>L'utilisation du pommeau Norkka peut améliorer la qualité de votre peau et de vos cheveux en réduisant les impuretés présentes dans l'eau. Les utilisateurs rapportent souvent une peau plus douce et des cheveux plus brillants après quelques semaines d'utilisation.</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que c’est sans danger ?",
-            "content": "<p>Oui. Les patchs sont formulés avec des ingrédients d’origine naturelle, sans parabènes, hormones ni ingrédients agressifs. Ils sont hypoallergéniques et testés dermatologiquement.</p>"
+            "title": "Quelle est la différence entre Eskiin et d'autres filtres ?",
+            "content": "<p>Norkka utilise une technologie de filtration avancée à 15 étapes, combinant des matériaux tels que le KDF-55, le sulfite de calcium et le charbon actif de noix de coco. Cette combinaison permet d'éliminer efficacement le chlore, les métaux lourds et d'autres impuretés de l'eau.</p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Combien de fois par semaine faut-il les utiliser ?",
-            "content": "<p>Il est recommandé de porter les patchs <strong>2 à 3 fois par semaine</strong>, pendant 3 heures (idéalement la nuit), pour des résultats optimaux.</p>"
+            "title": "À quelle fréquence dois-je remplacer le filtre ?",
+            "content": "<p>Il est recommandé de remplacer le filtre tous les 90 jours pour maintenir une performance optimale. </p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Peut-on les utiliser en allaitant ou enceinte ?",
-            "content": "<p>Non. L’utilisation est déconseillée pendant la grossesse ou l’allaitement par principe de précaution.</p>"
+            "title": "Quelle est votre politique de retour ?",
+            "content": "<p>Si vous n'êtes pas satisfait de votre achat, vous pouvez retourner le produit dans les 60 jours suivant la date d'achat pour un remboursement complet. Le produit doit être en bon état et dans son emballage d'origine. Les frais de retour sont à la charge du client.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Quand verrai-je les premiers résultats ?",
-            "content": "<p>Certaines utilisatrices remarquent un effet raffermissant dès la <strong>2ᵉ semaine</strong>, mais les résultats les plus visibles apparaissent généralement entre la <strong>3ᵉ et la 5ᵉ semaine</strong>.</p>"
-          }
-        },
-        "item_P6yRzh": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce compatible avec une crème ou une huile ?",
-            "content": "<p>Il est préférable de ne pas appliquer d’autres produits sur la poitrine avant d’utiliser les patchs, pour éviter de gêner l’adhérence ou l’absorption des actifs.</p>"
+            "title": "Comment puis-je vous contacter pour plus d'informations ?",
+            "content": "<p>Pour toute question ou assistance, vous pouvez nous contacter par e-mail à l'adresse suivante : contact@norkka.com</p>"
           }
         }
       },
@@ -765,8 +795,7 @@
         "item_Qt9h7g",
         "item_mrg8b4",
         "item_K9EhFR",
-        "item_XY77ii",
-        "item_P6yRzh"
+        "item_XY77ii"
       ],
       "settings": {
         "full_width": true,
