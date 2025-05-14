@@ -773,8 +773,8 @@
         "heading_RaiczD": {
           "type": "heading",
           "settings": {
-            "text": "Avec Norkka, se mouiller devient un vrai plaisir.",
-            "heading_tag": "h3",
+            "text": "Avec Norkka, se mouiller est un vrai plaisir",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
