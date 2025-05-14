@@ -750,6 +750,42 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_EwWgh9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_rEiBnj": {
+          "type": "heading",
+          "settings": {
+            "text": "Avec Norkka, se mouiller devient un vrai plaisir.",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_k7tbda": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Le verre de gauche contient l’eau de douche classique, pleine de chlore et de métaux lourds.<br/><br/>Celui de droite ? Une eau pure, filtrée par Norkka, si propre qu’on pourrait la boire.</p><p>Ne laissez plus le chlore et l’eau calcaire abîmer votre peau et vos cheveux.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rEiBnj",
+        "richtext_k7tbda"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
+        "mobile_image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "images_with_text_scrolling_UYQwzg": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -1089,6 +1125,7 @@
     "featured-product",
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
+    "image_with_text_overlay_EwWgh9",
     "images_with_text_scrolling_UYQwzg",
     "multi_column_wTJTNc",
     "impact_text_KLUBnL",
