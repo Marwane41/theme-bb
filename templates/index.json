@@ -15,8 +15,8 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Un rituel peau et cheveux pour rayonner naturellement.",
-            "heading_tag": "h3"
+            "text": "",
+            "heading_tag": "h1"
           }
         }
       },
@@ -28,11 +28,11 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Banniere_douche.png",
-        "mobile_image": "shopify://shop_images/En-tete_1300_x_1500_px_b4b2dc49-7b3e-4ac1-a25c-48085bd8d498.png",
+        "image": "shopify://shop_images/ChatGPT_Image_5_mai_2025_12_12_24.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_5_mai_2025_12_08_03.png",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#000000",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -43,7 +43,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_c099bfd9-39a0-426e-b71b-162fdf3f9e02.png",
+            "logo": "shopify://shop_images/3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +59,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_81de8eba-fc7a-4ebf-b2c4-c547168738c4.png",
+            "logo": "shopify://shop_images/2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +67,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_6d9331a3-b049-46d5-8433-aa97a63f0370.png",
+            "logo": "shopify://shop_images/1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -91,7 +91,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "On parle de nous",
+        "title": "Ils parlent de nous",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -109,9 +109,8 @@
       "blocks": {
         "heading_JGUWbW": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Votre rituel, plus besoin de soins beauté inutiles",
+            "text": "Pourquoi choisir les patchs Lunara ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -121,7 +120,6 @@
       "block_order": [
         "heading_JGUWbW"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -131,60 +129,182 @@
         "text_color": ""
       }
     },
-    "video_yP66FG": {
-      "type": "video",
-      "disabled": true,
-      "name": "Video",
+    "storiesinsta_WY4MLc": {
+      "type": "storiesinsta",
+      "blocks": {
+        "video_PAHTbR": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/UGC INSTA 1.mp4",
+            "title": ""
+          }
+        },
+        "video_BBU7JJ": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/UGC 2.mp4",
+            "title": ""
+          }
+        },
+        "video_c9EBek": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/UGC3.mp4",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_PAHTbR",
+        "video_BBU7JJ",
+        "video_c9EBek"
+      ],
+      "name": "SS - Product videos #4",
+      "settings": {
+        "videos_position": "below_buy",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 15,
+        "heading_size_mobile": 15,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "slider_view": 4.6,
+        "slider_view_mobile": 3.6,
+        "slider_gap": 16,
+        "slider_gap_mobile": 12,
+        "slider_mt": 4,
+        "slider_mt_mobile": 4,
+        "card_padding": 3,
+        "card_radius": 300,
+        "card_border_thickness": 3,
+        "card_hover": true,
+        "card_first_animation": true,
+        "video_ratio": "square",
+        "video_ratio_mobile": "square",
+        "video_overlay": 0,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 14,
+        "title_size_mobile": 12,
+        "title_height": 130,
+        "title_mt": 10,
+        "title_mt_mobile": 10,
+        "title_align": "center",
+        "title_align_mobile": "center",
+        "arrow_size": 32,
+        "arrow_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_mt": 0,
+        "dots_mt_mobile": 8,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "modal_width": 300,
+        "modal_width_mobile": 260,
+        "modal_padding_vertical": 0,
+        "modal_padding_vertical_mobile": 0,
+        "modal_padding_horizontal": 0,
+        "modal_padding_horizontal_mobile": 0,
+        "modal_radius": 16,
+        "modal_border_thickness": 0,
+        "modal_overlay": 0.3,
+        "modal_video_radius": 0,
+        "modal_video_border_thickness": 0,
+        "modal_video_ratio": "portrait",
+        "modal_video_ratio_mobile": "portrait",
+        "use_progress": true,
+        "action_size": 28,
+        "action_size_mobile": 36,
+        "action_border_thickness": 0,
+        "buttons_size": 32,
+        "buttons_size_mobile": 36,
+        "buttons_border_thickness": 0,
+        "card_bg_color": "#ffffff",
+        "card_bg_gradient": "",
+        "card_border_color": "#f95e45",
+        "video_overlay_color": "#000000",
+        "card_animation_color": "#f95e45",
+        "play_button_color": "#ffffff",
+        "title_color": "#000000",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#000000",
+        "arrow_bg_hover_color": "#555555",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#555555",
+        "dots_color": "#000000",
+        "modal_overlay_color": "#242424",
+        "modal_bg_color": "#ffffff",
+        "modal_border_color": "#000000",
+        "modal_video_border_color": "#000000",
+        "action_icon_color": "#ffffff",
+        "action_bg_color": "#000000",
+        "action_border_color": "#000000",
+        "buttons_icon_color": "#000000",
+        "buttons_bg_color": "#ffffff",
+        "buttons_border_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "image_with_text_overlay_pjaxby": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/10c509d21fb8464b806f3281f906f7c6.HD-1080p-7.2Mbps-35551638.mp4",
-        "mobile_video": "shopify://files/videos/10c509d21fb8464b806f3281f906f7c6.HD-1080p-7.2Mbps-35551638.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/new_benef_mai.png",
+        "mobile_image": "shopify://shop_images/new_benef_mai.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
     },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
+    "press_cEbJ4W": {
+      "type": "press",
       "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
+        "quote_WKcLJx": {
+          "type": "quote",
           "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "Parce que la beauté commence avec une eau pure",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
+            "logo_width": 100,
+            "author": "",
+            "content": "\"Une cure bluffante : poitrine harmonieuse en quelques jours.\"",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
+        "quote_WKcLJx"
       ],
+      "name": "Press",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "content_size": "medium",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "image_with_text_overlay_Jppnp4": {
@@ -195,8 +315,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Image5.png",
-        "mobile_image": "shopify://shop_images/Image5.png",
+        "image": "shopify://shop_images/Design_sans_titre_4521ac44-08ae-4050-9b65-73373e110585.webp",
+        "mobile_image": "shopify://shop_images/Design_sans_titre_4521ac44-08ae-4050-9b65-73373e110585.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -337,145 +457,13 @@
         "lazy": true
       }
     },
-    "storiesinsta_qdaWw4": {
-      "type": "storiesinsta",
-      "blocks": {
-        "video_MRBwqy": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/video 3 ok .mp4",
-            "title": ""
-          }
-        },
-        "video_p43mFg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/Video 2.mp4",
-            "title": ""
-          }
-        },
-        "video_4ieNBg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/Video 1.mp4",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_MRBwqy",
-        "video_p43mFg",
-        "video_4ieNBg"
-      ],
-      "name": "SS - Product videos #4",
-      "settings": {
-        "videos_position": "below_buy",
-        "heading": "",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 15,
-        "heading_size_mobile": 15,
-        "heading_height": 130,
-        "heading_align": "left",
-        "heading_align_mobile": "left",
-        "slider_view": 4.6,
-        "slider_view_mobile": 3.6,
-        "slider_gap": 16,
-        "slider_gap_mobile": 12,
-        "slider_mt": 4,
-        "slider_mt_mobile": 4,
-        "card_padding": 3,
-        "card_radius": 300,
-        "card_border_thickness": 3,
-        "card_hover": true,
-        "card_first_animation": true,
-        "video_ratio": "square",
-        "video_ratio_mobile": "square",
-        "video_overlay": 0,
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 14,
-        "title_size_mobile": 12,
-        "title_height": 130,
-        "title_mt": 10,
-        "title_mt_mobile": 10,
-        "title_align": "center",
-        "title_align_mobile": "center",
-        "arrow_size": 32,
-        "arrow_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 10,
-        "dots_size_mobile": 10,
-        "dots_mt": 0,
-        "dots_mt_mobile": 8,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "modal_width": 300,
-        "modal_width_mobile": 260,
-        "modal_padding_vertical": 0,
-        "modal_padding_vertical_mobile": 0,
-        "modal_padding_horizontal": 0,
-        "modal_padding_horizontal_mobile": 0,
-        "modal_radius": 16,
-        "modal_border_thickness": 0,
-        "modal_overlay": 0.3,
-        "modal_video_radius": 0,
-        "modal_video_border_thickness": 0,
-        "modal_video_ratio": "portrait",
-        "modal_video_ratio_mobile": "portrait",
-        "use_progress": true,
-        "action_size": 28,
-        "action_size_mobile": 36,
-        "action_border_thickness": 0,
-        "buttons_size": 32,
-        "buttons_size_mobile": 36,
-        "buttons_border_thickness": 0,
-        "card_bg_color": "#ffffff",
-        "card_bg_gradient": "",
-        "card_border_color": "#f95e45",
-        "video_overlay_color": "#000000",
-        "card_animation_color": "#f95e45",
-        "play_button_color": "#ffffff",
-        "title_color": "#000000",
-        "arrow_color": "#ffffff",
-        "arrow_hover_color": "#ffffff",
-        "arrow_bg_color": "#000000",
-        "arrow_bg_hover_color": "#555555",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#555555",
-        "dots_color": "#000000",
-        "modal_overlay_color": "#242424",
-        "modal_bg_color": "#ffffff",
-        "modal_border_color": "#000000",
-        "modal_video_border_color": "#000000",
-        "action_icon_color": "#ffffff",
-        "action_bg_color": "#000000",
-        "action_border_color": "#000000",
-        "buttons_icon_color": "#000000",
-        "buttons_bg_color": "#ffffff",
-        "buttons_border_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "#ffffff",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_1.webp",
+            "image": "shopify://shop_images/1744390308__1744390303910-designsanstitreee__original_1.webp",
             "column_size": "3",
             "title": "Charlotte",
             "heading_tag": "h4",
@@ -488,11 +476,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_2.webp",
+            "image": "shopify://shop_images/Design_sans_titre_8.webp",
             "column_size": "3",
             "title": "Manon",
             "heading_tag": "h4",
-            "content": "<p>\"J’avais peur que l’installation soit compliquée, mais c’était fait en 3 minutes ! Depuis, mon fils n’a plus la peau sèche après le bain. Et l’eau a une odeur plus fraîche, c’est surprenant.\"</p>",
+            "content": "<p>\"Je pensais aux implants depuis longtemps, mais les risques me freinaient toujours.<br/>Lunara m’a permis de tester un effet plus volumineux sans passer par la case bistouri, aucun regret.<br/>Le plus drôle ? J’ai complètement laissé tomber l’idée de la chirurgie.<br/>Ça fait très bien le job.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -501,11 +489,11 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_3.webp",
+            "image": "shopify://shop_images/Design_sans_titre_12.webp",
             "column_size": "3",
-            "title": "Kamélia",
+            "title": "Vanessa",
             "heading_tag": "h4",
-            "content": "<p>\"Honnêtement, je trouvais ça un peu cher pour une pomme de douche… Mais entre les économies sur les produits capillaires et la sensation après chaque douche, l’investissement est largement rentabilisé.\"</p>",
+            "content": "<p>\"Après mon deuxième bébé, les kilos sont restés et j’avais du mal à me reconnaître.<br/>Un jour, je suis tombée sur une vieille photo d’avant la grossesse, ce n’était pas juste mon reflet qui avait changé, mais aussi cette étincelle de confiance.<br/>Je ne cherchais pas de miracle, mais quelle surprise : Lunara m’a redonné ce petit “lift” – dans tous les sens du terme..\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -544,7 +532,7 @@
         "liquid_UqCNKi": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: ##00b67a;\n  --social-proof-star-color: #00b67a;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.7\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -559,6 +547,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -574,7 +563,7 @@
         "liquid_jnATdX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 cures</div>\n</div>"
           }
         },
         "image_h9L7gC": {
@@ -588,6 +577,24 @@
           "type": "rating",
           "settings": {
             "show_empty": false
+          }
+        },
+        "liquid_CLcnkK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>ÉLU INNOVATION BEAUTÉ 2025</span>\n  <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 0px; vertical-align: middle;\">\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #e0e0e0; /* Gris clair */\n    color: #000000;\n    text-align: center;\n    padding: 6px;\n    margin-top: 20px;\n    border-radius: 20px;\n    width: 300px;\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 14px;\n    font-weight: bold;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 6px;\n  }\n</style>"
+          }
+        },
+        "liquid_tEnczJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Les patchs Lunara offrent une alternative naturelle et efficace à la chirurgie. Ils raffermissent la poitrine sans risque ni intervention invasive.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Médecin esthétique</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>"
+          }
+        },
+        "liquid_8pdhdY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-video-4'></div>"
           }
         },
         "description": {
@@ -613,16 +620,18 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_abLQp6": {
+        "kaching_bundles_app_block_x9H6jD": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
           }
         },
-        "liquid_wgdhgd": {
-          "type": "liquid",
+        "image_xhkbeX": {
+          "type": "image",
           "settings": {
-            "liquid": "<div id='ss-product-video-4'></div>"
+            "image": "shopify://shop_images/derniere_chance_creme.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "buy-buttons": {
@@ -630,9 +639,9 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#f0c417",
+            "atc_button_background": "#00b67a",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#00b67a",
             "payment_button_text_color": ""
           }
         },
@@ -655,17 +664,20 @@
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
+        "liquid_CLcnkK",
+        "liquid_tEnczJ",
+        "liquid_8pdhdY",
         "description",
         "variant-picker",
         "quantity-selector",
-        "kaching_bundles_app_block_abLQp6",
-        "liquid_wgdhgd",
+        "kaching_bundles_app_block_x9H6jD",
+        "image_xhkbeX",
         "buy-buttons",
         "image_NnVtjL"
       ],
       "settings": {
         "full_width": false,
-        "product": "eskiin-filtered-showerhead",
+        "product": "bustup-patch-mammaire",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -681,22 +693,36 @@
         "input_text_color": ""
       }
     },
+    "rich_text_JEkECK": {
+      "type": "rich-text",
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_Waa9zt": {
       "type": "tabs",
       "blocks": {
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du Kit Norkka",
-            "content": "<p><strong>🔹 1 pommeau de douche filtrant Norkka</strong><br/></p><p>Le filtre multicouche est directement installé dans le pommeau, prêt à l'emploi.<br/><br/>Il offre jusqu’à <strong>3 mois de filtration active</strong> pour une famille standard.<br/><br/>(La durée peut varier selon la qualité de l’eau dans votre région.)<br/></p><p>L’installation ne prend que <strong>2 à 3 minutes</strong> et ne nécessite aucun outil.<br/><br/>Le guide vous accompagne pas à pas pour une mise en place simple, accessible à tous, même sans expérience en plomberie.<br/></p>",
+            "title": "Contenu du Kit Lunara",
+            "content": "<p>Chaque patch est à <strong>usage unique</strong> pour garantir une hygiène parfaite et une efficacité maximale.<br/><br/>Les cures sont conçues pour une utilisation régulière à raison de 2 à 4 <strong>patch par semaine</strong>, soit un traitement continu et optimal.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 16 patchs(4 patchs/semaine)</li><li><strong>Cure de 3 mois</strong> : 32+16 patchs offerts  </li></ul>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Éfficacité prouvée",
-            "content": "<p>Élimine jusqu'à 98,7 % du chlore, des métaux lourds et autres impuretés grâce à un système de filtration à 15 étapes, incluant du KDF-55, du sulfite de calcium et du charbon actif de coco </p>",
+            "title": "Nouvelle formule innovante 🌿",
+            "content": "<p>Les patchs Lunara intègrent une combinaison d’actifs puissants et naturels pour garantir des résultats optimaux :</p><ul><li><strong>Procollagène III (Peptide)</strong> : Stimule la production naturelle de collagène pour une peau plus ferme et élastique.<br/><br/></li><li><strong>Fenugrec</strong> : Favorise l’accumulation des lipides dans les cellules graisseuses, contribuant au développement du tissu mammaire.<br/><br/></li><li><strong>Volufiline</strong> : Cible les adipocytes pour augmenter leur taille et leur densité, renforçant ainsi le volume du tissu graisseux.<br/><br/></li><li><strong>Commiphora Mukul (Guggul)</strong> : Active les adipocytes pour maximiser leur activité, procurant un effet liftant et tonifiant.<br/><br/></li><li><strong>Extrait de Grande Camomille</strong> : Aide à réduire les irritations et améliore le confort cutané.<br/><br/></li><li><strong>Huile de Cyprès</strong> : Tonifie la peau et stimule la microcirculation, renforçant l’élasticité des tissus.<br/><br/></li><li><strong>Extrait de Papaye</strong> : Lisse et illumine la peau tout en favorisant le renouvellement cellulaire.<br/><br/></li><li><strong>Extrait de racine de Kudzu</strong> : Antioxydant puissant qui protège et revitalise la peau.<br/><br/></li></ul><p><strong>Extrait d’Hamamélis</strong> : Tonifie et apaise la peau, offrant une texture douce et uniforme.</p>",
             "page": ""
           }
         },
@@ -712,7 +738,7 @@
           "type": "tab",
           "settings": {
             "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@norkka.com</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@luunaara.com</p>",
             "page": ""
           }
         }
@@ -737,58 +763,21 @@
         "heading_gradient": ""
       }
     },
-    "custom_html_ckLRAJ": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Un geste simple que je recommande : ce filtre réduit les agressions de l’eau sur la peau et les cheveux sensibles.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Dermatologue </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_EwWgh9": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": true,
-        "image_size": "auto",
-        "image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
-        "mobile_image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_qaeLiT": {
+    "rich_text_GgqKXA": {
       "type": "rich-text",
       "blocks": {
-        "heading_RaiczD": {
+        "heading_YwzJ3A": {
           "type": "heading",
           "settings": {
-            "text": "Avec Norkka, se mouiller est un vrai plaisir",
-            "heading_tag": "h4",
+            "text": "Redessinez votre poitrine en 3 étapes",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_F9BFqw": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Le verre de <strong>gauche </strong>contient l’eau de douche classique, <strong>pleine de chlore </strong>et de <strong>métaux lourds</strong>.<br/><br/>Celui de droite ? Une <strong>eau pure</strong>, filtrée par <strong>Norkka</strong>, si propre qu’on pourrait la <strong>boire</strong>.</p><p>Ne laissez plus le <strong>chlore et l’eau et calcaire</strong> <strong>abîmer </strong>votre <strong>peau </strong>et vos <strong>cheveux</strong>.</p><p></p>"
           }
         }
       },
       "block_order": [
-        "heading_RaiczD",
-        "richtext_F9BFqw"
+        "heading_YwzJ3A"
       ],
       "name": "Rich text",
       "settings": {
@@ -800,152 +789,132 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_UYQwzg": {
-      "type": "images-with-text-scrolling",
+    "how_to_use_sambal_x8CkJT": {
+      "type": "how-to-use-sambal",
       "blocks": {
-        "item_qihqXB": {
-          "type": "item",
+        "step_j3rHgC": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/lauren_shower_1x1_7b72e17f-c81d-4d6f-88f4-66725a472c19.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Dites bonjour à une peau et des cheveux sublimés.",
-            "content": "<p>Si Norkka ne vous convainc pas pleinement, nous vous remboursons intégralement, sans aucune condition.</p>"
+            "image": "shopify://shop_images/GIF_2.gif",
+            "video": "",
+            "title": "RECEVEZ VOTRE PATCH",
+            "description": "",
+            "alignment": "left"
           }
         },
-        "item_9pXYj7": {
-          "type": "item",
+        "step_WXXExX": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/Justine_resized.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Adieu boutons, cheveux cassés… bonjour puissance et pureté.",
-            "content": "<p>Vous vouliez plus de pression ? On vous a écoutés.<br/><br/>Avec Norkka, profitez d’un jet 2,5x plus puissant pour une peau nette et des cheveux renforcés, même les plus épais.</p>"
+            "image": "shopify://shop_images/GIF_3.gif",
+            "video": "",
+            "title": "APPLIQUEZ LE PATCH À VOTRE POITRINE",
+            "description": "",
+            "alignment": "left"
           }
         },
-        "item_q67bza": {
-          "type": "item",
+        "step_PPmNwe": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/boujee_bath_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "À votre peau… et à une eau vraiment pure.",
-            "content": "<p>Une eau si propre que vous pourriez presque la boire 😉<br/><br/>Heureusement, votre peau et vos cheveux en prof</p>"
-          }
-        },
-        "item_zHTQBK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/aya_champagne_resized.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Vous méritez le luxe.",
-            "content": "<p>Norkka a été conçu pour celles et ceux qui savent apprécier les belles choses de la vie.</p><p>Mais Norkka ne se contente pas d’embellir votre salle de bain : c’est un véritable engagement pour la santé de votre peau, de vos cheveux, et votre bien-être au quotidien.</p><p>Avec Norkka, vous ne choisissez pas simplement un pommeau de douche.<br/><br/>Vous choisissez une version plus saine de vous-même.</p>"
+            "image": "shopify://shop_images/GIF_7.gif",
+            "video": "",
+            "title": "REGAGNEZ CONFIANC EN VOUS !",
+            "description": "",
+            "alignment": "left"
           }
         }
       },
       "block_order": [
-        "item_qihqXB",
-        "item_9pXYj7",
-        "item_q67bza",
-        "item_zHTQBK"
+        "step_j3rHgC",
+        "step_WXXExX",
+        "step_PPmNwe"
       ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
+      "name": "How to Use",
+      "settings": {}
     },
-    "multi_column_wTJTNc": {
-      "type": "multi-column",
+    "media_with_text_Aq4eWQ": {
+      "type": "media-with-text",
       "blocks": {
-        "item_xiaYUR": {
-          "type": "item",
+        "image_KqLfh7": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/coconut_activated_carbon_2.webp",
-            "column_size": "3",
-            "title": "Charbon actif de noix de coco",
-            "heading_tag": "h4",
-            "content": "<p>Utilisé pour absorber les impuretés telles que le chlore, l'oxygène et le fluorure présents dans l'eau. Le charbon actif de noix de coco est reconnu pour sa capacité à améliorer la qualité de l'eau en éliminant les contaminants organiques et chimiques.</p>",
-            "link_url": "",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "AUCUN RISQUE POUR LA SANTÉ",
+            "content": "<p><strong>Les patchs</strong> mammaires <strong>Lunara</strong> sont conçus dans le respect des <strong>normes européennes</strong> strictes, avec une sélection rigoureuse <strong>d’ingrédients naturels </strong>et <strong>contrôlés</strong>. Inspirés des standards de<strong> qualité</strong> <strong>scandinaves</strong>, nos <strong>formulations privilégient</strong> la <strong>sécurité</strong>, <strong>l’efficacité </strong>et la <strong>transparence</strong>. Chaque patch est testé<strong> cliniquement </strong>et s<strong>oumis</strong> à des <strong>contrôles </strong>de<strong> qualité exigeants</strong>, garantissant une solution sûre et adaptée à une utilisation régulière.</p>",
             "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QdbeiM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/kdf-55.webp",
-            "column_size": "3",
-            "title": "KDF-55 (alliage de cuivre et de zinc)",
-            "heading_tag": "h4",
-            "content": "<p>Réduit efficacement les métaux lourds tels que le plomb, le nickel, le mercure et le chrome. Ce composant empêche également la croissance des bactéries, des champignons, des algues et du tartre. </p><p><br/></p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gcQRWB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/calcium.webp",
-            "column_size": "3",
-            "title": "Sulfite de calcium",
-            "heading_tag": "h4",
-            "content": "<p>Élimine le chlore et les chloramines de l'eau de douche, laissant la peau hydratée et réduisant les irritations cutanées.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_igQPKV": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Coton PP (polypropylène)",
-            "heading_tag": "h4",
-            "content": "<p>Absorbe la saleté, la poussière et d'autres substances nocives, laissant la peau plus lisse et les cheveux plus doux.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item_xiaYUR",
-        "item_QdbeiM",
-        "item_gcQRWB",
-        "item_igQPKV"
+        "image_KqLfh7"
       ],
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Filtres testés cliniquement",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
-    "impact_text_KLUBnL": {
+    "image_with_text_overlay_Dwj4ek": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_7_mai_2025_20_56_27.png",
+        "mobile_image": "shopify://shop_images/NORMES.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "impact_text_iGPqLN": {
       "type": "impact-text",
       "blocks": {
-        "item_fDfQ3N": {
+        "item_L6N4BC": {
           "type": "item",
           "settings": {
-            "title": "20",
-            "subheading": "Secondes d'installation pour 90 jours de routine capilaire et skincare parfaite !",
+            "title": "93%",
+            "subheading": "des clientes affirment se sentir plus confiantes",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_Bjfjb8": {
+          "type": "item",
+          "settings": {
+            "title": "89%",
+            "subheading": "ressentent une poitrine plus ferme et galbée",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_JRp99V": {
+          "type": "item",
+          "settings": {
+            "title": "76%",
+            "subheading": "des clientes déclarent une amélioration visible du volume après 1 mois",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -955,7 +924,9 @@
         }
       },
       "block_order": [
-        "item_fDfQ3N"
+        "item_L6N4BC",
+        "item_Bjfjb8",
+        "item_JRp99V"
       ],
       "name": "Impact text",
       "settings": {
@@ -963,71 +934,92 @@
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
-        "text_divider": "none",
+        "text_divider": "line",
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
+        "heading_text_color": "#051832",
         "heading_gradient": "",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
       }
     },
-    "how_to_use_sambal_x8CkJT": {
-      "type": "how-to-use-sambal",
+    "custom_liquid_hb36W4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_wTJTNc": {
+      "type": "multi-column",
       "blocks": {
-        "step_j3rHgC": {
-          "type": "step",
+        "item_xiaYUR": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Step_1.webp",
-            "video": "",
-            "title": "Retirez votre pommeau de douche",
-            "description": "",
-            "alignment": "left"
+            "image": "shopify://shop_images/gif_colla.gif",
+            "column_size": "3",
+            "title": "Collagène",
+            "heading_tag": "h4",
+            "content": "<p><strong>Le collagène est la clé d’une poitrine ferme et tonique.</strong><br/><br/>Naturellement présent dans la peau, il lui donne sa souplesse et sa tenue. Avec l’âge ou après une grossesse, sa production diminue.<br/><br/>Nos patchs  stimulent le collagène pour raffermir, lisser et redonner du galbe à votre poitrine naturellement, sans chirurgie.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "step_WXXExX": {
-          "type": "step",
+        "item_QdbeiM": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Step_2.webp",
-            "video": "",
-            "title": "Installez votre pommeau Norkka",
-            "description": "",
-            "alignment": "left"
-          }
-        },
-        "step_FgfeGt": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/stEP_3.webp",
-            "video": "",
-            "title": "Profitez de votre douche revitalisante",
-            "description": "",
-            "alignment": "left"
+            "image": "shopify://shop_images/gif.gif",
+            "column_size": "3",
+            "title": "Le fenugrec",
+            "heading_tag": "h4",
+            "content": "<p><strong>Le fenugrec, un secret ancestral pour sublimer la poitrine.</strong><br/><br/>Riche en phytoœstrogènes naturels, il aide à stimuler le développement des tissus mammaires, favorisant un galbe plus rond et une peau plus tonique.<br/><br/>Utilisé régulièrement, il contribue à une poitrine visiblement plus ferme et féminine de façon 100 % naturelle.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "step_j3rHgC",
-        "step_WXXExX",
-        "step_FgfeGt"
-      ],
-      "name": "How to Use",
-      "settings": {}
-    },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
+        "item_xiaYUR",
+        "item_QdbeiM"
       ],
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_qKCr8Q": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/VS_CHIRURGIE.png",
+        "mobile_image": "shopify://shop_images/VS_CHIRURGIE.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_MQHPPV": {
@@ -1036,50 +1028,57 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Comment savoir si le pommeau Eskiin est compatible avec ma douche ?",
-            "content": "<p>Le pommeau Norkka est conçu pour s'adapter à la majorité des douches standards. Il se visse facilement sur les bras de douche de taille universelle, sans nécessiter d'adaptateur supplémentaire.</p>"
+            "title": "Comment fonctionnent les patchs mammaires ?",
+            "content": "<p>Les patchs délivrent progressivement des actifs naturels à travers la peau pour raffermir, lisser et tonifier la poitrine. Ils agissent en stimulant la microcirculation et en favorisant la production de collagène et d’élastine.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "L'installation est-elle compliquée ?",
-            "content": "<p>Non, l'installation est simple et rapide. Le kit comprend tous les accessoires nécessaires, y compris une clé et du ruban de plombier. Un guide d'installation illustré est fourni, et une vidéo tutorielle est également disponible pour vous accompagner pas à pas.</p>"
+            "title": "À qui s’adressent ces patchs ?",
+            "content": "<p>Ils sont conçus pour toutes les femmes souhaitant améliorer l’aspect de leur poitrine de façon naturelle, sans recours à la chirurgie. Idéal après une perte de poids, une grossesse, ou simplement pour un soin préventif.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Quels résultats puis-je attendre ?",
-            "content": "<p>L'utilisation du pommeau Norkka peut améliorer la qualité de votre peau et de vos cheveux en réduisant les impuretés présentes dans l'eau. Les utilisateurs rapportent souvent une peau plus douce et des cheveux plus brillants après quelques semaines d'utilisation.</p>"
+            "title": "Est-ce que c’est vraiment efficace ?",
+            "content": "<p>Oui, des milliers d’utilisatrices rapportent une peau plus ferme, une poitrine plus galbée et un meilleur maintien dès 3 à 5 semaines d’utilisation régulière. Les résultats varient selon les morphologies et la régularité d’usage.</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la différence entre Eskiin et d'autres filtres ?",
-            "content": "<p>Norkka utilise une technologie de filtration avancée à 15 étapes, combinant des matériaux tels que le KDF-55, le sulfite de calcium et le charbon actif de noix de coco. Cette combinaison permet d'éliminer efficacement le chlore, les métaux lourds et d'autres impuretés de l'eau.</p>"
+            "title": "Est-ce que c’est sans danger ?",
+            "content": "<p>Oui. Les patchs sont formulés avec des ingrédients d’origine naturelle, sans parabènes, hormones ni ingrédients agressifs. Ils sont hypoallergéniques et testés dermatologiquement.</p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je remplacer le filtre ?",
-            "content": "<p>Il est recommandé de remplacer le filtre tous les 90 jours pour maintenir une performance optimale. </p>"
+            "title": "Combien de fois par semaine faut-il les utiliser ?",
+            "content": "<p>Il est recommandé de porter les patchs 3 à 4 <strong>fois par semaine</strong>, pendant 3 heures, pour des résultats optimaux.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Quelle est votre politique de retour ?",
-            "content": "<p>Si vous n'êtes pas satisfait de votre achat, vous pouvez retourner le produit dans les 60 jours suivant la date d'achat pour un remboursement complet. Le produit doit être en bon état et dans son emballage d'origine. Les frais de retour sont à la charge du client.</p>"
+            "title": "Peut-on les utiliser en allaitant ou enceinte ?",
+            "content": "<p>Non. L’utilisation est déconseillée pendant la grossesse ou l’allaitement par principe de précaution.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Comment puis-je vous contacter pour plus d'informations ?",
-            "content": "<p>Pour toute question ou assistance, vous pouvez nous contacter par e-mail à l'adresse suivante : contact@norkka.com</p>"
+            "title": "Quand verrai-je les premiers résultats ?",
+            "content": "<p>Certaines utilisatrices remarquent un effet raffermissant dès la <strong>2ᵉ semaine</strong>, mais les résultats les plus visibles apparaissent généralement entre la <strong>3ᵉ et la 5ᵉ semaine</strong>.</p>"
+          }
+        },
+        "item_P6yRzh": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce compatible avec une crème ou une huile ?",
+            "content": "<p>Il est préférable de ne pas appliquer d’autres produits que notre crême sur la poitrine avant d’utiliser les patchs, pour éviter de gêner l’adhérence ou l’absorption des actifs.</p>"
           }
         }
       },
@@ -1090,7 +1089,8 @@
         "item_Qt9h7g",
         "item_mrg8b4",
         "item_K9EhFR",
-        "item_XY77ii"
+        "item_XY77ii",
+        "item_P6yRzh"
       ],
       "settings": {
         "full_width": true,
@@ -1130,22 +1130,23 @@
     "image-with-text-overlay",
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
-    "video_yP66FG",
-    "rich_text_QXqMJ7",
+    "storiesinsta_WY4MLc",
+    "image_with_text_overlay_pjaxby",
+    "press_cEbJ4W",
     "image_with_text_overlay_Jppnp4",
     "trust_pilot_reviews_AxNB3A",
-    "storiesinsta_qdaWw4",
     "multi_column_BKPLPt",
     "featured-product",
-    "tabs_Waa9zt",
-    "custom_html_ckLRAJ",
-    "image_with_text_overlay_EwWgh9",
-    "rich_text_qaeLiT",
-    "images_with_text_scrolling_UYQwzg",
-    "multi_column_wTJTNc",
-    "impact_text_KLUBnL",
-    "how_to_use_sambal_x8CkJT",
     "rich_text_JEkECK",
+    "tabs_Waa9zt",
+    "rich_text_GgqKXA",
+    "how_to_use_sambal_x8CkJT",
+    "media_with_text_Aq4eWQ",
+    "image_with_text_overlay_Dwj4ek",
+    "impact_text_iGPqLN",
+    "custom_liquid_hb36W4",
+    "multi_column_wTJTNc",
+    "image_with_text_overlay_qKCr8Q",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
