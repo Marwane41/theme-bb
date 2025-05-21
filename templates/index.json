@@ -214,7 +214,7 @@
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.7,
+        "rating": 4.8,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
@@ -310,7 +310,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#ffffff",
+        "background_color": "#fff7fc",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -467,7 +467,7 @@
             "column_size": "3",
             "title": "Charlotte",
             "heading_tag": "h4",
-            "content": "<p>\"J'étais sceptique au début, difficile de croire qu’un simple patch pouvait faire une différence. Mais à la troisième semaine ? J’ai clairement remarqué que mes pulls tombaient différemment.Fini les soutiens-gorge rembourrés ou les angles stratégiques pour les photos !\"</p>",
+            "content": "<p>\"J’ai toujours été très à cheval sur l’hygiène, mais il arrivait parfois que des odeurs me mettent mal à l’aise, surtout en fin de journée.<br/>J’ai découvert ces gummies un peu par hasard sur Instagram, et j’ai été intriguée par leur promesse de fraîcheur.<br/>En quelques jours, j’ai senti une nette amélioration. Je me sens plus propre, plus légère, et surtout plus confiante dans ma vie intime.<br/>Je ne les oublie jamais, c’est devenu un rituel quotidien.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -480,7 +480,7 @@
             "column_size": "3",
             "title": "Manon",
             "heading_tag": "h4",
-            "content": "<p>\"J’avais peur que l’installation soit compliquée, mais c’était fait en 3 minutes ! Depuis, mon fils n’a plus la peau sèche après le bain. Et l’eau a une odeur plus fraîche, c’est surprenant.\"</p>",
+            "content": "<p>\"Je ne pensais pas qu’un complément alimentaire pouvait vraiment faire une différence à ce niveau-là.<br/>C’est une amie qui m’en a parlé, et je l’ai pris comme un test, sans grandes attentes.<br/>Mais franchement, je suis bluffée. Je me sens plus sûre de moi, même dans les moments d’intimité.<br/>Je recommande à toutes celles qui veulent se sentir plus à l’aise avec leur corps.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -493,7 +493,7 @@
             "column_size": "3",
             "title": "Kamélia",
             "heading_tag": "h4",
-            "content": "<p>\"Honnêtement, je trouvais ça un peu cher pour une pomme de douche… Mais entre les économies sur les produits capillaires et la sensation après chaque douche, l’investissement est largement rentabilisé.\"</p>",
+            "content": "<p>\"Après ma deuxième grossesse, j’ai commencé à ressentir pas mal de sécheresse intime. C’était gênant au quotidien, surtout pendant les rapports.<br/>J’ai voulu essayer une solution naturelle et j’ai opté pour ces gummies.<br/>Depuis, je sens une vraie différence. Je retrouve une sensation de confort que j’avais oubliée.<br/>Je les recommande sans hésiter aux femmes post-partum ou en période de déséquilibre hormonal.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -504,9 +504,9 @@
           "settings": {
             "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES_5.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sara",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"J’ai longtemps souffert de mycoses à répétition. Je faisais attention, j’utilisais des produits doux, mais rien n’y faisait.<br/>En tombant sur ce produit, je me suis dit que je n’avais rien à perdre.<br/>Et là, incroyable. Depuis que je prends ces gummies, je n’ai plus eu aucune infection.<br/>Je revis, vraiment. C’est la première fois que je me sens aussi bien à ce niveau-là.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -517,9 +517,9 @@
           "settings": {
             "image": "shopify://shop_images/Untitled_design_32.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Nicole",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Mes règles ont toujours été douloureuses et très fatigantes. Je passais les premiers jours à moitié allongée, sans énergie.<br/>Depuis que je prends ces gummies, je remarque que mes douleurs sont moins fortes et je gère mieux mes cycles.<br/>C’est devenu un vrai allié pendant cette période du mois.<br/>C’est discret, facile à prendre, et vraiment efficace.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -530,9 +530,9 @@
           "settings": {
             "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Christine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Je ne savais pas que des petits gummies pouvaient avoir un impact aussi fort sur ma confiance en moi.<br/>Avec eux, je me sens plus fraîche, plus équilibrée, et plus sereine dans ma vie de femme.<br/>C’est comme une petite routine beauté… mais de l’intérieur.<br/>Je les recommande à toutes celles qui veulent se sentir bien dans leur peau.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -558,7 +558,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
+        "background": "#fff7fc",
         "background_gradient": "",
         "text_color": ""
       }
@@ -774,124 +774,41 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Un geste simple que je recommande : ce filtre réduit les agressions de l’eau sur la peau et les cheveux sensibles.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Dermatologue </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
+        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Les gummies NORKKA HER+ offrent une combinaison intéressante de probiotiques et d’ingrédients naturels qui soutiennent l’équilibre de la flore intime. C’est une solution douce et accessible que je recommande en complément d’une bonne hygiène de vie.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Gynécologue </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
       }
     },
-    "image_with_text_overlay_EwWgh9": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": true,
-        "image_size": "auto",
-        "image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
-        "mobile_image": "shopify://shop_images/fingers_resized_1x1_79489c4f-e345-4d4b-9aea-afd82addd001.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_qaeLiT": {
-      "type": "rich-text",
+    "multiple_images_with_text_PeYXED": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "heading_RaiczD": {
-          "type": "heading",
+        "item_hW47Rg": {
+          "type": "item",
           "settings": {
-            "text": "Avec Norkka, se mouiller est un vrai plaisir",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_F9BFqw": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Le verre de <strong>gauche </strong>contient l’eau de douche classique, <strong>pleine de chlore </strong>et de <strong>métaux lourds</strong>.<br/><br/>Celui de droite ? Une <strong>eau pure</strong>, filtrée par <strong>Norkka</strong>, si propre qu’on pourrait la <strong>boire</strong>.</p><p>Ne laissez plus le <strong>chlore et l’eau et calcaire</strong> <strong>abîmer </strong>votre <strong>peau </strong>et vos <strong>cheveux</strong>.</p><p></p>"
+            "image": "shopify://shop_images/sante_feminine.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Dites adieu à l'inconfort !",
+            "content": "<p>Les <strong>odeurs</strong>,<strong> l'inconfort</strong> et le <strong>manque de confiance </strong>en soi ne sont pas <strong>simples désagréments</strong>. Ce sont <strong>des luttes quotidiennes </strong>qui affectent <strong>votre assurance</strong>. <strong>Les sprays</strong> et l<strong>es lavages </strong>ne <strong>résolvent pas </strong>le problème à<strong> la source</strong>....</p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "heading_RaiczD",
-        "richtext_F9BFqw"
+        "item_hW47Rg"
       ],
-      "name": "Rich text",
+      "name": "Multiple images with text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "images_with_text_scrolling_UYQwzg": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_qihqXB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/lauren_shower_1x1_7b72e17f-c81d-4d6f-88f4-66725a472c19.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Dites bonjour à une peau et des cheveux sublimés.",
-            "content": "<p>Si Norkka ne vous convainc pas pleinement, nous vous remboursons intégralement, sans aucune condition.</p>"
-          }
-        },
-        "item_9pXYj7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Justine_resized.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Adieu boutons, cheveux cassés… bonjour puissance et pureté.",
-            "content": "<p>Vous vouliez plus de pression ? On vous a écoutés.<br/><br/>Avec Norkka, profitez d’un jet 2,5x plus puissant pour une peau nette et des cheveux renforcés, même les plus épais.</p>"
-          }
-        },
-        "item_q67bza": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/boujee_bath_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "À votre peau… et à une eau vraiment pure.",
-            "content": "<p>Une eau si propre que vous pourriez presque la boire 😉<br/><br/>Heureusement, votre peau et vos cheveux en prof</p>"
-          }
-        },
-        "item_zHTQBK": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/aya_champagne_resized.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Vous méritez le luxe.",
-            "content": "<p>Norkka a été conçu pour celles et ceux qui savent apprécier les belles choses de la vie.</p><p>Mais Norkka ne se contente pas d’embellir votre salle de bain : c’est un véritable engagement pour la santé de votre peau, de vos cheveux, et votre bien-être au quotidien.</p><p>Avec Norkka, vous ne choisissez pas simplement un pommeau de douche.<br/><br/>Vous choisissez une version plus saine de vous-même.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_qihqXB",
-        "item_9pXYj7",
-        "item_q67bza",
-        "item_zHTQBK"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "multi_column_wTJTNc": {
@@ -900,11 +817,11 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/coconut_activated_carbon_2.webp",
+            "image": "shopify://shop_images/icones_virus.webp",
             "column_size": "3",
-            "title": "Charbon actif de noix de coco",
+            "title": "Bacillus Coagulan",
             "heading_tag": "h4",
-            "content": "<p>Utilisé pour absorber les impuretés telles que le chlore, l'oxygène et le fluorure présents dans l'eau. Le charbon actif de noix de coco est reconnu pour sa capacité à améliorer la qualité de l'eau en éliminant les contaminants organiques et chimiques.</p>",
+            "content": "<p>Cliniquement prouvé pour équilibrer le pH et soutenir une flore saine.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -913,11 +830,11 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/kdf-55.webp",
+            "image": "shopify://shop_images/icones_ananas.webp",
             "column_size": "3",
-            "title": "KDF-55 (alliage de cuivre et de zinc)",
+            "title": "Poudre de fruit d'ananas",
             "heading_tag": "h4",
-            "content": "<p>Réduit efficacement les métaux lourds tels que le plomb, le nickel, le mercure et le chrome. Ce composant empêche également la croissance des bactéries, des champignons, des algues et du tartre. </p><p><br/></p>",
+            "content": "<p>Apporte naturellement une fraîcheur douce et subtile de l'intérieur.</p><p><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -926,11 +843,11 @@
         "item_gcQRWB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/calcium.webp",
+            "image": "shopify://shop_images/icone_orange.webp",
             "column_size": "3",
-            "title": "Sulfite de calcium",
+            "title": "Mélange d'agrumes naturels",
             "heading_tag": "h4",
-            "content": "<p>Élimine le chlore et les chloramines de l'eau de douche, laissant la peau hydratée et réduisant les irritations cutanées.</p>",
+            "content": "<p>Soutien doux du pH grâce à l'acide citrique et au jus d'orange.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -939,10 +856,11 @@
         "item_igQPKV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/icones_plantes.png",
             "column_size": "3",
-            "title": "Coton PP (polypropylène)",
+            "title": "Probiotique actif",
             "heading_tag": "h4",
-            "content": "<p>Absorbe la saleté, la poussière et d'autres substances nocives, laissant la peau plus lisse et les cheveux plus doux.</p>",
+            "content": "<p>Offre une protection de 24 heures contre les odeurs, les irritations et l'inconfort.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -961,96 +879,37 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Filtres testés cliniquement",
+        "title": "4 actifs naturels puissants",
         "content": "",
-        "background": "",
+        "background": "#fff7fc",
         "background_gradient": "",
         "text_color": ""
       }
     },
-    "impact_text_KLUBnL": {
-      "type": "impact-text",
-      "blocks": {
-        "item_fDfQ3N": {
-          "type": "item",
-          "settings": {
-            "title": "20",
-            "subheading": "Secondes d'installation pour 90 jours de routine capilaire et skincare parfaite !",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_fDfQ3N"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "how_to_use_sambal_x8CkJT": {
-      "type": "how-to-use-sambal",
-      "blocks": {
-        "step_j3rHgC": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/Step_1.webp",
-            "video": "",
-            "title": "Retirez votre pommeau de douche",
-            "description": "",
-            "alignment": "left"
-          }
-        },
-        "step_WXXExX": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/Step_2.webp",
-            "video": "",
-            "title": "Installez votre pommeau Norkka",
-            "description": "",
-            "alignment": "left"
-          }
-        },
-        "step_FgfeGt": {
-          "type": "step",
-          "settings": {
-            "image": "shopify://shop_images/stEP_3.webp",
-            "video": "",
-            "title": "Profitez de votre douche revitalisante",
-            "description": "",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_j3rHgC",
-        "step_WXXExX",
-        "step_FgfeGt"
-      ],
-      "name": "How to Use",
-      "settings": {}
-    },
-    "rich_text_JEkECK": {
+    "rich_text_R8Y4Q3": {
       "type": "rich-text",
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
+      "blocks": {
+        "heading_3AiqPE": {
+          "type": "heading",
+          "settings": {
+            "text": "Votre transformation en 21 jours",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_kzpMza": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Découvrez comment les gummies Norkka HER+ restaurent votre confiance jour après jour. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3AiqPE",
+        "richtext_kzpMza"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -1060,49 +919,273 @@
         "text_color": ""
       }
     },
+    "timeline_zYA4JN": {
+      "type": "timeline",
+      "blocks": {
+        "slide_ncK43f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/femmes_mange_gummies.png",
+            "navigation_label": "1 à 7 jours",
+            "subheading": "",
+            "title": "Premiers signes de changement",
+            "content": "<p>Sentez-vous <strong>fraîche</strong> et sans <strong>odeur</strong> grâce aux gummies <strong>Norkka</strong> <strong>HER+</strong>.</p><p>Votre <strong>pH </strong>commence à se <strong>rééquilibrer</strong>, <strong>réduisant l'inconfort</strong> et <strong>augmentant</strong> la <strong>fraîcheur naturelle</strong>.</p>"
+          }
+        },
+        "slide_pbRCt3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/femme_souriante.png",
+            "navigation_label": "8 à 14 jours",
+            "subheading": "",
+            "title": "Des résultats en construction",
+            "content": "<p>Bien-être total, équilibre hormonal et confiance durable chaque jour. </p><p></p>"
+          }
+        },
+        "slide_Gxmr4Y": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/couple.png",
+            "navigation_label": "14 à 21 jours",
+            "subheading": "Subheading",
+            "title": "Retrouvez votre confiance",
+            "content": "<p>Plaisir sans gênes durant vos câlins. </p><p>Une confiance reboostée.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ncK43f",
+        "slide_pbRCt3",
+        "slide_Gxmr4Y"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press_3MPGQ4": {
+      "type": "press",
+      "blocks": {
+        "quote_XetrbC": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Une solution naturelle qui vous changera la vie",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_XetrbC"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "images_with_text_scrolling_UYQwzg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_qihqXB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/medecin_2.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Jennifer Lincoln professionnelle de santé",
+            "content": "<p><em>\"Les gummies contenant des probiotiques adaptés, comme le Lactobacillus rhamnosus, peuvent soutenir efficacement la flore vaginale. Bien formulés, ils aident à prévenir les déséquilibres intimes. Il est toutefois important de choisir des produits testés et validés scientifiquement.\"</em></p>"
+          }
+        },
+        "item_9pXYj7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/medecin_3.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Claire Dubois, naturopathe spécialisée en santé féminine",
+            "content": "<p>\"Les gummies à base de probiotiques naturels sont une solution douce et efficace pour rééquilibrer la flore intime. En complément d’une bonne hygiène de vie, ils soutiennent naturellement le microbiote vaginal et renforcent l’immunité locale.\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qihqXB",
+        "item_9pXYj7"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_mHBk3Y": {
+      "type": "multi-column",
+      "blocks": {
+        "item_i7BGMd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/odeur.webp",
+            "column_size": "3",
+            "title": "97%",
+            "heading_tag": "h4",
+            "content": "<p>Déclarent ne plus avoir d'odeur ou d'inconfort.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gL6bxq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/girl_rose.webp",
+            "column_size": "3",
+            "title": "97%",
+            "heading_tag": "h4",
+            "content": "<p>Disent ressentir une sensation de fraîcheur et retrouvent un équilibre de leur flore vaginale</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gxQcXh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4354.png",
+            "column_size": "3",
+            "title": "95%",
+            "heading_tag": "h4",
+            "content": "<p>Assurent des câlins plus long et agréable</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_i7BGMd",
+        "item_gL6bxq",
+        "item_gxQcXh"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Des résultats concrets...",
+        "content": "",
+        "background": "#fff7fc",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_EMyhGK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KUFQUc": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi nous faire confiance ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUFQUc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_Gr6nFQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/nous_vs_les_autres.png",
+        "mobile_image": "shopify://shop_images/nous_vs_les_autres.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Comment savoir si le pommeau Eskiin est compatible avec ma douche ?",
-            "content": "<p>Le pommeau Norkka est conçu pour s'adapter à la majorité des douches standards. Il se visse facilement sur les bras de douche de taille universelle, sans nécessiter d'adaptateur supplémentaire.</p>"
+            "title": "À quoi servent ces gummies ?",
+            "content": "<p>Ces gummies sont formulés pour soutenir l’équilibre de la flore vaginale grâce à des probiotiques ciblés, aidant à prévenir les inconforts intimes comme les mycoses ou les déséquilibres.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "L'installation est-elle compliquée ?",
-            "content": "<p>Non, l'installation est simple et rapide. Le kit comprend tous les accessoires nécessaires, y compris une clé et du ruban de plombier. Un guide d'installation illustré est fourni, et une vidéo tutorielle est également disponible pour vous accompagner pas à pas.</p>"
+            "title": "Quels ingrédients contiennent-ils ?",
+            "content": "<p>Ils contiennent des souches probiotiques <em>Bacillus Coagulan</em> et  associés à des extraits naturels d'agrumes et de poudre d'ananas.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Quels résultats puis-je attendre ?",
-            "content": "<p>L'utilisation du pommeau Norkka peut améliorer la qualité de votre peau et de vos cheveux en réduisant les impuretés présentes dans l'eau. Les utilisateurs rapportent souvent une peau plus douce et des cheveux plus brillants après quelques semaines d'utilisation.</p>"
+            "title": "À partir de quel âge peut-on les consommer ?",
+            "content": "<p>Ces compléments sont destinés aux femmes adultes. Il est conseillé de demander un avis médical pour les adolescentes ou en cas de condition particulière (grossesse, allaitement…).</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la différence entre Eskiin et d'autres filtres ?",
-            "content": "<p>Norkka utilise une technologie de filtration avancée à 15 étapes, combinant des matériaux tels que le KDF-55, le sulfite de calcium et le charbon actif de noix de coco. Cette combinaison permet d'éliminer efficacement le chlore, les métaux lourds et d'autres impuretés de l'eau.</p>"
+            "title": "Faut-il les prendre tous les jours ?",
+            "content": "<p>Oui, une prise quotidienne est recommandée pour une efficacité optimale. La régularité est clé pour équilibrer durablement le microbiote vaginal.</p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je remplacer le filtre ?",
-            "content": "<p>Il est recommandé de remplacer le filtre tous les 90 jours pour maintenir une performance optimale. </p>"
+            "title": "Peut-on les prendre en parallèle d’un traitement médical ?",
+            "content": "<p>Dans la plupart des cas, oui. Cependant, il est préférable de consulter votre médecin ou pharmacien avant de débuter la cure, surtout si vous suivez un traitement antibiotique ou antifongique.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Quelle est votre politique de retour ?",
-            "content": "<p>Si vous n'êtes pas satisfait de votre achat, vous pouvez retourner le produit dans les 60 jours suivant la date d'achat pour un remboursement complet. Le produit doit être en bon état et dans son emballage d'origine. Les frais de retour sont à la charge du client.</p>"
+            "title": "En combien de temps voit-on les effets ?",
+            "content": "<p>Les premières améliorations peuvent apparaître en quelques jours, mais une cure de 1 à 3 mois est souvent recommandée pour des résultats durables.</p>"
           }
         },
         "item_XY77ii": {
@@ -1169,13 +1252,15 @@
     "featured-product",
     "tabs_Waa9zt",
     "custom_html_ckLRAJ",
-    "image_with_text_overlay_EwWgh9",
-    "rich_text_qaeLiT",
-    "images_with_text_scrolling_UYQwzg",
+    "multiple_images_with_text_PeYXED",
     "multi_column_wTJTNc",
-    "impact_text_KLUBnL",
-    "how_to_use_sambal_x8CkJT",
-    "rich_text_JEkECK",
+    "rich_text_R8Y4Q3",
+    "timeline_zYA4JN",
+    "press_3MPGQ4",
+    "images_with_text_scrolling_UYQwzg",
+    "multi_column_mHBk3Y",
+    "rich_text_EMyhGK",
+    "image_with_text_overlay_Gr6nFQ",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
