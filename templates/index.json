@@ -692,6 +692,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_ektCem": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image_derniere_chance.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_wgdhgd": {
           "type": "liquid",
           "settings": {
@@ -703,9 +711,9 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "#f0c417",
+            "atc_button_background": "#efa6b8",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#efa6b8",
             "payment_button_text_color": ""
           }
         },
@@ -732,6 +740,7 @@
         "variant-picker",
         "quantity-selector",
         "kaching_bundles_app_block_abLQp6",
+        "image_ektCem",
         "liquid_wgdhgd",
         "buy-buttons",
         "image_NnVtjL"
