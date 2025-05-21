@@ -140,10 +140,9 @@
       "blocks": {
         "heading_JGUWbW": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "text": "Votre rituel, plus besoin de soins beauté inutiles",
-            "heading_tag": "h3",
+            "text": "Pourquoi prendre des probiotiques ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -152,7 +151,6 @@
       "block_order": [
         "heading_JGUWbW"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -187,8 +185,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/9009D3B9-2B9D-47D6-A023-4AC017C43283.jpg",
-        "mobile_image": "shopify://shop_images/9009D3B9-2B9D-47D6-A023-4AC017C43283.jpg",
+        "image": "shopify://shop_images/7_cee4524b-cefc-4817-9394-dc1056ae150c.png",
+        "mobile_image": "shopify://shop_images/7_cee4524b-cefc-4817-9394-dc1056ae150c.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
