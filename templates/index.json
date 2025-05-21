@@ -720,7 +720,7 @@
         "image_NnVtjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/poitrine_badge.png",
+            "image": "shopify://shop_images/logo_trust_paiement.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -769,8 +769,8 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du Kit Norkka",
-            "content": "<p><strong>🔹 1 pommeau de douche filtrant Norkka</strong><br/></p><p>Le filtre multicouche est directement installé dans le pommeau, prêt à l'emploi.<br/><br/>Il offre jusqu’à <strong>3 mois de filtration active</strong> pour une famille standard.<br/><br/>(La durée peut varier selon la qualité de l’eau dans votre région.)<br/></p><p>L’installation ne prend que <strong>2 à 3 minutes</strong> et ne nécessite aucun outil.<br/><br/>Le guide vous accompagne pas à pas pour une mise en place simple, accessible à tous, même sans expérience en plomberie.<br/></p>",
+            "title": "Contenu de votre pack",
+            "content": "<h3><strong>Pack 30 Jours – Découverte Équilibre Féminin</strong></h3><p>Cure complète de 30 jours<br/><br/>Formule ciblée : probiotiques + extraits naturels</p><p><br/>✨ Parfait pour découvrir et ressentir les premiers bienfaits</p><h3><strong>Pack 90 Jours – Transformation Complète</strong></h3><p>Programme de 90 jours pour des résultats en profondeur<br/></p><p>Formule renforcée : probiotiques + prébiotiques + actifs végétaux<br/><br/>✨ Recommandé pour un rééquilibrage durable et complet de la flore intime</p>",
             "page": ""
           }
         },
@@ -778,7 +778,7 @@
           "type": "tab",
           "settings": {
             "title": "Éfficacité prouvée",
-            "content": "<p>Élimine jusqu'à 98,7 % du chlore, des métaux lourds et autres impuretés grâce à un système de filtration à 15 étapes, incluant du KDF-55, du sulfite de calcium et du charbon actif de coco </p>",
+            "content": "<p>Nos gummies ont été formulés pour répondre aux besoins réels des femmes en matière d'équilibre intime. Grâce à une synergie de <strong>probiotiques ciblés</strong>, de <strong>prébiotiques</strong> et d’<strong>actifs naturels</strong>, chaque bouchée agit en douceur pour rétablir et maintenir un microbiote vaginal sain.</p><p>✔️ <strong>Résultats dès les premières semaines</strong> : réduction des inconforts, moins d’odeurs, sensation de fraîcheur accrue.<br/><br/>✔️ <strong>Cure complète</strong> : amélioration durable de la flore intime, meilleure résistance aux infections vaginales récurrentes.<br/><br/>✔️ <strong>Formule testée et validée</strong> en laboratoire pour une action ciblée sans perturber l’équilibre naturel du corps.</p><p>✨ Parce qu’un corps en harmonie commence par une flore intime équilibrée.</p>",
             "page": ""
           }
         },
@@ -786,7 +786,7 @@
           "type": "tab",
           "settings": {
             "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Chez Lunara, votre satisfaction est une priorité absolue. Ils offrent une garantie unique : si vous n’êtes pas pleinement satisfaite des résultats obtenus, vous pouvez bénéficier d'un remboursement intégral, sans poser de questions. </p>",
+            "content": "<p>Votre satisfaction est une priorité absolue. Ils offrent une garantie unique : si vous n’êtes pas pleinement satisfaite des résultats obtenus, vous pouvez bénéficier d'un remboursement intégral, sans poser de questions. </p>",
             "page": ""
           }
         },
