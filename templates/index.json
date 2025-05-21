@@ -179,45 +179,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_QXqMJ7": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dCqXRR": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gcwVkK": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzMpxh": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dCqXRR",
-        "heading_gcwVkK",
-        "richtext_kzMpxh"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_Jppnp4": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -226,8 +187,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/images_benefices_2.png",
-        "mobile_image": "shopify://shop_images/images_benefices_2.png",
+        "image": "shopify://shop_images/9009D3B9-2B9D-47D6-A023-4AC017C43283.jpg",
+        "mobile_image": "shopify://shop_images/9009D3B9-2B9D-47D6-A023-4AC017C43283.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1298,7 +1259,6 @@
     "image_with_text_overlay_8itpWr",
     "rich_text_c9UmPD",
     "video_yP66FG",
-    "rich_text_QXqMJ7",
     "image_with_text_overlay_Jppnp4",
     "trust_pilot_reviews_AxNB3A",
     "storiesinsta_qdaWw4",
