@@ -92,6 +92,49 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_rHnnEw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WJ6Dg9": {
+          "type": "heading",
+          "settings": {
+            "text": "Les ennemis silencieux de votre confort vaginal",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_WJ6Dg9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_8itpWr": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/gif_bacteries.webp",
+        "mobile_image": "shopify://shop_images/gif_bacteries.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_c9UmPD": {
       "type": "rich-text",
       "blocks": {
@@ -1242,6 +1285,8 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_4BjWGF",
+    "rich_text_rHnnEw",
+    "image_with_text_overlay_8itpWr",
     "rich_text_c9UmPD",
     "video_yP66FG",
     "rich_text_QXqMJ7",
