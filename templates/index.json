@@ -653,6 +653,7 @@
         },
         "image_ektCem": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/image_derniere_chance.png",
             "alignment": "center",
