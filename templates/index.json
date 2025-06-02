@@ -649,7 +649,7 @@
         "image_ektCem": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/60_jours.png",
+            "image": "shopify://shop_images/OFFRE_D_ETE.png",
             "alignment": "center",
             "max_width": 500
           }
