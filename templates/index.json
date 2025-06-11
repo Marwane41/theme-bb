@@ -11,18 +11,29 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Rides visibles ? Effacez-les définitivement !",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-1"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel_0d2cfd32-62ff-4638-888f-d2f04ae1aeec.png",
+        "image": "shopify://shop_images/banner_site_TB_HD.png",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#000000",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "logo_list_4BjWGF": {
@@ -31,7 +42,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_c099bfd9-39a0-426e-b71b-162fdf3f9e02.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +50,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4.png",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +58,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_81de8eba-fc7a-4ebf-b2c4-c547168738c4.png",
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +66,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_6d9331a3-b049-46d5-8433-aa97a63f0370.png",
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -79,7 +90,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "On parle de nous",
+        "title": "Vu sur:",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -88,49 +99,8 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "rich_text_rHnnEw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WJ6Dg9": {
-          "type": "heading",
-          "settings": {
-            "text": "Les bactéries responsables de votre inconfort vaginal",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_WJ6Dg9"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_8itpWr": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/gif_bacteries.webp",
-        "mobile_image": "shopify://shop_images/gif_bacteries.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_c9UmPD": {
@@ -139,8 +109,8 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi prendre des probiotiques ?",
-            "heading_tag": "h2",
+            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -158,36 +128,58 @@
         "text_color": ""
       }
     },
-    "video_yP66FG": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/10c509d21fb8464b806f3281f906f7c6.HD-1080p-7.2Mbps-35551638.mp4",
-        "mobile_video": "shopify://files/videos/10c509d21fb8464b806f3281f906f7c6.HD-1080p-7.2Mbps-35551638.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_Jppnp4": {
+    "image_with_text_overlay_pjaxby": {
       "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Soulagement_immediat.png",
-        "mobile_image": "shopify://shop_images/Soulagement_immediat.png",
+        "image": "shopify://shop_images/image_benefice3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "rich_text_QXqMJ7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_dCqXRR": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_gcwVkK": {
+          "type": "heading",
+          "settings": {
+            "text": "Un mode d'infusion innovant et indolore",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_kzMpxh": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dCqXRR",
+        "heading_gcwVkK",
+        "richtext_kzMpxh"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -200,7 +192,7 @@
         "content_align_mobile": "center",
         "heading": "Nos clientes en parlent le mieux",
         "heading_custom": false,
-        "heading_font": "poppins_n4",
+        "heading_font": "josefin_sans_n4",
         "heading_size": 40,
         "heading_size_mobile": 24,
         "heading_height": 130,
@@ -212,13 +204,14 @@
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.8,
+        "rating": 4.7,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
         "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text_right_image": "shopify://shop_images/Trustpilot_logo_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -308,7 +301,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#fff7fc",
+        "background_color": "#f0f0f0",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -323,148 +316,17 @@
         "lazy": true
       }
     },
-    "storiesinsta_qdaWw4": {
-      "type": "storiesinsta",
-      "blocks": {
-        "video_MRBwqy": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/688338097117840_video_0.mp4",
-            "title": ""
-          }
-        },
-        "video_p43mFg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/1199598175006170_video_0.mp4",
-            "title": ""
-          }
-        },
-        "video_4ieNBg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/1644707219482080_video_0.mp4",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_MRBwqy",
-        "video_p43mFg",
-        "video_4ieNBg"
-      ],
-      "settings": {
-        "videos_position": "below_buy",
-        "heading": "",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 15,
-        "heading_size_mobile": 15,
-        "heading_height": 130,
-        "heading_align": "left",
-        "heading_align_mobile": "left",
-        "slider_view": 4.6,
-        "slider_view_mobile": 3.6,
-        "slider_gap": 16,
-        "slider_gap_mobile": 12,
-        "slider_mt": 4,
-        "slider_mt_mobile": 4,
-        "card_padding": 3,
-        "card_radius": 300,
-        "card_border_thickness": 3,
-        "card_hover": true,
-        "card_first_animation": true,
-        "video_ratio": "square",
-        "video_ratio_mobile": "square",
-        "video_overlay": 0,
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 14,
-        "title_size_mobile": 12,
-        "title_height": 130,
-        "title_mt": 10,
-        "title_mt_mobile": 10,
-        "title_align": "center",
-        "title_align_mobile": "center",
-        "arrow_size": 32,
-        "arrow_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 10,
-        "dots_size_mobile": 10,
-        "dots_mt": 0,
-        "dots_mt_mobile": 8,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "modal_width": 300,
-        "modal_width_mobile": 260,
-        "modal_padding_vertical": 0,
-        "modal_padding_vertical_mobile": 0,
-        "modal_padding_horizontal": 0,
-        "modal_padding_horizontal_mobile": 0,
-        "modal_radius": 16,
-        "modal_border_thickness": 0,
-        "modal_overlay": 0.3,
-        "modal_video_radius": 0,
-        "modal_video_border_thickness": 0,
-        "modal_video_ratio": "portrait",
-        "modal_video_ratio_mobile": "portrait",
-        "use_progress": true,
-        "action_size": 28,
-        "action_size_mobile": 36,
-        "action_border_thickness": 0,
-        "buttons_size": 32,
-        "buttons_size_mobile": 36,
-        "buttons_border_thickness": 0,
-        "card_bg_color": "#ffffff",
-        "card_bg_gradient": "",
-        "card_border_color": "#f95e45",
-        "video_overlay_color": "#000000",
-        "card_animation_color": "#f95e45",
-        "play_button_color": "#ffffff",
-        "title_color": "#000000",
-        "arrow_color": "#ffffff",
-        "arrow_hover_color": "#ffffff",
-        "arrow_bg_color": "#000000",
-        "arrow_bg_hover_color": "#555555",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#555555",
-        "dots_color": "#000000",
-        "modal_overlay_color": "#242424",
-        "modal_bg_color": "#ffffff",
-        "modal_border_color": "#000000",
-        "modal_video_border_color": "#000000",
-        "action_icon_color": "#ffffff",
-        "action_bg_color": "#000000",
-        "action_border_color": "#000000",
-        "buttons_icon_color": "#000000",
-        "buttons_bg_color": "#ffffff",
-        "buttons_border_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "#ffffff",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES_1.webp",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "Charlotte",
+            "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>\"J’ai toujours été très à cheval sur l’hygiène, mais il arrivait parfois que des odeurs me mettent mal à l’aise, surtout en fin de journée.<br/>J’ai découvert ces gummies un peu par hasard sur Instagram, et j’ai été intriguée par leur promesse de fraîcheur.<br/>En quelques jours, j’ai senti une nette amélioration. Je me sens plus propre, plus légère, et surtout plus confiante dans ma vie intime.<br/>Je ne les oublie jamais, c’est devenu un rituel quotidien.\"</p>",
+            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -473,11 +335,11 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES_8.webp",
+            "image": "shopify://shop_images/AVANT.png",
             "column_size": "3",
-            "title": "Manon",
+            "title": "Marie",
             "heading_tag": "h4",
-            "content": "<p>\"Je ne pensais pas qu’un complément alimentaire pouvait vraiment faire une différence à ce niveau-là.<br/>C’est une amie qui m’en a parlé, et je l’ai pris comme un test, sans grandes attentes.<br/>Mais franchement, je suis bluffée. Je me sens plus sûre de moi, même dans les moments d’intimité.<br/>Je recommande à toutes celles qui veulent se sentir plus à l’aise avec leur corps.\"</p>",
+            "content": "<p><em>\"J'avais peur que ce soit douloureux, mais pas du tout ! Je ne supportais plus mes rides du front et pensais à un traitement en clinique, puis j’ai essayé Ceralyne. Je suis tellement heureuse !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -486,50 +348,89 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES_6.webp",
+            "image": "shopify://shop_images/AVANTLAST.png",
             "column_size": "3",
-            "title": "Kamélia",
+            "title": "Agathe",
             "heading_tag": "h4",
-            "content": "<p>\"Après ma deuxième grossesse, j’ai commencé à ressentir pas mal de sécheresse intime. C’était gênant au quotidien, surtout pendant les rapports.<br/>J’ai voulu essayer une solution naturelle et j’ai opté pour ces gummies.<br/>Depuis, je sens une vraie différence. Je retrouve une sensation de confort que j’avais oubliée.<br/>Je les recommande sans hésiter aux femmes post-partum ou en période de déséquilibre hormonal.\"</p>",
+            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_mP3H4A": {
+        "item_MwJML3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES_5.webp",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "Sara",
+            "title": "Mélanie",
             "heading_tag": "h4",
-            "content": "<p>\"J’ai longtemps souffert de mycoses à répétition. Je faisais attention, j’utilisais des produits doux, mais rien n’y faisait.<br/>En tombant sur ce produit, je me suis dit que je n’avais rien à perdre.<br/>Et là, incroyable. Depuis que je prends ces gummies, je n’ai plus eu aucune infection.<br/>Je revis, vraiment. C’est la première fois que je me sens aussi bien à ce niveau-là.\"</p>",
+            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_jNi94D": {
+        "item_p6MkDp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_32.webp",
+            "image": "shopify://shop_images/AVANT2.png",
             "column_size": "3",
-            "title": "Nicole",
+            "title": "Sylvie",
             "heading_tag": "h4",
-            "content": "<p>\"Mes règles ont toujours été douloureuses et très fatigantes. Je passais les premiers jours à moitié allongée, sans énergie.<br/>Depuis que je prends ces gummies, je remarque que mes douleurs sont moins fortes et je gère mieux mes cycles.<br/>C’est devenu un vrai allié pendant cette période du mois.<br/>C’est discret, facile à prendre, et vraiment efficace.\"</p>",
+            "content": "<p><em>\"C’est incroyable ! Je n’aurais jamais cru que mes pattes d’oie disparaîtraient aussi rapidement et que l’application serait si simple\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_UDneV6": {
+        "item_4yzaE8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/NATURAL_FEMININE_BALANCE_GUMMIES.webp",
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
-            "title": "Christine",
+            "title": "Brigitte",
             "heading_tag": "h4",
-            "content": "<p>\"Je ne savais pas que des petits gummies pouvaient avoir un impact aussi fort sur ma confiance en moi.<br/>Avec eux, je me sens plus fraîche, plus équilibrée, et plus sereine dans ma vie de femme.<br/>C’est comme une petite routine beauté… mais de l’intérieur.<br/>Je les recommande à toutes celles qui veulent se sentir bien dans leur peau.\"</p>",
+            "content": "<p><em>\"Je détestais les rides et la peau relâchée sur mon cou, et le seul produit qui a vraiment fait la différence, c’est celui-ci. Ma peau est tellement lisse et ferme que le résultat est bluffant !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EwNkYx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "Estelle",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute mes familles\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yViHK3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Tiphaine",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JUW7xR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "column_size": "3",
+            "title": "Christelle",
+            "heading_tag": "h4",
+            "content": "<p><em>\"À 71 ans, je pensais qu’il n’y avait plus rien à faire pour les rides sur mon décolleté. Mais ce produit a fait des merveilles\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -540,9 +441,12 @@
         "item_7BdeiK",
         "item_JJLm4U",
         "item_GECyWQ",
-        "item_mP3H4A",
-        "item_jNi94D",
-        "item_UDneV6"
+        "item_MwJML3",
+        "item_p6MkDp",
+        "item_4yzaE8",
+        "item_EwNkYx",
+        "item_yViHK3",
+        "item_JUW7xR"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -555,7 +459,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#fff7fc",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -571,7 +475,7 @@
         "liquid_UqCNKi": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #36af85;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -586,7 +490,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -595,6 +498,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/Winter_Sale_FR.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -602,12 +506,13 @@
         "liquid_jnATdX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 CURES</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Kits</div>\n</div>"
           }
         },
         "image_h9L7gC": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/offert_serum_4e1202a9-0bd8-410a-9d6b-e190e5a30a31.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -618,9 +523,12 @@
             "show_empty": false
           }
         },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -642,47 +550,21 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "kaching_bundles_app_block_abLQp6": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "image_ektCem": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/OFFRE_D_ETE.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_wgdhgd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-video-4'></div>"
-          }
-        },
-        "liquid_aF4gmx": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .badge-container {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 10px;\n    margin: 10px 0;\n  }\n  .badge {\n    display: inline-flex;\n    align-items: center;\n    padding: 2px 6px;\n    border-radius: 3px;\n    font-size: 11px;\n    font-weight: bold;\n  }\n  .badge-green {\n    background-color: #e0ffd8;\n    color: #004d00;\n  }\n  .badge-red {\n    background-color: #ffdede;\n    color: #b22222;\n  }\n  .badge svg {\n    width: 12px;\n    height: 12px;\n    margin-right: 4px;\n  }\n  @keyframes rotate {\n    from { transform: rotate(0deg); }\n    to { transform: rotate(360deg); }\n  }\n  .rotating {\n    transform-origin: center;\n    animation: rotate 2s linear infinite;\n  }\n</style>\n\n<div class=\"badge-container\">\n  <div class=\"badge badge-green\">\n    <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill=\"currentColor\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"/>\n    </svg>\n    30J Satisfait ou remboursé.\n  </div>\n  <div class=\"badge badge-red\">\n    <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"/>\n      <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"currentColor\" stroke-width=\"2\" class=\"rotating\"/>\n      <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"currentColor\" stroke-width=\"2\"/>\n    </svg>\n    Stock limité !\n  </div>\n</div>"
-          }
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#36af85",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#1a1a1a",
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "#f0c417",
             "payment_button_text_color": ""
           }
         },
         "image_NnVtjL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sans_armatures_Confort_absolu_sans_compression_png.jpg",
+            "image": "shopify://shop_images/icon_trust_atc4.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -698,19 +580,16 @@
         "liquid_jnATdX",
         "image_h9L7gC",
         "rating",
+        "separator",
         "description",
         "variant-picker",
         "quantity-selector",
-        "kaching_bundles_app_block_abLQp6",
-        "image_ektCem",
-        "liquid_wgdhgd",
-        "liquid_aF4gmx",
         "buy-buttons",
         "image_NnVtjL"
       ],
       "settings": {
         "full_width": false,
-        "product": "herplus-feminine-balance-gummies",
+        "product": "systeme-micro-infusion-ceralyne",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -719,7 +598,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -732,16 +611,24 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Contenu de votre pack",
-            "content": "<h3><strong>Pack 30 jours + 30 offerts – Découverte équilibre féminin</strong></h3><p>Cure complète de 30 jours<br/><br/>Formule ciblée : probiotiques + extraits naturels</p><p><br/>✨ Parfait pour découvrir et ressentir les premiers bienfaits</p><h3><strong>Pack 60 Jours + 60 offerts – Transformation complète</strong></h3><p>Programme de 90 jours pour des résultats en profondeur<br/></p><p>Formule renforcée : probiotiques + actifs végétaux<br/><br/>✨ Recommandé pour un rééquilibrage durable et complet de la flore intime</p>",
+            "title": "Contenu du Kit Micro-Infusion Sérum Lift Pro",
+            "content": "<p>Chaque kit de Micro-Infusion est conçu pour un nombre précis de traitements. Les embouts à micro-aiguilles sont <strong>stériles et utilisables 3 fois maximum, ils doivent être nettoyer et desinfecté entre chaque utilisation</strong>, garantissant une hygiène irréprochable et des résultats optimaux.</p><p><strong>Contenu de chaque kit :</strong></p><ul><li><strong>Cure d’1 mois</strong> : 1 embouts stériles + 2 flacons de sérum (2 traitements)</li><li><strong>Cure de 2 mois</strong> : 2 embouts stériles + 4 flacons de sérum (4 traitements)</li><li><strong>Cure de 3 mois</strong> : 3 embouts stériles + 6 flacons de sérum (6 traitements)</li></ul><p></p>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Éfficacité prouvée",
-            "content": "<p>Nos gummies ont été formulés pour répondre aux besoins réels des femmes en matière d'équilibre intime. Grâce à une synergie de <strong>probiotiques ciblés</strong>, de <strong>prébiotiques</strong> et d’<strong>actifs naturels</strong>, chaque bouchée agit en douceur pour rétablir et maintenir un microbiote vaginal sain.</p><p>✔️ <strong>Résultats dès les premières semaines</strong> : réduction des inconforts, moins d’odeurs, sensation de fraîcheur accrue.<br/><br/>✔️ <strong>Cure complète</strong> : amélioration durable de la flore intime, meilleure résistance aux infections vaginales récurrentes.<br/><br/>✔️ <strong>Formule testée et validée</strong> en laboratoire pour une action ciblée sans perturber l’équilibre naturel du corps.</p><p>✨ Parce qu’un corps en harmonie commence par une flore intime équilibrée.</p>",
+            "title": "Composition Sérum Peptide Ceralyne",
+            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_GUd9zE": {
+          "type": "tab",
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
             "page": ""
           }
         },
@@ -749,7 +636,7 @@
           "type": "tab",
           "settings": {
             "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Votre satisfaction est une priorité absolue. Ils offrent une garantie unique : si vous n’êtes pas pleinement satisfaite des résultats obtenus, vous pouvez bénéficier d'un remboursement intégral, sans poser de questions. </p>",
+            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
             "page": ""
           }
         },
@@ -757,7 +644,7 @@
           "type": "tab",
           "settings": {
             "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse proclient@gmx.fr</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
             "page": ""
           }
         }
@@ -765,6 +652,7 @@
       "block_order": [
         "tab_kNhjBC",
         "tab_qpeWfc",
+        "tab_GUd9zE",
         "tab_aQDKUA",
         "tab_dkjrUh"
       ],
@@ -782,59 +670,17 @@
         "heading_gradient": ""
       }
     },
-    "custom_html_ckLRAJ": {
-      "type": "custom-html",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Les gummies NORKKA HER+ offrent une combinaison intéressante de probiotiques et d’ingrédients naturels qui soutiennent l’équilibre de la flore intime. C’est une solution douce et accessible que je recommande en complément d’une bonne hygiène de vie.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Camille L. Gynécologue </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multiple_images_with_text_PeYXED": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_hW47Rg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/sante_feminine.png",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Dites adieu à l'inconfort !",
-            "content": "<p>Les <strong>odeurs</strong>,<strong> l'inconfort</strong> et le <strong>manque de confiance </strong>en soi ne sont pas <strong>simples désagréments</strong>. Ce sont <strong>des luttes quotidiennes </strong>qui affectent <strong>votre assurance</strong>. <strong>Les sprays</strong> et l<strong>es lavages </strong>ne <strong>résolvent pas </strong>le problème à<strong> la source</strong>....</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_hW47Rg"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/icones_virus.webp",
+            "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
-            "title": "Bacillus Coagulan",
+            "title": "Peptides de collagène",
             "heading_tag": "h4",
-            "content": "<p>Cliniquement prouvé pour équilibrer le pH et soutenir une flore saine.</p>",
+            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -843,37 +689,50 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/icones_ananas.webp",
+            "image": "shopify://shop_images/elastyn.png",
             "column_size": "3",
-            "title": "Poudre de fruit d'ananas",
+            "title": "Élastine",
             "heading_tag": "h4",
-            "content": "<p>Apporte naturellement une fraîcheur douce et subtile de l'intérieur.</p><p><br/></p>",
+            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_gcQRWB": {
+        "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/icone_orange.webp",
+            "image": "shopify://shop_images/image_3_4.webp",
             "column_size": "3",
-            "title": "Mélange d'agrumes naturels",
+            "title": "Acide hyaluronique",
             "heading_tag": "h4",
-            "content": "<p>Soutien doux du pH grâce à l'acide citrique et au jus d'orange.</p>",
+            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_igQPKV": {
+        "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/icones_plantes.png",
+            "image": "shopify://shop_images/image_3_1.webp",
             "column_size": "3",
-            "title": "Probiotique actif",
+            "title": "Glycérine",
             "heading_tag": "h4",
-            "content": "<p>Offre une protection de 24 heures contre les odeurs, les irritations et l'inconfort.</p>",
+            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6nijje": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squalane.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -883,8 +742,9 @@
       "block_order": [
         "item_xiaYUR",
         "item_QdbeiM",
-        "item_gcQRWB",
-        "item_igQPKV"
+        "item_dPL9Rr",
+        "item_LV4cm8",
+        "item_6nijje"
       ],
       "settings": {
         "full_width": true,
@@ -892,193 +752,35 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "4 actifs naturels puissants",
+        "title": "Ingrédients testés cliniquement",
         "content": "",
-        "background": "#fff7fc",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
     },
-    "featured_product_DFaXPq": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor_qLJpVe": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "liquid_cc4CUB": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #36af85;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "title_fWDqh7": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_Px6AX3": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_gR9yzN": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "image_fUVd3V": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_U3JzjB": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 CURES</div>\n</div>"
-          }
-        },
-        "image_CLM8cm": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "rating_w3NzVB": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "description_MHewWA": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_j4MxPj": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_dA8Jj3": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "kaching_bundles_app_block_G6aBdM": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "image_6ey7EV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image_derniere_chance.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_PGrBnd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-video-4'></div>"
-          }
-        },
-        "buy_buttons_DH64d3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#efa6b8",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#efa6b8",
-            "payment_button_text_color": ""
-          }
-        },
-        "image_W3WYHh": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sans_armatures_Confort_absolu_sans_compression_png.jpg",
-            "alignment": "center",
-            "max_width": 500
-          }
-        }
-      },
-      "block_order": [
-        "vendor_qLJpVe",
-        "liquid_cc4CUB",
-        "title_fWDqh7",
-        "badges_Px6AX3",
-        "price_gR9yzN",
-        "image_fUVd3V",
-        "liquid_U3JzjB",
-        "image_CLM8cm",
-        "rating_w3NzVB",
-        "description_MHewWA",
-        "variant_picker_j4MxPj",
-        "quantity_selector_dA8Jj3",
-        "kaching_bundles_app_block_G6aBdM",
-        "image_6ey7EV",
-        "liquid_PGrBnd",
-        "buy_buttons_DH64d3",
-        "image_W3WYHh"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "product": "herplus-feminine-balance-gummies",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "rich_text_R8Y4Q3": {
+    "rich_text_JEkECK": {
       "type": "rich-text",
       "blocks": {
-        "heading_3AiqPE": {
-          "type": "heading",
-          "settings": {
-            "text": "Votre transformation en 21 jours",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_kzpMza": {
+        "richtext_t6DjJt": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Découvrez comment les gummies Norkka HER+ restaurent votre confiance jour après jour. </p>"
+            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
+          }
+        },
+        "richtext_x7NCKi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
           }
         }
       },
       "block_order": [
-        "heading_3AiqPE",
-        "richtext_kzpMza"
+        "richtext_t6DjJt",
+        "richtext_x7NCKi"
+      ],
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
       ],
       "settings": {
         "full_width": true,
@@ -1089,223 +791,54 @@
         "text_color": ""
       }
     },
-    "timeline_zYA4JN": {
-      "type": "timeline",
+    "how_to_use_sambal_mtLn7y": {
+      "type": "how-to-use-sambal",
       "blocks": {
-        "slide_ncK43f": {
-          "type": "slide",
+        "step_7q9JWB": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/femmes_mange_gummies.png",
-            "navigation_label": "1 à 7 jours",
-            "subheading": "",
-            "title": "Premiers signes de changement",
-            "content": "<p>Sentez-vous <strong>fraîche</strong> et sans <strong>odeur</strong> grâce aux gummies <strong>Norkka</strong> <strong>HER+</strong>.</p><p>Votre <strong>pH </strong>commence à se <strong>rééquilibrer</strong>, <strong>réduisant l'inconfort</strong> et <strong>augmentant</strong> la <strong>fraîcheur naturelle</strong>.</p>"
+            "video": "",
+            "title": "",
+            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
+            "alignment": "left"
           }
         },
-        "slide_pbRCt3": {
-          "type": "slide",
+        "step_VCbrVx": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/femme_souriante.png",
-            "navigation_label": "8 à 14 jours",
-            "subheading": "",
-            "title": "Des résultats en construction",
-            "content": "<p>Bien-être total, équilibre hormonal et confiance durable chaque jour. </p><p></p>"
+            "video": "",
+            "title": "",
+            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
+            "alignment": "left"
           }
         },
-        "slide_Gxmr4Y": {
-          "type": "slide",
+        "step_QxA9A8": {
+          "type": "step",
           "settings": {
-            "image": "shopify://shop_images/couple.png",
-            "navigation_label": "14 à 21 jours",
-            "subheading": "Subheading",
-            "title": "Retrouvez votre confiance",
-            "content": "<p>Plaisir sans gênes durant vos câlins. </p><p>Une confiance reboostée.</p><p></p>"
+            "video": "",
+            "title": "",
+            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
+            "alignment": "left"
+          }
+        },
+        "step_rTyP7G": {
+          "type": "step",
+          "settings": {
+            "video": "",
+            "title": "",
+            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
+            "alignment": "left"
           }
         }
       },
       "block_order": [
-        "slide_ncK43f",
-        "slide_pbRCt3",
-        "slide_Gxmr4Y"
+        "step_7q9JWB",
+        "step_VCbrVx",
+        "step_QxA9A8",
+        "step_rTyP7G"
       ],
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "press_3MPGQ4": {
-      "type": "press",
-      "blocks": {
-        "quote_XetrbC": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Une solution naturelle qui vous changera la vie",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_XetrbC"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "images_with_text_scrolling_UYQwzg": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_qihqXB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/medecin_2.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Jennifer Lincoln professionnelle de santé",
-            "content": "<p><em>\"Les gummies contenant des probiotiques adaptés, comme le Lactobacillus rhamnosus, peuvent soutenir efficacement la flore vaginale. Bien formulés, ils aident à prévenir les déséquilibres intimes. Il est toutefois important de choisir des produits testés et validés scientifiquement.\"</em></p>"
-          }
-        },
-        "item_9pXYj7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/medecin_3.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Claire Dubois, naturopathe spécialisée en santé féminine",
-            "content": "<p>\"Les gummies à base de probiotiques naturels sont une solution douce et efficace pour rééquilibrer la flore intime. En complément d’une bonne hygiène de vie, ils soutiennent naturellement le microbiote vaginal et renforcent l’immunité locale.\"</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_qihqXB",
-        "item_9pXYj7"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "multi_column_mHBk3Y": {
-      "type": "multi-column",
-      "blocks": {
-        "item_i7BGMd": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/odeur.webp",
-            "column_size": "3",
-            "title": "97%",
-            "heading_tag": "h4",
-            "content": "<p>Déclarent ne plus avoir d'odeur ou d'inconfort.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gL6bxq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/girl_rose.webp",
-            "column_size": "3",
-            "title": "97%",
-            "heading_tag": "h4",
-            "content": "<p>Disent ressentir une sensation de fraîcheur et retrouvent un équilibre de leur flore vaginale</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gxQcXh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4354.png",
-            "column_size": "3",
-            "title": "95%",
-            "heading_tag": "h4",
-            "content": "<p>Assurent des câlins plus long et agréable</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_i7BGMd",
-        "item_gL6bxq",
-        "item_gxQcXh"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Des résultats concrets...",
-        "content": "",
-        "background": "#fff7fc",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_EMyhGK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KUFQUc": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi nous faire confiance ?",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_KUFQUc"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_Gr6nFQ": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/nous_vs_les_autres.png",
-        "mobile_image": "shopify://shop_images/nous_vs_les_autres.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
+      "custom_css": [],
+      "settings": {}
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -1313,50 +846,148 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "À quoi servent ces gummies ?",
-            "content": "<p>Ces gummies sont formulés pour soutenir l’équilibre de la flore vaginale grâce à des probiotiques ciblés, aidant à prévenir les inconforts intimes comme les mycoses ou les déséquilibres.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "Quels ingrédients contiennent-ils ?",
-            "content": "<p>Ils contiennent des souches probiotiques <em>Bacillus Coagulan</em> et  associés à des extraits naturels d'agrumes et de poudre d'ananas.</p>"
+            "title": "Comment fonctionne la micro-infusion?",
+            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p><p>1️⃣ <strong>Préparation</strong> : Remplissez l’applicateur avec le sérum et fixez une tête de micro-aiguilles stérile à usage unique.</p><p>2️⃣ <strong>Activation</strong> : Retournez l’appareil et laissez le sérum s’imprégner pendant 1 à 2 minutes.</p><p>3️⃣ <strong>Application</strong> : Tapotez délicatement la peau (visage, cou, lèvres), en effectuant <strong>2 à 3 passages</strong> pour une absorption optimale.</p><p>4️⃣ <strong>Soin après application</strong> : Massez l’excédent de sérum sur la peau et laissez agir toute la nuit. <strong>Évitez le maquillage et l’exposition au soleil pendant 24h</strong>. Vous pouvez compléter avec votre routine de soins habituelle.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "À partir de quel âge peut-on les consommer ?",
-            "content": "<p>Ces compléments sont destinés aux femmes adultes. Il est conseillé de demander un avis médical pour les adolescentes ou en cas de condition particulière (grossesse, allaitement…).</p>"
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Faut-il les prendre tous les jours ?",
-            "content": "<p>Oui, une prise quotidienne est recommandée pour une efficacité optimale. La régularité est clé pour équilibrer durablement le microbiote vaginal.</p>"
+            "title": "Les têtes d'aiguille sont-elles réutilisables?",
+            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Peut-on les prendre en parallèle d’un traitement médical ?",
-            "content": "<p>Dans la plupart des cas, oui. Cependant, il est préférable de consulter votre médecin ou pharmacien avant de débuter la cure, surtout si vous suivez un traitement antibiotique ou antifongique.</p>"
+            "title": "Où puis-je l'utiliser ?",
+            "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps voit-on les effets ?",
-            "content": "<p>Les premières améliorations peuvent apparaître en quelques jours, mais une cure de 1 à 3 mois est souvent recommandée pour des résultats durables.</p>"
+            "title": "À quelle vitesse verrai-je les résultats?",
+            "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Comment puis-je vous contacter pour plus d'informations ?",
-            "content": "<p>Pour toute question ou assistance, vous pouvez nous contacter par e-mail à l'adresse suivante : contact@norkka.com</p>"
+            "title": "Est-ce efficace pour les hommes ?",
+            "content": "<p>Absolument !<br/><br/>Le Micro Infusion Kit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.<br/><br/>Il cible efficacement les problèmes de peau courants tels que les ridules, les rides, les taches sombres et les textures irrégulières, quel que soit le genre. Les hommes peuvent bénéficier des mêmes avantages de régénération et d'amélioration de la peau que les femmes.</p>"
+          }
+        },
+        "item_P6yRzh": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce sûr pour tous les types de peau?",
+            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
+          }
+        },
+        "item_6cJAWF": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
+            "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
+          }
+        },
+        "item_3ydTfx": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il un temps de pause nécessaire entre chaque utilisation ?",
+            "content": "<p>Il n'y a pratiquement pas de temps de pause après l'utilisation du Micro Infusion Kit.<br/><br/>Vous pourriez observer une légère rougeur ou une sensibilité discrète immédiatement après le soin, mais ces effets disparaissent généralement en quelques heures à un jour.<br/><br/>Il est conseillé d'éviter le maquillage, l'exposition directe au soleil et les produits de soin trop agressifs pendant au moins 24 heures après le traitement, afin de permettre à la peau de se régénérer correctement.</p>"
+          }
+        },
+        "item_QbyjD9": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser de l’acide hyaluronique ou du rétinol après avoir utilisé le Micro Infusion Kit ?",
+            "content": "<p>Vous pouvez appliquer vos soins habituels, tels que des crèmes à base d'acide hyaluronique, la nuit suivant l'utilisation du Micro Infusion Kit. Cela aidera à hydrater et apaiser la peau, tout en renforçant les bienfaits du traitement (l'absorption des produits sera également améliorée jusqu'à 300%, conduisant à des résultats encore plus visibles).<br/><br/>Cependant, évitez d'utiliser du rétinol ou d'autres ingrédients actifs puissants comme les acides (par exemple, l'acide glycolique ou salicylique) immédiatement après le soin. Ces produits peuvent irriter la peau fraîchement traitée.<br/><br/>Attendez au moins 24 à 48 heures avant de réintroduire le rétinol ou d'autres actifs puissants dans votre routine de soins pour permettre à votre peau de se rétablir complètement. Suivez toujours les instructions de soins après traitement pour obtenir les meilleurs résultats.<br/><br/>En dehors de cela, veillez à ne pas appliquer de maquillage et à garder votre peau propre pendant environ 12 heures après le traitement.</p>"
+          }
+        },
+        "item_RKyzeA": {
+          "type": "item",
+          "settings": {
+            "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
+            "content": "<p><strong>Non</strong>, le Micro Infusion Kit ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+          }
+        },
+        "item_MihJ8p": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
+            "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+          }
+        },
+        "item_GWJTCQ": {
+          "type": "item",
+          "settings": {
+            "title": "Ce produit aide-t-il également à atténuer les cicatrices ?",
+            "content": "<p><strong>Oui</strong>, le Micro Infusion Kit peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 90 jours reste valable pour toutes les commandes.</p>"
+          }
+        },
+        "item_DAfyn3": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
+            "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
+          }
+        },
+        "item_VnHdN7": {
+          "type": "item",
+          "settings": {
+            "title": "Qui devrait utiliser le Micro Infusion Kit ?",
+            "content": "<p>La production de collagène commence à diminuer dès la vingtaine, rendant les traitements de régénération de la peau plus bénéfiques au fil des années.</p><p>Le Micro Infusion Kit est idéal pour les adultes de 25 à 80 ans qui souhaitent améliorer l'apparence de leur peau.</p><p>Il aide à réduire les ridules, les rides, les taches sombres et les irrégularités de texture, et convient à tous les types de peau.</p><p>Cependant, il n'est pas recommandé aux personnes ayant des affections cutanées graves, comme la rosacée, l'eczéma ou l'acné agressive, car ces conditions pourraient être aggravées. Si vous avez des préoccupations spécifiques ou des conditions médicales, il est conseillé de consulter un dermatologue avant utilisation.</p>"
+          }
+        },
+        "item_3EBPbR": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
+            "content": "<p>Oui, vous pouvez utiliser le Micro Infusion Kit même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
+          }
+        },
+        "item_D3yQPm": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les ingrédients ?",
+            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
+          }
+        },
+        "item_8eKwAt": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser avec mon propre sérum ?",
+            "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
+          }
+        },
+        "item_V4HbrJ": {
+          "type": "item",
+          "settings": {
+            "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
+            "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
+          }
+        },
+        "item_Bme77T": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
+            "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
           }
         }
       },
@@ -1367,7 +998,21 @@
         "item_Qt9h7g",
         "item_mrg8b4",
         "item_K9EhFR",
-        "item_XY77ii"
+        "item_XY77ii",
+        "item_P6yRzh",
+        "item_6cJAWF",
+        "item_3ydTfx",
+        "item_QbyjD9",
+        "item_RKyzeA",
+        "item_MihJ8p",
+        "item_GWJTCQ",
+        "item_DAfyn3",
+        "item_VnHdN7",
+        "item_3EBPbR",
+        "item_D3yQPm",
+        "item_8eKwAt",
+        "item_V4HbrJ",
+        "item_Bme77T"
       ],
       "settings": {
         "full_width": true,
@@ -1393,23 +1038,6 @@
     },
     "17359565654f612dcd": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_69kwDz": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_69kwDz"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1423,27 +1051,16 @@
   "order": [
     "image-with-text-overlay",
     "logo_list_4BjWGF",
-    "rich_text_rHnnEw",
-    "image_with_text_overlay_8itpWr",
     "rich_text_c9UmPD",
-    "video_yP66FG",
-    "image_with_text_overlay_Jppnp4",
+    "image_with_text_overlay_pjaxby",
+    "rich_text_QXqMJ7",
     "trust_pilot_reviews_AxNB3A",
-    "storiesinsta_qdaWw4",
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
-    "custom_html_ckLRAJ",
-    "multiple_images_with_text_PeYXED",
     "multi_column_wTJTNc",
-    "featured_product_DFaXPq",
-    "rich_text_R8Y4Q3",
-    "timeline_zYA4JN",
-    "press_3MPGQ4",
-    "images_with_text_scrolling_UYQwzg",
-    "multi_column_mHBk3Y",
-    "rich_text_EMyhGK",
-    "image_with_text_overlay_Gr6nFQ",
+    "rich_text_JEkECK",
+    "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
