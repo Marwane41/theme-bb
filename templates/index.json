@@ -83,12 +83,12 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -248,7 +248,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#f0f0f0",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -538,9 +538,9 @@
           "settings": {
             "image": "shopify://shop_images/petits_pois.gif",
             "column_size": "3",
-            "title": "Peptides de collagène",
+            "title": "Lutéine – Le bouclier naturel de la rétine",
             "heading_tag": "h4",
-            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "content": "<p>La lutéine agit comme un <strong>filtre de lumière bleue</strong>, protégeant la macula contre les dommages liés aux écrans et au soleil. Elle aide à <strong>prévenir la DMLA</strong> (dégénérescence maculaire liée à l’âge) et améliore la <strong>vision en faible luminosité</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -551,9 +551,9 @@
           "settings": {
             "image": "shopify://shop_images/myrtilles.gif",
             "column_size": "3",
-            "title": "Élastine",
+            "title": "Myrtilles – Soutien de la microcirculation oculaire",
             "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "content": "<p>Riches en anthocyanes, les myrtilles améliorent la <strong>circulation sanguine au niveau des yeux</strong>, favorisent la <strong>vision nocturne</strong> et réduisent l’inflammation. Elles sont utilisées depuis longtemps pour soulager les <strong>yeux fatigués</strong>.</p><h3></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -564,9 +564,9 @@
           "settings": {
             "image": "shopify://shop_images/epinards.gif",
             "column_size": "3",
-            "title": "Acide hyaluronique",
+            "title": "Vitamine E – Protectrice des membranes cellulaires",
             "heading_tag": "h4",
-            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "content": "<p>Elle protège les cellules de la rétine et du cristallin contre l’oxydation, ce qui contribue à <strong>ralentir le vieillissement oculaire</strong>. Elle agit en synergie avec la vitamine C.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -577,9 +577,9 @@
           "settings": {
             "image": "shopify://shop_images/vitamines_c.gif",
             "column_size": "3",
-            "title": "Glycérine",
+            "title": "Vitamine C – Antioxydant contre le stress oxydatif",
             "heading_tag": "h4",
-            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "content": "<p>Elle protège les cellules oculaires des radicaux libres et aide à <strong>prévenir la cataracte</strong>. Elle soutient également la régénération d’autres antioxydants comme la vitamine E.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -590,9 +590,9 @@
           "settings": {
             "image": "shopify://shop_images/zinc.gif",
             "column_size": "3",
-            "title": "Squalane",
+            "title": "Zinc – Transporteur de la vitamine A et gardien de la vision",
             "heading_tag": "h4",
-            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "content": "<p>Le zinc est essentiel pour <strong>la fonction rétinienne</strong> et l’absorption de la vitamine A. Il joue un rôle clé dans la <strong>vision nocturne</strong> et la protection de la rétine.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -603,9 +603,9 @@
           "settings": {
             "image": "shopify://shop_images/pois_chiche.gif",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Pois chiches – Source végétale de zinc et de lutéine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>En plus d’être riches en <strong>zinc</strong>, les pois chiches contiennent des antioxydants comme la <strong>lutéine</strong>. C’est un excellent <strong>aliment végétarien</strong> pour soutenir la santé des yeux au quotidien.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -626,7 +626,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ingrédients testés cliniquement",
+        "title": "La nature au service de votre santé visuelle",
         "content": "",
         "background": "",
         "background_gradient": "",
