@@ -124,8 +124,48 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_2.png",
-        "mobile_image": "shopify://shop_images/benefices_2.png",
+        "image": "shopify://shop_images/benefices_3.png",
+        "mobile_image": "shopify://shop_images/benefices_3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_46BUxt": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DMQDm4": {
+          "type": "subheading",
+          "settings": {
+            "text": "Redécouvrez le confort visuel en seulement 3 semaines."
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DMQDm4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_dzxRVf": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/avt_apres.png",
+        "mobile_image": "shopify://shop_images/avt_apres.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -479,32 +519,32 @@
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Composition Sérum Peptide Ceralyne",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>",
+            "title": "👃 Est-ce que les gélules ont un goût ou une odeur désagréable ?",
+            "content": "<p>Non, elles sont <strong>sans goût ni odeur</strong>, faciles à avaler et ne laissent aucun arrière-goût désagréable.</p>",
             "page": ""
           }
         },
         "tab_GUd9zE": {
           "type": "tab",
           "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_aQDKUA": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours Satisfait ou Remboursé",
-            "content": "<p>Essayer le kit anti âge ceralyne sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
+            "title": "👁️ Ce complément aide-t-il contre la DMLA ?",
+            "content": "<p>Oui. Il contient des antioxydants puissants, dont la <strong>lutéine et la zéaxanthine</strong>, qui protègent les cellules de la macula contre les dommages oxydatifs – l’une des principales causes de dégénérescence maculaire.</p>",
             "page": ""
           }
         },
         "tab_dkjrUh": {
           "type": "tab",
           "settings": {
-            "title": "Service Client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@ceralyne.fr</p>",
+            "title": "😣 Et pour les yeux secs ou irrités ?",
+            "content": "<p>Absolument. La formule stimule l’<strong>hydratation naturelle</strong> et la <strong>production de larmes</strong>, soulageant ainsi <strong>rougeurs, sécheresse et inconfort</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_aQDKUA": {
+          "type": "tab",
+          "settings": {
+            "title": "60 jours Satisfait ou Remboursé",
+            "content": "<p>Essayer <strong>les compléments alimentaires </strong> sans risque <strong>pendant 60 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le retourner et vous recevrez <strong>un remboursement</strong>.</p>",
             "page": ""
           }
         }
@@ -513,8 +553,8 @@
         "tab_kNhjBC",
         "tab_qpeWfc",
         "tab_GUd9zE",
-        "tab_aQDKUA",
-        "tab_dkjrUh"
+        "tab_dkjrUh",
+        "tab_aQDKUA"
       ],
       "settings": {
         "full_width": true,
@@ -632,87 +672,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "rich_text_JEkECK": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_t6DjJt": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h2><strong>U</strong>ne peau rajeunie<strong> en seulement 4 étapes</strong></h2>"
-          }
-        },
-        "richtext_x7NCKi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Les dermatologues recommandent <strong>un traitement toutes les 2 semaines</strong> pour des résultats optimaux.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_t6DjJt",
-        "richtext_x7NCKi"
-      ],
-      "custom_css": [
-        ".section-full {padding-bottom: 0px;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "how_to_use_sambal_mtLn7y": {
-      "type": "how-to-use-sambal",
-      "blocks": {
-        "step_7q9JWB": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.",
-            "alignment": "left"
-          }
-        },
-        "step_VCbrVx": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.",
-            "alignment": "left"
-          }
-        },
-        "step_QxA9A8": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement",
-            "alignment": "left"
-          }
-        },
-        "step_rTyP7G": {
-          "type": "step",
-          "settings": {
-            "video": "",
-            "title": "",
-            "description": "Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.",
-            "alignment": "left"
-          }
-        }
-      },
-      "block_order": [
-        "step_7q9JWB",
-        "step_VCbrVx",
-        "step_QxA9A8",
-        "step_rTyP7G"
-      ],
-      "custom_css": [],
-      "settings": {}
     },
     "faq_MQHPPV": {
       "type": "faq",
@@ -927,13 +886,13 @@
     "logo_list_4BjWGF",
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
+    "rich_text_46BUxt",
+    "image_with_text_overlay_dzxRVf",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
-    "rich_text_JEkECK",
-    "how_to_use_sambal_mtLn7y",
     "faq_MQHPPV",
     "17359565654f612dcd"
   ]
