@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel.png",
+        "mobile_image": "shopify://shop_images/banniere_tel_0d2cfd32-62ff-4638-888f-d2f04ae1aeec.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_e13072eb-cc51-4e59-b7a9-2f15fc703b64.png",
+            "logo": "shopify://shop_images/3_c099bfd9-39a0-426e-b71b-162fdf3f9e02.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4_2636a91e-652b-49cd-b10c-0bf19a6bd7ef.png",
+            "logo": "shopify://shop_images/4.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_96ca2e61-37a4-429f-9846-d38474ea5c18.png",
+            "logo": "shopify://shop_images/2_81de8eba-fc7a-4ebf-b2c4-c547168738c4.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +55,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_3ef85449-8d4d-4bd9-9cd6-02168b1a356a.png",
+            "logo": "shopify://shop_images/1_6d9331a3-b049-46d5-8433-aa97a63f0370.png",
             "logo_width": 120,
             "link": ""
           }
@@ -124,8 +124,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_3.png",
-        "mobile_image": "shopify://shop_images/benefices_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -146,7 +144,6 @@
       "block_order": [
         "subheading_DMQDm4"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -158,14 +155,11 @@
     },
     "image_with_text_overlay_dzxRVf": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/avt_apres.png",
-        "mobile_image": "shopify://shop_images/avt_apres.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -309,7 +303,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_1.webp",
+            "image": "shopify://shop_images/Avis_1.webp",
             "column_size": "3",
             "title": "Laura.K",
             "heading_tag": "h4",
@@ -322,7 +316,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_3.webp",
+            "image": "shopify://shop_images/Avis_3.webp",
             "column_size": "3",
             "title": "Marie.I",
             "heading_tag": "h4",
@@ -489,7 +483,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "zoone-lutein-eye-vitamins",
+        "product": "herplus-feminine-balance-gummies",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -576,7 +570,6 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/petits_pois.gif",
             "column_size": "3",
             "title": "Lutéine – Le bouclier naturel de la rétine",
             "heading_tag": "h4",
@@ -589,7 +582,6 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/myrtilles.gif",
             "column_size": "3",
             "title": "Myrtilles – Soutien de la microcirculation oculaire",
             "heading_tag": "h4",
@@ -602,7 +594,6 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/epinards.gif",
             "column_size": "3",
             "title": "Vitamine E – Protectrice des membranes cellulaires",
             "heading_tag": "h4",
@@ -615,7 +606,6 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/vitamines_c.gif",
             "column_size": "3",
             "title": "Vitamine C – Antioxydant contre le stress oxydatif",
             "heading_tag": "h4",
@@ -628,7 +618,6 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/zinc.gif",
             "column_size": "3",
             "title": "Zinc – Transporteur de la vitamine A et gardien de la vision",
             "heading_tag": "h4",
@@ -641,7 +630,6 @@
         "item_WX8gVg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/pois_chiche.gif",
             "column_size": "3",
             "title": "Pois chiches – Source végétale de zinc et de lutéine",
             "heading_tag": "h4",
