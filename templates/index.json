@@ -17,7 +17,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel_0d2cfd32-62ff-4638-888f-d2f04ae1aeec.png",
+        "mobile_image": "shopify://shop_images/banniere_tel.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/3_c099bfd9-39a0-426e-b71b-162fdf3f9e02.png",
+            "logo": "shopify://shop_images/Logo-Donna-Moderna.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/4.png",
+            "logo": "shopify://shop_images/marie_claire.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2_81de8eba-fc7a-4ebf-b2c4-c547168738c4.png",
+            "logo": "shopify://shop_images/Logo-vogue-italia.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,15 +55,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1_6d9331a3-b049-46d5-8433-aa97a63f0370.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_ThbXef": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
+            "logo": "shopify://shop_images/grazia6007.jpg",
             "logo_width": 120,
             "link": ""
           }
@@ -73,13 +65,12 @@
         "logo_A964Gc",
         "logo_PwVxki",
         "logo_pCMLRf",
-        "logo_fjVfnh",
-        "logo_ThbXef"
+        "logo_fjVfnh"
       ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur:",
+        "title": "Apparso sulle riviste di moda e bellezza più rinomate",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -98,7 +89,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la Micro Infusion Anti-âge ceralyne ?",
+            "text": "Perché scegliere Bradiva",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -124,6 +115,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/benef_2.png",
+        "mobile_image": "shopify://shop_images/benef_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -153,18 +146,31 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_dzxRVf": {
-      "type": "image-with-text-overlay",
+    "before_after_image_wdM9cL": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/madspy-image-1760648541452.jpg",
+        "before_image_mobile": "shopify://shop_images/madspy-image-1760648541452.jpg",
+        "after_image": "shopify://shop_images/madspy-image-1760648543399.png",
+        "after_image_mobile": "shopify://shop_images/madspy-image-1760648543399.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -303,7 +309,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_1.webp",
             "column_size": "3",
             "title": "Laura.K",
             "heading_tag": "h4",
@@ -316,7 +321,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Avis_3.webp",
             "column_size": "3",
             "title": "Marie.I",
             "heading_tag": "h4",
@@ -329,7 +333,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_2.jpg",
             "column_size": "3",
             "title": "Agathe.J",
             "heading_tag": "h4",
@@ -875,7 +878,7 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_46BUxt",
-    "image_with_text_overlay_dzxRVf",
+    "before_after_image_wdM9cL",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
