@@ -309,6 +309,7 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/54.png",
             "column_size": "3",
             "title": "Laura.K",
             "heading_tag": "h4",
@@ -321,6 +322,7 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/53.png",
             "column_size": "3",
             "title": "Marie.I",
             "heading_tag": "h4",
@@ -333,10 +335,24 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/55.png",
             "column_size": "3",
             "title": "Agathe.J",
             "heading_tag": "h4",
             "content": "<p><em>\"</em>J’ai testé des marques moins chères avant, mais la différence est nette avec Zoone. Vision plus claire et moins de gêne dans la journée. Je préfère payer un peu plus pour un vrai résultat.<em>\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H9wFkb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/56.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -346,7 +362,8 @@
       "block_order": [
         "item_7BdeiK",
         "item_JJLm4U",
-        "item_GECyWQ"
+        "item_GECyWQ",
+        "item_H9wFkb"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -495,11 +512,24 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "custom_liquid_ebKGdt": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">“Un’alternativa naturale e non invasiva che aiuta a scolpire la silhouette stimolando i muscoli ed evitando i fastidi dei metodi tradizionali. Ideale per chi desidera un corpo armonioso senza interventi.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophia L. </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "tabs_Waa9zt": {
@@ -573,6 +603,7 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/54.png",
             "column_size": "3",
             "title": "Lutéine – Le bouclier naturel de la rétine",
             "heading_tag": "h4",
@@ -585,6 +616,7 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/53.png",
             "column_size": "3",
             "title": "Myrtilles – Soutien de la microcirculation oculaire",
             "heading_tag": "h4",
@@ -597,6 +629,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/55.png",
             "column_size": "3",
             "title": "Vitamine E – Protectrice des membranes cellulaires",
             "heading_tag": "h4",
@@ -609,6 +642,7 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/56.png",
             "column_size": "3",
             "title": "Vitamine C – Antioxydant contre le stress oxydatif",
             "heading_tag": "h4",
@@ -882,6 +916,7 @@
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
+    "custom_liquid_ebKGdt",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
     "faq_MQHPPV",
