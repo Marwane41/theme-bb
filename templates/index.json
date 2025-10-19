@@ -178,13 +178,13 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Nos clientes en parlent le mieux",
+        "heading": "Sono le nostre clienti a parlare per noi",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
         "heading_size_mobile": 24,
         "heading_height": 130,
-        "rating_text": "Excellent",
+        "rating_text": "Excellente",
         "rating_text_custom": false,
         "rating_text_font": "josefin_sans_n4",
         "rating_text_size": 24,
@@ -198,7 +198,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p>basé sur +<strong>1 067</strong> avis</p>",
+        "text": "<p><strong>Valutato 4,9 su oltre 1.067 recensioni </strong></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -311,9 +311,9 @@
           "settings": {
             "image": "shopify://shop_images/54.png",
             "column_size": "3",
-            "title": "Laura.K",
+            "title": "Martina. J",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>J’étais pas sûre qu’un complément puisse vraiment aider mes yeux fatigués à cause du travail sur écran… Mais après 3 semaines, mes yeux piquent beaucoup moins en fin de journée. Je continue sans hésiter !<em>\"</em></p>",
+            "content": "<p>« Da quando uso Bradiva mi sento più energica e tonica! Il gusto è leggero e piacevole, e ho notato i glutei più sodi già dopo poche settimane. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -324,9 +324,9 @@
           "settings": {
             "image": "shopify://shop_images/53.png",
             "column_size": "3",
-            "title": "Marie.I",
+            "title": "Giulia. K",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>J’avais peur d’avoir des maux de ventre comme avec d’autres compléments, mais ici rien du tout. Deux gélules le matin avec un verre d’eau et c’est réglé.<em>\"</em></p>",
+            "content": "<p>« Finalmente un integratore pensato per noi donne! Pelle più compatta, più forza negli allenamenti e un lato B che non avevo mai avuto prima. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -350,9 +350,87 @@
           "settings": {
             "image": "shopify://shop_images/56.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Valentina. S",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« In poche settimane i miei glutei sono diventati più pieni e arrotondati. Il sapore è buono e adoro la sensazione di benessere che mi dà. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Pan4Pj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Francais_Italien_2.png",
+            "column_size": "3",
+            "title": "Aleesia. P",
+            "heading_tag": "h4",
+            "content": "<p>« Non credevo fosse possibile vedere risultati così! Glutei più alti e tonici, senza cambiare la mia routine. Bradiva è diventato il mio rituale quotidiano! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XrtfRd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Francais_Italien.png",
+            "column_size": "3",
+            "title": "Sara. G",
+            "heading_tag": "h4",
+            "content": "<p>« In palestra ho notato subito la differenza: più energia, più definizione e una pelle più liscia. Bradiva funziona davvero! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3xJ8hE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Francais_Italien_4.png",
+            "column_size": "3",
+            "title": "Federica. D",
+            "heading_tag": "h4",
+            "content": "<p>« Dopo 2 mesi di Bradiva, la mia pelle è più soda e ho ritrovato fiducia nel mio corpo. Mai vista una trasformazione così naturale! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_raMymr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Italien_4_80c74132-44be-45e7-950c-5732d3d18eb6.png",
+            "column_size": "3",
+            "title": "Roberta. I",
+            "heading_tag": "h4",
+            "content": "<p>« Ho perso 5 chili senza sacrifici e con tanta più energia! Bradiva è diventato il mio alleato ogni mattina. »</p><p></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HEM6gj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Italien_3_b9eae128-5af8-4c88-81a1-476372c06a15.png",
+            "column_size": "3",
+            "title": "Elena. A",
+            "heading_tag": "h4",
+            "content": "<p>« Prima ero sempre stanca, ora ho energia costante e mi sento più leggera! Bradiva mi ha cambiato la giornata. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qeXwJU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Italien_2_d1dacd9d-102b-4111-8aeb-816635c6490a.png",
+            "column_size": "3",
+            "title": "Marina. T",
+            "heading_tag": "h4",
+            "content": "<p>« Bradiva è la mia scoperta dell’anno! Pelle più compatta, corpo più armonioso e glutei più scolpiti. Lo adoro! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -363,7 +441,13 @@
         "item_7BdeiK",
         "item_JJLm4U",
         "item_GECyWQ",
-        "item_H9wFkb"
+        "item_H9wFkb",
+        "item_Pan4Pj",
+        "item_XrtfRd",
+        "item_3xJ8hE",
+        "item_raMymr",
+        "item_HEM6gj",
+        "item_qeXwJU"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -603,11 +687,11 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/54.png",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "Lutéine – Le bouclier naturel de la rétine",
+            "title": "5000 mg di creatina monoidrato",
             "heading_tag": "h4",
-            "content": "<p>La lutéine agit comme un <strong>filtre de lumière bleue</strong>, protégeant la macula contre les dommages liés aux écrans et au soleil. Elle aide à <strong>prévenir la DMLA</strong> (dégénérescence maculaire liée à l’âge) et améliore la <strong>vision en faible luminosité</strong>.<br/><br/></p>",
+            "content": "<p>Favorisce lo sviluppo della massa muscolare e stimola la produzione di energia cellulare.F</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -616,11 +700,11 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/53.png",
+            "image": "shopify://shop_images/2_666f6104-08b5-41e6-94e0-f9302c364a9e.png",
             "column_size": "3",
-            "title": "Myrtilles – Soutien de la microcirculation oculaire",
+            "title": "Il collagene idrolizzato (2500 mg)",
             "heading_tag": "h4",
-            "content": "<p>Riches en anthocyanes, les myrtilles améliorent la <strong>circulation sanguine au niveau des yeux</strong>, favorisent la <strong>vision nocturne</strong> et réduisent l’inflammation. Elles sont utilisées depuis longtemps pour soulager les <strong>yeux fatigués</strong>.</p><h3></h3>",
+            "content": "<p>aiuta a rassodare e migliorare l’elasticità della pelle, proteggendo al tempo stesso le articolazioni e i tessuti connettivi.</p><h3></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -629,11 +713,11 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/55.png",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "Vitamine E – Protectrice des membranes cellulaires",
+            "title": "L’acido ialuronico (100 mg)",
             "heading_tag": "h4",
-            "content": "<p>Elle protège les cellules de la rétine et du cristallin contre l’oxydation, ce qui contribue à <strong>ralentir le vieillissement oculaire</strong>. Elle agit en synergie avec la vitamine C.</p>",
+            "content": "<p>idrata la pelle in profondità, restituendole morbidezza, luminosità e un aspetto più giovane e tonico.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -642,11 +726,11 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/56.png",
+            "image": "shopify://shop_images/4_1243b82d-9285-43d3-ac4c-faa4379c7c1f.png",
             "column_size": "3",
-            "title": "Vitamine C – Antioxydant contre le stress oxydatif",
+            "title": "Le vitamine B6 e B12",
             "heading_tag": "h4",
-            "content": "<p>Elle protège les cellules oculaires des radicaux libres et aide à <strong>prévenir la cataracte</strong>. Elle soutient également la régénération d’autres antioxydants comme la vitamine E.</p>",
+            "content": "<p>offrono una vera carica di energia quotidiana, migliorando anche l’umore e la concentrazione.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -655,22 +739,11 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5.png",
             "column_size": "3",
-            "title": "Zinc – Transporteur de la vitamine A et gardien de la vision",
+            "title": "BCAA (2000 mg)",
             "heading_tag": "h4",
-            "content": "<p>Le zinc est essentiel pour <strong>la fonction rétinienne</strong> et l’absorption de la vitamine A. Il joue un rôle clé dans la <strong>vision nocturne</strong> et la protection de la rétine.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WX8gVg": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Pois chiches – Source végétale de zinc et de lutéine",
-            "heading_tag": "h4",
-            "content": "<p>En plus d’être riches en <strong>zinc</strong>, les pois chiches contiennent des antioxydants comme la <strong>lutéine</strong>. C’est un excellent <strong>aliment végétarien</strong> pour soutenir la santé des yeux au quotidien.</p>",
+            "content": "<p>riducono la tensione muscolare, aumentano la resistenza e accelerano il recupero dopo l’attività fisica.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -682,8 +755,7 @@
         "item_QdbeiM",
         "item_dPL9Rr",
         "item_LV4cm8",
-        "item_6nijje",
-        "item_WX8gVg"
+        "item_6nijje"
       ],
       "settings": {
         "full_width": true,
@@ -698,154 +770,201 @@
         "text_color": ""
       }
     },
+    "rich_text_FKTUGn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8hHpUi": {
+          "type": "heading",
+          "settings": {
+            "text": "Come si usa: il segreto per un lato B perfetto",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8hHpUi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "how_to_use_sambal_LAmJVU": {
+      "type": "how-to-use-sambal",
+      "blocks": {
+        "step_YTCaWL": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "video": "",
+            "title": "Aggiungi una dose di Bradiva nel tuo shaker.",
+            "description": "Ogni misurino racchiude la giusta quantità di attivi per stimolare la crescita e la tonicità dei glutei.",
+            "alignment": "left"
+          }
+        },
+        "step_H8AhF9": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/7_4917f274-f57a-4ba3-bab7-7ae2be650d85.png",
+            "video": "",
+            "title": "Aggiungi acqua e agita bene per qualche secondo.",
+            "description": "La formula si attiva e i principi agiscono per dare forza ai muscoli e sostegno alla pelle.",
+            "alignment": "left"
+          }
+        },
+        "step_JXcKJd": {
+          "type": "step",
+          "settings": {
+            "image": "shopify://shop_images/8_2989a519-bab9-45de-b7a9-b3babbc39cec.png",
+            "video": "",
+            "title": "Bevi la tua dose di energia e femminilità.",
+            "description": "Giorno dopo giorno, sentirai più forza, più forma e un lato B più definito.",
+            "alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "step_YTCaWL",
+        "step_H8AhF9",
+        "step_JXcKJd"
+      ],
+      "name": "How to Use",
+      "settings": {}
+    },
     "faq_MQHPPV": {
       "type": "faq",
       "blocks": {
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 9 jours ouvrés</p>"
+            "title": "Qual è il gusto di Bradiva ?",
+            "content": "<p>Bradiva ha un sapore leggero, fruttato e piacevole.<br/><br/>Nessun retrogusto chimico o amaro: è un piacere da gustare ogni giorno.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la micro-infusion?",
-            "content": "<p>Notre <strong>système de micro-infusion</strong> révolutionnaire utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer des micro-canaux à la surface de la peau.</p><p>Grâce à cette technologie, un sérum concentré en <strong>acide hyaluronique et peptides de collagène</strong> pénètre en <strong>profondeur</strong>, là où les soins anti-âge classiques n’atteignent pas.</p><p><strong>Résultat : votre collagène est stimulé</strong>, réduisant rides, ridules et relâchement cutané, pour une peau plus ferme et éclatante.</p><p>Utilisez-le <strong>toutes les deux semaines</strong> et retrouvez une peau plus lisse et tonifiée depuis le confort de votre maison, en seulement quelques séances !</p><p>1️⃣ <strong>Préparation</strong> : Remplissez l’applicateur avec le sérum et fixez une tête de micro-aiguilles stérile à usage unique.</p><p>2️⃣ <strong>Activation</strong> : Retournez l’appareil et laissez le sérum s’imprégner pendant 1 à 2 minutes.</p><p>3️⃣ <strong>Application</strong> : Tapotez délicatement la peau (visage, cou, lèvres), en effectuant <strong>2 à 3 passages</strong> pour une absorption optimale.</p><p>4️⃣ <strong>Soin après application</strong> : Massez l’excédent de sérum sur la peau et laissez agir toute la nuit. <strong>Évitez le maquillage et l’exposition au soleil pendant 24h</strong>. Vous pouvez compléter avec votre routine de soins habituelle.</p>"
+            "title": "Bradiva favorisce la perdita di peso ?",
+            "content": "<p>Sì, Bradiva aiuta a bruciare i grassi e a snellire la silhouette.<br/><br/>Ma attenzione: il suo obiettivo non è farti “dimagrire ovunque” o perdere le tue forme.</p><p>La sua formula 6 in 1 agisce come un booster naturale del metabolismo:</p><p>Aiuta il corpo a utilizzare i grassi come fonte di energia,<br/></p><p>Favorisce la digestione e il drenaggio,<br/></p><p>E soprattutto contribuisce a scolpire e mantenere le curve femminili, in particolare nella zona 🍑.<br/></p><p>✨ <strong>Il risultato:</strong> non perdi solo peso, ma ottieni una silhouette più armoniosa — vita più sottile, pancia più piatta, glutei tonici e pelle più luminosa.</p><p>⚡ <strong>Bradiva è molto più di un semplice integratore dimagrante:</strong><br/><br/>è un alleato di trasformazione che agisce su linea, curve e luminosità.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "Est-ce indolore et sans danger ?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong> ! La plupart des utilisateurs ressentent simplement un léger picotement.</p><p>Notre <strong>système de micro-infusion</strong> est <strong>approuvé par des dermatologues</strong>, <strong>facile à utiliser</strong>, <strong>stérile</strong>, et formulé <strong>sans tests sur les animaux, sans sulfates ni parabènes</strong>.</p><p>De plus, notre sérum est composé d’ingrédients <strong>haut de gamme rigoureusement sélectionnés</strong>, respectant <strong>les normes de qualité les plus strictes</strong> du secteur et garantissant <strong>zéro risque d’effets indésirables</strong>.</p><p>✔ <strong>Sans parfum</strong><br/>✔ <strong>Non testé sur les animaux</strong><br/>✔ <strong>Sans BHA</strong><br/>✔ <strong>Sans parabènes</strong></p>"
+            "title": "In quale forma si presenta Bradiva ?",
+            "content": "<p>Bradiva è una polvere da diluire in acqua.<br/><br/>Niente capsule da ingerire, né compresse troppo grandi: solo una bevanda facile e piacevole da gustare.</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Les têtes d'aiguille sont-elles réutilisables?",
-            "content": "<p><br/>Les têtes d'aiguille peuvent être utilisées jusqu'à 3 fois maximum. Il est essentiel de bien les nettoyer à l'eau et de les désinfecter entre chaque utilisation afin de garantir leur hygiène et l'efficacité du traitement. </p>"
+            "title": "Come preparare Bradiva ?",
+            "content": "<p>È semplicissimo: aggiungi una dose di Bradiva in un bicchiere o nello shaker, versa dell’acqua, mescola bene… e gusta la tua bevanda! 🍑<br/><br/>Un piccolo gesto quotidiano per grandi risultati.</p><p></p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Où puis-je l'utiliser ?",
-            "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à <strong>la perte de collagène</strong>.<br/>Utilisez-le <strong>toutes les deux semaines</strong> pour stimuler <strong>la production naturelle de collagène</strong>.</p><p>✔ <strong>Rides du front</strong><br/>✔ <strong>Rides du lion</strong> (entre les sourcils)<br/>✔ <strong>Pattes d’oie</strong><br/>✔ <strong>Rides autour des yeux</strong><br/>✔ <strong>Rides du nez (\"bunny lines\")</strong><br/>✔ <strong>Menton irrégulier (\"strawberry chin\")</strong><br/>✔ <strong>Sillons nasogéniens</strong><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/>✔ <strong>Plis d’amertume</strong> (aux coins des lèvres)<br/>✔ <strong>Relâchement du cou (\"turkey neck\")</strong></p>"
+            "title": "Bisogna fare molto sport per usare Bradiva ?",
+            "content": "<p>No! Bradiva è pensato proprio per chi non ha sempre il tempo o la voglia di passare ore ad allenarsi.<br/><br/>Bastano pochi esercizi semplici per vedere i risultati.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "À quelle vitesse verrai-je les résultats?",
-            "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
+            "title": "Quanto tempo devo allenarmi al giorno ?",
+            "content": "<p>Non serve passare ore in palestra! Bastano 10 minuti al giorno a casa per sentire i benefici: più energia, meno stress e una forma migliore.<br/><br/>E se hai un po’ più di tempo, puoi completare la tua routine con gli esercizi del PDF 2 o 3 volte a settimana per accelerare i tuoi progressi.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Est-ce efficace pour les hommes ?",
-            "content": "<p>Absolument !<br/><br/>Le Micro Infusion Kit est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.<br/><br/>Il cible efficacement les problèmes de peau courants tels que les ridules, les rides, les taches sombres et les textures irrégulières, quel que soit le genre. Les hommes peuvent bénéficier des mêmes avantages de régénération et d'amélioration de la peau que les femmes.</p>"
+            "title": "Quante volte al giorno devo prenderlo ?",
+            "content": "<p>Il programma è semplicissimo: basta <strong>1 dose al giorno</strong> per attivare tutti i benefici bruciare i grassi, scolpire le curve e donare luminosità alla pelle. ✨</p><p></p>"
           }
         },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "Est-ce sûr pour tous les types de peau?",
+            "title": "È sicuro per le donne con PCOS (Sindrome dell’Ovaio Policistico) ?",
             "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
           }
         },
         "item_6cJAWF": {
           "type": "item",
           "settings": {
-            "title": "Est-ce efficace autour des yeux, des paupières et sur le cou?",
-            "content": "<p>Oui, il fonctionne pratiquement partout, car le vieillissement de la peau sur tout le corps est causé par la perte de collagène, ce que notre système traite en seulement quelques séances !<br/><br/>Cependant, évitez d'appliquer le dispositif trop près de la zone délicate des yeux, notamment directement sur les paupières ou la ligne des cils. Maintenez une distance d'au moins 3 cm (1,5 pouce) des yeux.<br/><br/>Pour les lèvres, appliquez délicatement l'appareil directement sur les lèvres pour de meilleurs résultats.<br/><br/>Vous pouvez également suivre notre guide vidéo étape par étape que vous recevrez avec votre commande.</p>"
+            "title": "Posso combinare questo prodotto con altri integratori alimentari ?",
+            "content": "<p>Bradiva sostituisce la maggior parte degli integratori: <strong>creatina, BCAA, collagene, glutammina e vitamine essenziali.</strong><br/><br/>Puoi comunque assumere <strong>multivitaminici, omega-3 o farmaci prescritti</strong>, ma non è più necessario acquistare creatina o BCAA separatamente.</p>"
           }
         },
         "item_3ydTfx": {
           "type": "item",
           "settings": {
-            "title": "Y a-t-il un temps de pause nécessaire entre chaque utilisation ?",
-            "content": "<p>Il n'y a pratiquement pas de temps de pause après l'utilisation du Micro Infusion Kit.<br/><br/>Vous pourriez observer une légère rougeur ou une sensibilité discrète immédiatement après le soin, mais ces effets disparaissent généralement en quelques heures à un jour.<br/><br/>Il est conseillé d'éviter le maquillage, l'exposition directe au soleil et les produits de soin trop agressifs pendant au moins 24 heures après le traitement, afin de permettre à la peau de se régénérer correctement.</p>"
+            "title": "Che garanzia offrite ?",
+            "content": "<p>Offriamo una <strong>garanzia soddisfatta o rimborsata di 90 giorni.</strong><br/><br/>Se non noti alcun miglioramento in termini di forza, energia o forma del corpo nonostante un uso regolare, <strong>contattaci e ti rimborseremo completamente.</strong></p>"
           }
         },
         "item_QbyjD9": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser de l’acide hyaluronique ou du rétinol après avoir utilisé le Micro Infusion Kit ?",
-            "content": "<p>Vous pouvez appliquer vos soins habituels, tels que des crèmes à base d'acide hyaluronique, la nuit suivant l'utilisation du Micro Infusion Kit. Cela aidera à hydrater et apaiser la peau, tout en renforçant les bienfaits du traitement (l'absorption des produits sera également améliorée jusqu'à 300%, conduisant à des résultats encore plus visibles).<br/><br/>Cependant, évitez d'utiliser du rétinol ou d'autres ingrédients actifs puissants comme les acides (par exemple, l'acide glycolique ou salicylique) immédiatement après le soin. Ces produits peuvent irriter la peau fraîchement traitée.<br/><br/>Attendez au moins 24 à 48 heures avant de réintroduire le rétinol ou d'autres actifs puissants dans votre routine de soins pour permettre à votre peau de se rétablir complètement. Suivez toujours les instructions de soins après traitement pour obtenir les meilleurs résultats.<br/><br/>En dehors de cela, veillez à ne pas appliquer de maquillage et à garder votre peau propre pendant environ 12 heures après le traitement.</p>"
+            "title": "Quali sono i risultati ?",
+            "content": "<p>Assolutamente! I nostri ingredienti sono <strong>scientificamente comprovati</strong>:<br/><br/>la <strong>creatina monoidrato</strong> è uno degli integratori più studiati al mondo, con oltre 500 ricerche che ne confermano l’efficacia.<br/><br/>Il <strong>collagene idrolizzato</strong> migliora la compattezza della pelle, mentre il <strong>Myo-Inositolo</strong> aiuta a regolare gli ormoni femminili.</p><p><strong>Risultati tipici:</strong><br/><br/>✅ <strong>1-2 settimane:</strong> più energia e miglior recupero<br/><br/>✅ <strong>3-4 settimane:</strong> aumento della forza muscolare<br/><br/>✅ <strong>6-8 settimane:</strong> silhouette più soda e definita</p><p>Più di <strong>20.000 donne</strong> si fidano già di Bradiva! 💖<br/><br/>E se dopo 90 giorni di utilizzo regolare non noti alcun miglioramento, <strong>ti rimborsiamo completamente.</strong></p>"
           }
         },
         "item_RKyzeA": {
           "type": "item",
           "settings": {
-            "title": "Ce produit est-il automatiquement renouvelé et expédié chaque mois ?",
-            "content": "<p><strong>Non</strong>, le Micro Infusion Kit ne fait pas partie d’un programme de renouvellement automatique ou d’abonnement mensuel.<br/><br/>Chaque achat est une transaction unique, et les produits sont expédiés en fonction de cette commande.<br/><br/>Si vous souhaitez recevoir des kits supplémentaires à l'avenir, vous devrez passer une nouvelle commande à chaque fois.</p>"
+            "title": "Quanto dura una confezione ?",
+            "content": "<p>Una confezione di Bradiva contiene <strong>269 g di polvere</strong>, cioè <strong>30 giorni di trattamento</strong> con la dose consigliata di <strong>1 misurino (9 g) al giorno.</strong></p><p>Per risultati ottimali, consigliamo:<br/><br/><strong>Minimo:</strong> 1 confezione (30 giorni) per percepire i primi effetti<br/><br/><strong>Consigliato:</strong> 2-3 confezioni (60-90 giorni) per una trasformazione visibile<br/><br/><strong>Ideale:</strong> trattamento continuo di 6 mesi per risultati duraturi</p><p>Molte delle nostre clienti ordinano direttamente <strong>2 o 3 confezioni</strong> per approfittare dei <strong>prezzi scontati</strong> e per evitare le <strong>rotture di stock.</strong></p>"
           }
         },
         "item_MihJ8p": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ce produit aide à atténuer les rides très profondes ?",
-            "content": "<p>Oui, le Micro Infusion Kit peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 3 à 6 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+            "title": "Posso usarlo se faccio già sport ?",
+            "content": "<p>Sì, anzi è <strong>fortemente consigliato!</strong> <br/><br/>Bradiva è stato formulato per <strong>potenziare i tuoi allenamenti</strong>, qualunque sia la tua attività:</p><p><strong>Palestra / Fitness:</strong> la creatina aumenta le prestazioni e accelera il recupero<br/><br/><strong>Pilates / Yoga:</strong> il collagene aiuta a mantenere la flessibilità articolare<br/><br/><strong>Cardio / Running:</strong> i BCAA riducono l’affaticamento muscolare<br/><br/><strong>Allenamenti indoor:</strong> la L-Glutamina ottimizza il recupero post sforzo</p><p><strong>Timing ottimale :</strong><br/><br/>⏰ <strong>Prima dell’allenamento:</strong> 30 minuti prima per più energia<br/><br/>💧 <strong>Dopo l’allenamento:</strong> entro un’ora per favorire il recupero</p><p>Anche se sei <strong>principiante</strong>, Bradiva ti darà l’energia e la motivazione per iniziare e progredire più velocemente! ✨</p>"
           }
         },
         "item_GWJTCQ": {
           "type": "item",
           "settings": {
-            "title": "Ce produit aide-t-il également à atténuer les cicatrices ?",
-            "content": "<p><strong>Oui</strong>, le Micro Infusion Kit peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 90 jours reste valable pour toutes les commandes.</p>"
+            "title": "Quali sono i costi di spedizione ?",
+            "content": "<p>Offriamo la <strong>spedizione gratuita in tutta Italia</strong>, senza alcun costo aggiuntivo per le nostre clienti. </p>"
           }
         },
         "item_DAfyn3": {
           "type": "item",
           "settings": {
-            "title": "Est-ce facile à utiliser ? Y a-t-il de bonnes instructions ?",
-            "content": "<p>Oui, le Micro Infusion Kit est simple et facile à utiliser, et chaque traitement ne prend que 5 à 10 minutes.<br/><br/>Chaque commande est accompagnée d'instructions vidéo claires et d'un manuel détaillé pour vous guider tout au long du processus, afin de vous assurer d'obtenir les meilleurs résultats.<br/><br/>Les instructions couvrent tout, de la préparation du dispositif à l'application du sérum et aux soins après traitement.<br/><br/>Même si vous êtes novice en matière de ce type de soin, vous trouverez les étapes faciles à suivre.</p>"
+            "title": "Quanto dura la consegna ?",
+            "content": "<p>Spediamo con corrieri affidabili (DHL / Poste Italiane / GLS).<br/><br/>La preparazione dell’ordine richiede solitamente <strong>24-48 ore</strong>, poi la consegna avviene in <strong>4-7 giorni lavorativi</strong> in media.</p>"
           }
         },
         "item_VnHdN7": {
           "type": "item",
           "settings": {
-            "title": "Qui devrait utiliser le Micro Infusion Kit ?",
-            "content": "<p>La production de collagène commence à diminuer dès la vingtaine, rendant les traitements de régénération de la peau plus bénéfiques au fil des années.</p><p>Le Micro Infusion Kit est idéal pour les adultes de 25 à 80 ans qui souhaitent améliorer l'apparence de leur peau.</p><p>Il aide à réduire les ridules, les rides, les taches sombres et les irrégularités de texture, et convient à tous les types de peau.</p><p>Cependant, il n'est pas recommandé aux personnes ayant des affections cutanées graves, comme la rosacée, l'eczéma ou l'acné agressive, car ces conditions pourraient être aggravées. Si vous avez des préoccupations spécifiques ou des conditions médicales, il est conseillé de consulter un dermatologue avant utilisation.</p>"
+            "title": "Posso tracciare il mio ordine ?",
+            "content": "<p>Sì! 📦 Non appena la spedizione viene effettuata, riceverai un <strong>numero di tracciamento via e-mail</strong> per seguire il tuo pacco in tempo reale e, se necessario, <strong>scegliere le opzioni di consegna</strong> più comode per te.</p>"
           }
         },
         "item_3EBPbR": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser le Micro Infusion Kit si j'ai déjà eu des injections cosmétiques?",
-            "content": "<p>Oui, vous pouvez utiliser le Micro Infusion Kit même si vous avez déjà eu des injections cosmétiques.</p><p>Cependant, il est préférable d'attendre au moins deux semaines après vos injections avant d'utiliser le kit.</p><p>Cela permet au produit injecté de se stabiliser et évite toute interférence potentielle avec les résultats.</p>"
+            "title": "Come funziona il reso ?",
+            "content": "<p>Bradiva offre una <strong>garanzia soddisfatta o rimborsata di 90 giorni.</strong><br/><br/>Ti basta contattarci via e-mail all’indirizzo <a><strong>contact@bradiva.fr</strong></a> per avviare la procedura di reso.<br/><br/>Dopo la ricezione e la verifica del prodotto, il <strong>rimborso viene effettuato entro 1-5 giorni lavorativi</strong> direttamente sul tuo metodo di pagamento.</p>"
           }
         },
         "item_D3yQPm": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les ingrédients ?",
-            "content": "<p><strong>Composition du sérum :</strong></p><ul><li>Acide hyaluronique</li><li>Vitamine C</li><li>Collagène</li><li>Peptides</li><li>Centella</li><li>Oligopeptides</li><li>Glycyrrhizine<br/></li></ul><p><strong>Notre sérum est :</strong></p><ul><li>Sans Paraben</li><li>Sans Sulfate</li><li>Vegan</li><li>Organique</li><li>Sans parfum</li></ul>"
-          }
-        },
-        "item_8eKwAt": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je l'utiliser avec mon propre sérum ?",
-            "content": "<p>Nous ne recommandons pas d'utiliser le Micro Infusion Kit avec des sérums autres que celui fourni.</p><p>Le sérum inclus est spécialement formulé pour fonctionner en harmonie avec la technologie de microneedling du dispositif, garantissant une absorption et une efficacité optimales.</p>"
-          }
-        },
-        "item_V4HbrJ": {
-          "type": "item",
-          "settings": {
-            "title": "La Micro-infusion ceralyne peut-elle être utilisée en combinaison avec la thérapie par lumière rouge et les lasers RF ?",
-            "content": "<p>Oui, la Micro-Infusion ceralyne peut être combinée en toute sécurité avec des traitements comme la thérapie par lumière rouge ou la thérapie au laser RF.<br/><br/>Cependant, il est important de prévoir une période de récupération d’au moins deux nuits après l’utilisation de la Mincro-infusion ceralyne avant d’introduire ces thérapies. Cela permet à votre peau de se régénérer et optimise les bienfaits de tous les traitements.</p>"
-          }
-        },
-        "item_Bme77T": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle surface couvre un traitement ? Est-ce suffisant pour le visage et le cou ?",
-            "content": "<p>Oui, il y a largement assez de sérum pour couvrir à la fois le visage et le cou lors de chaque traitement.<br/><br/>En fait, vous aurez probablement un peu de sérum excédentaire, que vous pourrez appliquer doucement sur votre visage ou votre cou après le traitement pour maximiser l'hydratation et l'absorption.</p>"
+            "title": "Bradiva aiuta contro la cellulite ?",
+            "content": "<p>Sì! 💕 Il <strong>collagene</strong> agisce dall’interno rinforzando i tessuti cutanei, mentre la <strong>creatina</strong> e i <strong>BCAA</strong> contribuiscono a tonificare i muscoli.<br/><br/><strong>Il risultato:</strong> la pelle appare più compatta, il corpo più scolpito e la cellulite meno visibile. 🍑✨</p>"
           }
         }
       },
@@ -867,10 +986,7 @@
         "item_DAfyn3",
         "item_VnHdN7",
         "item_3EBPbR",
-        "item_D3yQPm",
-        "item_8eKwAt",
-        "item_V4HbrJ",
-        "item_Bme77T"
+        "item_D3yQPm"
       ],
       "settings": {
         "full_width": true,
@@ -878,8 +994,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Notre service clientèle est disponible 7 jours sur 7.",
-        "answer_time": "Temps de réponse moyen : 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -892,6 +1008,44 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "image_with_text_overlay_kUPeMC": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/faq.png",
+        "mobile_image": "shopify://shop_images/faq.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "contact_V6dyWF": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "17359565654f612dcd": {
@@ -919,7 +1073,11 @@
     "custom_liquid_ebKGdt",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
+    "rich_text_FKTUGn",
+    "how_to_use_sambal_LAmJVU",
     "faq_MQHPPV",
+    "image_with_text_overlay_kUPeMC",
+    "contact_V6dyWF",
     "17359565654f612dcd"
   ]
 }

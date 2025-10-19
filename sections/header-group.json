@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "OFFRES DE PRINTEMPS JUSQU’À -40%",
+            "text": "Fino al -50% di sconto",
             "url": ""
           }
         },
         "message_h3JjH9": {
           "type": "message",
           "settings": {
-            "text": "STOCKS BIENTÔT ÉPUISÉS",
+            "text": "Spedizione gratuita",
             "url": ""
           }
         },
         "message_XbYwYf": {
           "type": "message",
           "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
+            "text": "90 giorni soddisfatta o rimborsata",
             "url": ""
           }
         }
@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#446655",
+        "background": "#e1638f",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,6 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/LOGO.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
