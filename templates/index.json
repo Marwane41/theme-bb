@@ -192,7 +192,7 @@
         "rating_text_height": 130,
         "rating_text_mt": 16,
         "rating_text_mt_mobile": 20,
-        "rating": 4.7,
+        "rating": 4.9,
         "rating_hide": false,
         "rating_text_hide": false,
         "stars_count": 5,
@@ -306,6 +306,32 @@
     "multi_column_BKPLPt": {
       "type": "multi-column",
       "blocks": {
+        "item_3xJ8hE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Francais_Italien_4.png",
+            "column_size": "3",
+            "title": "Federica. D",
+            "heading_tag": "h4",
+            "content": "<p>« Dopo 2 mesi di Bradiva, la mia pelle è più soda e ho ritrovato fiducia nel mio corpo. Mai vista una trasformazione così naturale! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Pan4Pj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Francais_Italien_2.png",
+            "column_size": "3",
+            "title": "Aleesia. P",
+            "heading_tag": "h4",
+            "content": "<p>« Non credevo fosse possibile vedere risultati così! Glutei più alti e tonici, senza cambiare la mia routine. Bradiva è diventato il mio rituale quotidiano! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_7BdeiK": {
           "type": "item",
           "settings": {
@@ -358,19 +384,6 @@
             "link_style": "link"
           }
         },
-        "item_Pan4Pj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Francais_Italien_2.png",
-            "column_size": "3",
-            "title": "Aleesia. P",
-            "heading_tag": "h4",
-            "content": "<p>« Non credevo fosse possibile vedere risultati così! Glutei più alti e tonici, senza cambiare la mia routine. Bradiva è diventato il mio rituale quotidiano! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_XrtfRd": {
           "type": "item",
           "settings": {
@@ -379,19 +392,6 @@
             "title": "Sara. G",
             "heading_tag": "h4",
             "content": "<p>« In palestra ho notato subito la differenza: più energia, più definizione e una pelle più liscia. Bradiva funziona davvero! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3xJ8hE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Francais_Italien_4.png",
-            "column_size": "3",
-            "title": "Federica. D",
-            "heading_tag": "h4",
-            "content": "<p>« Dopo 2 mesi di Bradiva, la mia pelle è più soda e ho ritrovato fiducia nel mio corpo. Mai vista una trasformazione così naturale! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -438,13 +438,13 @@
         }
       },
       "block_order": [
+        "item_3xJ8hE",
+        "item_Pan4Pj",
         "item_7BdeiK",
         "item_JJLm4U",
         "item_GECyWQ",
         "item_H9wFkb",
-        "item_Pan4Pj",
         "item_XrtfRd",
-        "item_3xJ8hE",
         "item_raMymr",
         "item_HEM6gj",
         "item_qeXwJU"
