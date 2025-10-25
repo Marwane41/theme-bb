@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel.png",
+        "image": "shopify://shop_images/BANNIERE_PC_BRAD.png",
+        "mobile_image": "shopify://shop_images/ban_1_rs.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo-Donna-Moderna.png",
+            "logo": "shopify://shop_images/vogue_2.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/marie_claire.png",
+            "logo": "shopify://shop_images/grazia_a.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +47,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo-vogue-italia.png",
+            "logo": "shopify://shop_images/Marie-Claire-logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +55,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/grazia6007.jpg",
+            "logo": "shopify://shop_images/elle-logo-png_seeklogo-47116.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,8 +115,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benef_2.png",
-        "mobile_image": "shopify://shop_images/benef_2.png",
+        "image": "shopify://shop_images/benef_sb_2.png",
+        "mobile_image": "shopify://shop_images/benef_sb_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -126,17 +126,6 @@
     },
     "rich_text_46BUxt": {
       "type": "rich-text",
-      "blocks": {
-        "subheading_DMQDm4": {
-          "type": "subheading",
-          "settings": {
-            "text": "Redécouvrez le confort visuel en seulement 3 semaines."
-          }
-        }
-      },
-      "block_order": [
-        "subheading_DMQDm4"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -146,31 +135,55 @@
         "text_color": ""
       }
     },
-    "before_after_image_wdM9cL": {
-      "type": "before-after-image",
-      "name": "Image avant/après",
+    "rich_text_rq8eeh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BPNBb4": {
+          "type": "heading",
+          "settings": {
+            "text": "Des fesses plus bombées, naturellement",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_BPNBb4"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/madspy-image-1760648541452.jpg",
-        "before_image_mobile": "shopify://shop_images/madspy-image-1760648541452.jpg",
-        "after_image": "shopify://shop_images/madspy-image-1760648543399.png",
-        "after_image_mobile": "shopify://shop_images/madspy-image-1760648543399.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
+      }
+    },
+    "video_MtxhdQ": {
+      "type": "video",
+      "blocks": {
+        "play_tbe6kH": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_tbe6kH"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/BRADIVA VID.mp4",
+        "mobile_video": "shopify://files/videos/BRADIVA VID.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -309,7 +322,6 @@
         "item_3xJ8hE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Francais_Italien_4.png",
             "column_size": "3",
             "title": "Frédérique. D",
             "heading_tag": "h4",
@@ -322,7 +334,6 @@
         "item_Pan4Pj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Francais_Italien_2.png",
             "column_size": "3",
             "title": "Alicia. P",
             "heading_tag": "h4",
@@ -335,7 +346,6 @@
         "item_7BdeiK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/54.png",
             "column_size": "3",
             "title": "Martine. J",
             "heading_tag": "h4",
@@ -348,7 +358,6 @@
         "item_JJLm4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/53.png",
             "column_size": "3",
             "title": "Juliette. K",
             "heading_tag": "h4",
@@ -361,7 +370,6 @@
         "item_GECyWQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/55.png",
             "column_size": "3",
             "title": "Agathe. J",
             "heading_tag": "h4",
@@ -374,7 +382,6 @@
         "item_H9wFkb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/56.png",
             "column_size": "3",
             "title": "Valentine. S",
             "heading_tag": "h4",
@@ -387,7 +394,6 @@
         "item_XrtfRd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Francais_Italien.png",
             "column_size": "3",
             "title": "Sara. G",
             "heading_tag": "h4",
@@ -400,7 +406,6 @@
         "item_raMymr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Italien_4_80c74132-44be-45e7-950c-5732d3d18eb6.png",
             "column_size": "3",
             "title": "Roberta. I",
             "heading_tag": "h4",
@@ -413,7 +418,6 @@
         "item_HEM6gj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Italien_3_b9eae128-5af8-4c88-81a1-476372c06a15.png",
             "column_size": "3",
             "title": "Elena. A",
             "heading_tag": "h4",
@@ -426,7 +430,6 @@
         "item_qeXwJU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Italien_2_d1dacd9d-102b-4111-8aeb-816635c6490a.png",
             "column_size": "3",
             "title": "Marina. T",
             "heading_tag": "h4",
@@ -687,7 +690,6 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "5000 mg de créatine monohydrate",
             "heading_tag": "h4",
@@ -700,7 +702,6 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_666f6104-08b5-41e6-94e0-f9302c364a9e.png",
             "column_size": "3",
             "title": "Collagène hydrolysé (2500 mg)",
             "heading_tag": "h4",
@@ -713,7 +714,6 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Acide hyaluronique (100 mg)",
             "heading_tag": "h4",
@@ -726,7 +726,6 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_1243b82d-9285-43d3-ac4c-faa4379c7c1f.png",
             "column_size": "3",
             "title": "Vitamines B6 et B12",
             "heading_tag": "h4",
@@ -739,7 +738,6 @@
         "item_6nijje": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "BCAA (2000 mg)",
             "heading_tag": "h4",
@@ -802,7 +800,6 @@
         "step_YTCaWL": {
           "type": "step",
           "settings": {
-            "image": "shopify://shop_images/6.png",
             "video": "",
             "title": "Ajoutez une dose de Bradiva dans votre shaker.",
             "description": "Chaque dose contient la quantité idéale d'actifs pour stimuler la croissance et la tonicité des fessiers.",
@@ -812,7 +809,6 @@
         "step_H8AhF9": {
           "type": "step",
           "settings": {
-            "image": "shopify://shop_images/7_4917f274-f57a-4ba3-bab7-7ae2be650d85.png",
             "video": "",
             "title": "Ajoutez de l'eau et secouez bien pendant quelques secondes.",
             "description": "La formule s'active et les principes agissent pour renforcer les muscles et soutenir la peau.",
@@ -822,7 +818,6 @@
         "step_JXcKJd": {
           "type": "step",
           "settings": {
-            "image": "shopify://shop_images/8_2989a519-bab9-45de-b7a9-b3babbc39cec.png",
             "video": "",
             "title": "Buvez votre dose d'énergie et de féminité.",
             "description": "Jour après jour, vous ressentirez plus de force, plus de forme et des fessiers plus définis.",
@@ -1018,8 +1013,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/faq.png",
-        "mobile_image": "shopify://shop_images/faq.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1066,7 +1059,8 @@
     "rich_text_c9UmPD",
     "image_with_text_overlay_pjaxby",
     "rich_text_46BUxt",
-    "before_after_image_wdM9cL",
+    "rich_text_rq8eeh",
+    "video_MtxhdQ",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "featured-product",
