@@ -915,49 +915,6 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_xzp6hM": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_W6dHpF": {
-          "type": "heading",
-          "settings": {
-            "text": "Bradiva ou BBL ? Le naturel gagne toujours",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_W6dHpF"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_XzmrHF": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/IMG_5120.jpg",
-        "mobile_image": "shopify://shop_images/IMG_5120.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_wTJTNc": {
       "type": "multi-column",
       "blocks": {
@@ -1045,6 +1002,132 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "rich_text_mkzW7K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rWAPpp": {
+          "type": "heading",
+          "settings": {
+            "text": "Le secret scientifique derrière ton nouveau galbe",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rWAPpp"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multiple_images_with_text_rKWqNJ": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_E9WdEM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/STEP_1.gif",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Ingestion de créatine",
+            "content": "<p>Lors de la prise, la créatine est absorbée par le système digestif puis transportée dans le sang sous forme de <strong>créatine libre</strong>.<br/><br/>Elle agit comme un <strong>réservoir d’énergie cellulaire (ATP)</strong>, essentiel à la contraction musculaire et à la performance.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_Qqepc9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/STEP_B.gif",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Absorption musculaire ciblée 🍑",
+            "content": "<p>Une fois dans la circulation, la créatine est <strong>captée par les cellules musculaires</strong>, notamment celles des fessiers, via un transporteur spécifique (CreaT1).<br/><br/>Elle augmente la <strong>réserve de phosphocréatine</strong>, optimisant la récupération et la puissance lors de l’entraînement des fessiers. </p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_PmJFmn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/STEP_C.gif",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Synthèse et croissance musculaire 🔬",
+            "content": "<p>Grâce à une meilleure disponibilité énergétique, les <strong>fibres musculaires des fessiers</strong> peuvent s’entraîner plus intensément, se régénérer plus vite et <strong>augmenter en volume</strong>.<br/><br/>Résultat : une <strong>hypertrophie naturelle</strong> et des fessiers plus fermes, plus denses et plus galbés. </p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_E9WdEM",
+        "item_Qqepc9",
+        "item_PmJFmn"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "rich_text_xzp6hM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W6dHpF": {
+          "type": "heading",
+          "settings": {
+            "text": "Bradiva ou BBL ? Le naturel gagne toujours",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_W6dHpF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_XzmrHF": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_5120.jpg",
+        "mobile_image": "shopify://shop_images/IMG_5120.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_FKTUGn": {
@@ -1351,9 +1434,11 @@
     "featured-product",
     "custom_liquid_ebKGdt",
     "tabs_Waa9zt",
+    "multi_column_wTJTNc",
+    "rich_text_mkzW7K",
+    "multiple_images_with_text_rKWqNJ",
     "rich_text_xzp6hM",
     "image_with_text_overlay_XzmrHF",
-    "multi_column_wTJTNc",
     "rich_text_FKTUGn",
     "how_to_use_sambal_LAmJVU",
     "faq_MQHPPV",
