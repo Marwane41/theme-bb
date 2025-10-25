@@ -766,9 +766,11 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
+        "kaching_bundles_app_block_WNzCz7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
         },
         "buy-buttons": {
           "type": "buy_buttons",
@@ -814,7 +816,7 @@
         "separator",
         "description",
         "variant-picker",
-        "quantity-selector",
+        "kaching_bundles_app_block_WNzCz7",
         "buy-buttons",
         "liquid_CLCCf9",
         "liquid_QDy4EX",
