@@ -70,7 +70,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Apparso sulle riviste di moda e bellezza più rinomate",
+        "title": "Apparu dans les magazines de mode et de beauté les plus renommés",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -89,7 +89,7 @@
         "heading_JGUWbW": {
           "type": "heading",
           "settings": {
-            "text": "Perché scegliere Bradiva",
+            "text": "Pourquoi choisir Bradiva",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -148,7 +148,7 @@
     },
     "before_after_image_wdM9cL": {
       "type": "before-after-image",
-      "name": "Before/after image",
+      "name": "Image avant/après",
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -161,8 +161,8 @@
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Avant",
+        "after_text": "Après",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -178,7 +178,7 @@
       "settings": {
         "content_align": "center",
         "content_align_mobile": "center",
-        "heading": "Sono le nostre clienti a parlare per noi",
+        "heading": "Ce sont nos clientes qui parlent pour nous",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -198,7 +198,7 @@
         "stars_count": 5,
         "stars_size": 28,
         "stars_size_mobile": 24,
-        "text": "<p><strong>Valutato 4,9 su oltre 1.067 recensioni </strong></p>",
+        "text": "<p><strong>Évalué à 4,9 sur plus de 1.067 avis </strong></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 20,
@@ -240,8 +240,8 @@
         "card_text_height": 150,
         "card_text_mt": 16,
         "card_text_mt_mobile": 16,
-        "card_text_more": "View More",
-        "card_text_less": "View Less",
+        "card_text_more": "Voir Plus",
+        "card_text_less": "Voir Moins",
         "card_count_words": 60,
         "author_image_size": 56,
         "author_image_size_mobile": 40,
@@ -311,9 +311,9 @@
           "settings": {
             "image": "shopify://shop_images/Francais_Italien_4.png",
             "column_size": "3",
-            "title": "Federica. D",
+            "title": "Frédérique. D",
             "heading_tag": "h4",
-            "content": "<p>« Dopo 2 mesi di Bradiva, la mia pelle è più soda e ho ritrovato fiducia nel mio corpo. Mai vista una trasformazione così naturale! »</p>",
+            "content": "<p>« Après 2 mois avec Bradiva, ma peau est plus ferme et j'ai retrouvé confiance en mon corps. Je n'ai jamais vu une transformation aussi naturelle ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -324,9 +324,9 @@
           "settings": {
             "image": "shopify://shop_images/Francais_Italien_2.png",
             "column_size": "3",
-            "title": "Aleesia. P",
+            "title": "Alicia. P",
             "heading_tag": "h4",
-            "content": "<p>« Non credevo fosse possibile vedere risultati così! Glutei più alti e tonici, senza cambiare la mia routine. Bradiva è diventato il mio rituale quotidiano! »</p>",
+            "content": "<p>« Je ne pensais pas qu'il était possible de voir des résultats comme ça ! Des fesses plus hautes et toniques, sans changer ma routine. Bradiva est devenu mon rituel quotidien ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,9 +337,9 @@
           "settings": {
             "image": "shopify://shop_images/54.png",
             "column_size": "3",
-            "title": "Martina. J",
+            "title": "Martine. J",
             "heading_tag": "h4",
-            "content": "<p>« Da quando uso Bradiva mi sento più energica e tonica! Il gusto è leggero e piacevole, e ho notato i glutei più sodi già dopo poche settimane. »</p>",
+            "content": "<p>« Depuis que j'utilise Bradiva, je me sens plus énergique et tonique ! Le goût est léger et agréable, et j'ai déjà remarqué mes fesses plus fermes après quelques semaines. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -350,9 +350,9 @@
           "settings": {
             "image": "shopify://shop_images/53.png",
             "column_size": "3",
-            "title": "Giulia. K",
+            "title": "Juliette. K",
             "heading_tag": "h4",
-            "content": "<p>« Finalmente un integratore pensato per noi donne! Pelle più compatta, più forza negli allenamenti e un lato B che non avevo mai avuto prima. »</p>",
+            "content": "<p>« Enfin un complément pensé pour nous les femmes ! Peau plus ferme, plus de force dans mes entraînements et un derrière que je n'avais jamais eu auparavant. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -363,9 +363,9 @@
           "settings": {
             "image": "shopify://shop_images/55.png",
             "column_size": "3",
-            "title": "Agathe.J",
+            "title": "Agathe. J",
             "heading_tag": "h4",
-            "content": "<p><em>\"</em>J’ai testé des marques moins chères avant, mais la différence est nette avec Zoone. Vision plus claire et moins de gêne dans la journée. Je préfère payer un peu plus pour un vrai résultat.<em>\"</em></p>",
+            "content": "<p><em>\"</em>J'ai testé des marques moins chères avant, mais la différence est nette avec Zoone. Vision plus claire et moins de gêne dans la journée. Je préfère payer un peu plus pour un vrai résultat.<em>\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -376,9 +376,9 @@
           "settings": {
             "image": "shopify://shop_images/56.png",
             "column_size": "3",
-            "title": "Valentina. S",
+            "title": "Valentine. S",
             "heading_tag": "h4",
-            "content": "<p>« In poche settimane i miei glutei sono diventati più pieni e arrotondati. Il sapore è buono e adoro la sensazione di benessere che mi dà. »</p>",
+            "content": "<p>« En quelques semaines, mes fesses sont devenues plus pleines et arrondies. Le goût est bon et j'adore la sensation de bien-être que cela me procure. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -391,7 +391,7 @@
             "column_size": "3",
             "title": "Sara. G",
             "heading_tag": "h4",
-            "content": "<p>« In palestra ho notato subito la differenza: più energia, più definizione e una pelle più liscia. Bradiva funziona davvero! »</p>",
+            "content": "<p>« À la salle de sport, j'ai tout de suite remarqué la différence : plus d'énergie, plus de définition et une peau plus lisse. Bradiva fonctionne vraiment ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -404,7 +404,7 @@
             "column_size": "3",
             "title": "Roberta. I",
             "heading_tag": "h4",
-            "content": "<p>« Ho perso 5 chili senza sacrifici e con tanta più energia! Bradiva è diventato il mio alleato ogni mattina. »</p><p></p>",
+            "content": "<p>« J'ai perdu 5 kilos sans sacrifices et avec beaucoup plus d'énergie ! Bradiva est devenu mon allié chaque matin. »</p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -417,7 +417,7 @@
             "column_size": "3",
             "title": "Elena. A",
             "heading_tag": "h4",
-            "content": "<p>« Prima ero sempre stanca, ora ho energia costante e mi sento più leggera! Bradiva mi ha cambiato la giornata. »</p>",
+            "content": "<p>« Avant, j'étais toujours fatiguée, maintenant j'ai une énergie constante et je me sens plus légère ! Bradiva a changé ma journée. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -430,7 +430,7 @@
             "column_size": "3",
             "title": "Marina. T",
             "heading_tag": "h4",
-            "content": "<p>« Bradiva è la mia scoperta dell’anno! Pelle più compatta, corpo più armonioso e glutei più scolpiti. Lo adoro! »</p>",
+            "content": "<p>« Bradiva est ma découverte de l'année ! Peau plus ferme, corps plus harmonieux et fesses plus sculptées. Je l'adore ! »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -476,7 +476,7 @@
         "liquid_UqCNKi": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clientes !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -605,12 +605,12 @@
     },
     "custom_liquid_ebKGdt": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
+      "name": "Liquide Personnalisé",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">“Un’alternativa naturale e non invasiva che aiuta a scolpire la silhouette stimolando i muscoli ed evitando i fastidi dei metodi tradizionali. Ideale per chi desidera un corpo armonioso senza interventi.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophia L. </span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
+        "liquid": "<div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-infoliquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Photo de Profil\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Étoiles\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">“Une alternative naturelle et non invasive qui aide à sculpter la silhouette en stimulant les muscles et en évitant les désagréments des méthodes traditionnelles. Idéal pour ceux qui désirent un corps harmonieux sans interventions.”</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Icône Vérifiée\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L.</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/ .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte /\n  vertical-align: middle; / Aligne l'icône avec le texte /\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n}/\n</style>\n          </div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -622,40 +622,40 @@
         "tab_kNhjBC": {
           "type": "tab",
           "settings": {
-            "title": "Ingredienti & Benefici 🌿",
-            "content": "<h3><strong>Ingredienti & Benefici</strong></h3><p>Bradiva ha ora un delicato gusto d’arancia tropicale sottile, piacevole e mai stucchevole.<br/><br/>La nostra nuova formula, ancora più pura, <strong>non contiene coloranti né zuccheri aggiunti</strong>.</p><p>A differenza della creatina classica, spesso amara o pesante, <strong>Bradiva si scioglie perfettamente</strong> e offre un sapore fresco, dolce e naturale.<br/><br/>Ogni misurino è un concentrato di nutrienti essenziali, pensato per unire <strong>efficacia e piacere in modo completamente naturale.</strong> 🌿</p><p><br/><strong>Creatina Monoidrata (5000 mg)</strong> – Favorisce lo sviluppo della massa muscolare e stimola la produzione di energia cellulare.<br/></p><p><strong>L-Glutammina (1000 mg)</strong> – Supporta un miglior recupero muscolare e favorisce la salute digestiva.<br/></p><p><strong>Collagene Idrolizzato (2500 mg)</strong> – Aiuta a rassodare e migliorare l’elasticità della pelle, proteggendo articolazioni e tessuti connettivi.<br/></p><p><strong>Myo-Inositolo (1000 mg)</strong> – Contribuisce all’equilibrio ormonale e aiuta a ridurre il gonfiore addominale.<br/></p><p><strong>Vitamine B6 e B12</strong> – Offrono un vero boost di energia quotidiana, migliorando l’umore e la concentrazione.<br/></p><p><strong>BCAA (2000 mg)</strong> – Riduce le tensioni muscolari, aumenta la resistenza e accelera il recupero dopo l’attività fisica.<br/></p>",
+            "title": "Ingrédients & Bienfaits 🌿",
+            "content": "<h3><strong>Ingrédients & Bienfaits</strong></h3><p>Bradiva a maintenant un goût délicat d'orange tropicale subtil, agréable et jamais écoeurant.<br/><br/>Notre nouvelle formule, encore plus pure, <strong>ne contient ni colorants ni sucres ajoutés</strong>.</p><p>Contrairement à la créatine classique, souvent amère ou lourde, <strong>Bradiva se dissout parfaitement</strong> et offre une saveur fraîche, douce et naturelle.<br/><br/>Chaque mesure est un concentré de nutriments essentiels, conçu pour allier <strong>efficacité et plaisir de manière complètement naturelle.</strong> 🌿</p><p><br/><strong>Créatine Monohydrate (5000 mg)</strong> – Favorise le développement de la masse musculaire et stimule la production d'énergie cellulaire.<br/></p><p><strong>L-Glutamine (1000 mg)</strong> – Soutient une meilleure récupération musculaire et favorise la santé digestive.<br/></p><p><strong>Collagène Hydrolysé (2500 mg)</strong> – Aide à raffermir et améliorer l'élasticité de la peau, protégeant les articulations et les tissus conjonctifs.<br/></p><p><strong>Myo-Inositol (1000 mg)</strong> – Contribue à l'équilibre hormonal et aide à réduire le gonflement abdominal.<br/></p><p><strong>Vitamines B6 et B12</strong> – Offrent un véritable coup de fouet d'énergie quotidienne, améliorant l'humeur et la concentration.<br/></p><p><strong>BCAA (2000 mg)</strong> – Réduit les tensions musculaires, augmente l'endurance et accélère la récupération après l'activité physique.<br/></p>",
             "page": ""
           }
         },
         "tab_qpeWfc": {
           "type": "tab",
           "settings": {
-            "title": "Quanti grammi contiene una confezione e qual è la dose consigliata ?",
-            "content": "<p>Une boîte contient <strong>269 g de poudre</strong>.<br/><br/>La dose recommandée est de <strong>1 scoop (environ 9 g) par jour</strong>.<br/><br/>Cela correspond à une cure d’environ <strong>30 jours</strong> avec une prise quotidienne.</p>",
+            "title": "Combien de grammes contient un emballage et quelle est la dose recommandée ?",
+            "content": "<p>Une boîte contient <strong>269 g de poudre</strong>.<br/><br/>La dose recommandée est de <strong>1 mesure (environ 9 g) par jour</strong>.<br/><br/>Cela correspond à une cure d’environ <strong>30 jours</strong> avec une prise quotidienne.</p>",
             "page": ""
           }
         },
         "tab_GUd9zE": {
           "type": "tab",
           "settings": {
-            "title": "Bisogna fare molto sport per utilizzare Bradiva ?",
-            "content": "<p>No ! Bradiva è pensato proprio per chi <strong>non ha sempre il tempo o la voglia di passare ore ad allenarsi</strong>.<br/><br/>Bastano <strong>pochi esercizi semplici</strong> per ottenere risultati visibili.</p>",
+            "title": "Faut-il faire beaucoup de sport pour utiliser Bradiva ?",
+            "content": "<p>Non ! Bradiva est conçu précisément pour ceux qui <strong>n'ont pas toujours le temps ou l'envie de passer des heures à s'entraîner</strong>.<br/><br/>Il suffit de <strong>quelques exercices simples</strong> pour obtenir des résultats visibles.</p>",
             "page": ""
           }
         },
         "tab_dkjrUh": {
           "type": "tab",
           "settings": {
-            "title": "Quali sono i risultati ?",
-            "content": "<p>I nostri ingredienti sono <strong>scientificamente comprovati</strong>: la <strong>creatina monoidrata</strong> è uno degli integratori più studiati al mondo, con oltre <strong>500 ricerche che ne confermano l’efficacia</strong>.<br/><br/>Il <strong>collagene idrolizzato</strong> migliora la compattezza e l’elasticità della pelle, mentre il <strong>Myo-Inositolo</strong> aiuta a regolare gli ormoni femminili.</p><p><strong>Risultati tipici:</strong></p><p><strong>1–2 settimane:</strong> più energia e migliore recupero<br/></p><p><strong>3–4 settimane:</strong> aumento della forza muscolare<br/></p><p><strong>6–8 settimane:</strong> silhouette più tonica e definita<br/></p><p>Oltre <strong>20.000 donne si fidano già di noi!</strong><br/><br/>Se non noti alcun miglioramento dopo <strong>90 giorni di utilizzo regolare</strong>, ti <strong>rimborsiamo completamente</strong>.</p>",
+            "title": "Quels sont les résultats ?",
+            "content": "<p>Nos ingrédients sont <strong>scientifiquement prouvés</strong> : la <strong>créatine monohydrate</strong> est l'un des compléments les plus étudiés au monde, avec plus de <strong>500 recherches qui confirment son efficacité</strong>.<br/><br/>Le <strong>collagène hydrolysé</strong> améliore la fermeté et l'élasticité de la peau, tandis que le <strong>Myo-Inositol</strong> aide à réguler les hormones féminines.</p><p><strong>Résultats typiques :</strong></p><p><strong>1–2 semaines :</strong> plus d'énergie et meilleure récupération<br/></p><p><strong>3–4 semaines :</strong> augmentation de la force musculaire<br/></p><p><strong>6–8 semaines :</strong> silhouette plus tonique et définie<br/></p><p>Plus de <strong>20 000 femmes nous font déjà confiance !</strong><br/><br/>Si vous ne constatez aucune amélioration après <strong>90 jours d'utilisation régulière</strong>, nous <strong>vous remboursons intégralement</strong>.</p>",
             "page": ""
           }
         },
         "tab_aQDKUA": {
           "type": "tab",
           "settings": {
-            "title": "Quali sono i risultati?",
-            "content": "<p>Assolutamente! I nostri ingredienti sono <strong>scientificamente comprovati</strong>: la <strong>creatina monoidrata</strong> è uno degli integratori più studiati al mondo, con oltre <strong>500 ricerche che ne confermano l’efficacia</strong>.<br/><br/>Il <strong>collagene idrolizzato</strong> migliora la compattezza e l’elasticità della pelle, mentre il <strong>Myo-Inositolo</strong> aiuta a regolare gli ormoni femminili.</p><p><strong>Risultati tipici:</strong></p><p><br/><strong>1–2 settimane:</strong> più energia e migliore recupero<br/></p><p><strong>3–4 settimane:</strong> aumento della forza muscolare<br/></p><p><strong>6–8 settimane:</strong> silhouette più tonica e definita<br/></p><p>Oltre <strong>20.000 donne si fidano già di noi!</strong><br/><br/>Se non noti alcun miglioramento dopo <strong>90 giorni di utilizzo regolare</strong>, ti <strong>rimborsiamo completamente</strong>.</p>",
+            "title": "Quels sont les résultats ?",
+            "content": "<p>Absolument ! Nos ingrédients sont <strong>scientifiquement prouvés</strong> : la <strong>créatine monohydrate</strong> est l'un des compléments les plus étudiés au monde, avec plus de <strong>500 recherches qui confirment son efficacité</strong>.<br/><br/>Le <strong>collagène hydrolysé</strong> améliore la fermeté et l'élasticité de la peau, tandis que le <strong>Myo-Inositol</strong> aide à réguler les hormones féminines.</p><p><strong>Résultats typiques :</strong></p><p><br/><strong>1–2 semaines :</strong> plus d'énergie et meilleure récupération<br/></p><p><strong>3–4 semaines :</strong> augmentation de la force musculaire<br/></p><p><strong>6–8 semaines :</strong> silhouette plus tonique et définie<br/></p><p>Plus de <strong>20 000 femmes nous font déjà confiance !</strong><br/><br/>Si vous ne constatez aucune amélioration après <strong>90 jours d'utilisation régulière</strong>, nous <strong>vous remboursons intégralement</strong>.</p>",
             "page": ""
           }
         }
@@ -689,9 +689,9 @@
           "settings": {
             "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "5000 mg di creatina monoidrato",
+            "title": "5000 mg de créatine monohydrate",
             "heading_tag": "h4",
-            "content": "<p>Favorisce lo sviluppo della massa muscolare e stimola la produzione di energia cellulare.F</p>",
+            "content": "<p>Favorise le développement de la masse musculaire et stimule la production d'énergie cellulaire.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -702,9 +702,9 @@
           "settings": {
             "image": "shopify://shop_images/2_666f6104-08b5-41e6-94e0-f9302c364a9e.png",
             "column_size": "3",
-            "title": "Il collagene idrolizzato (2500 mg)",
+            "title": "Collagène hydrolysé (2500 mg)",
             "heading_tag": "h4",
-            "content": "<p>aiuta a rassodare e migliorare l’elasticità della pelle, proteggendo al tempo stesso le articolazioni e i tessuti connettivi.</p><h3></h3>",
+            "content": "<p>aide à raffermir et améliorer l'élasticité de la peau, tout en protégeant les articulations et les tissus conjonctifs.</p><h3></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -715,9 +715,9 @@
           "settings": {
             "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "L’acido ialuronico (100 mg)",
+            "title": "Acide hyaluronique (100 mg)",
             "heading_tag": "h4",
-            "content": "<p>idrata la pelle in profondità, restituendole morbidezza, luminosità e un aspetto più giovane e tonico.</p>",
+            "content": "<p>hydrate la peau en profondeur, lui redonnant douceur, éclat et un aspect plus jeune et tonique.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -728,9 +728,9 @@
           "settings": {
             "image": "shopify://shop_images/4_1243b82d-9285-43d3-ac4c-faa4379c7c1f.png",
             "column_size": "3",
-            "title": "Le vitamine B6 e B12",
+            "title": "Vitamines B6 et B12",
             "heading_tag": "h4",
-            "content": "<p>offrono una vera carica di energia quotidiana, migliorando anche l’umore e la concentrazione.</p>",
+            "content": "<p>offrent une véritable charge d'énergie quotidienne, améliorant également l'humeur et la concentration.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -743,7 +743,7 @@
             "column_size": "3",
             "title": "BCAA (2000 mg)",
             "heading_tag": "h4",
-            "content": "<p>riducono la tensione muscolare, aumentano la resistenza e accelerano il recupero dopo l’attività fisica.</p>",
+            "content": "<p>réduisent la tension musculaire, augmentent l'endurance et accélèrent la récupération après l'activité physique.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -763,7 +763,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Gli attivi che scolpiscono e illuminano",
+        "title": "Les actifs qui sculptent et illuminent",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -776,7 +776,7 @@
         "heading_8hHpUi": {
           "type": "heading",
           "settings": {
-            "text": "Come si usa: il segreto per un lato B perfetto",
+            "text": "Comment l'utiliser : le secret pour un fessier parfait",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -804,8 +804,8 @@
           "settings": {
             "image": "shopify://shop_images/6.png",
             "video": "",
-            "title": "Aggiungi una dose di Bradiva nel tuo shaker.",
-            "description": "Ogni misurino racchiude la giusta quantità di attivi per stimolare la crescita e la tonicità dei glutei.",
+            "title": "Ajoutez une dose de Bradiva dans votre shaker.",
+            "description": "Chaque dose contient la quantité idéale d'actifs pour stimuler la croissance et la tonicité des fessiers.",
             "alignment": "left"
           }
         },
@@ -814,8 +814,8 @@
           "settings": {
             "image": "shopify://shop_images/7_4917f274-f57a-4ba3-bab7-7ae2be650d85.png",
             "video": "",
-            "title": "Aggiungi acqua e agita bene per qualche secondo.",
-            "description": "La formula si attiva e i principi agiscono per dare forza ai muscoli e sostegno alla pelle.",
+            "title": "Ajoutez de l'eau et secouez bien pendant quelques secondes.",
+            "description": "La formule s'active et les principes agissent pour renforcer les muscles et soutenir la peau.",
             "alignment": "left"
           }
         },
@@ -824,8 +824,8 @@
           "settings": {
             "image": "shopify://shop_images/8_2989a519-bab9-45de-b7a9-b3babbc39cec.png",
             "video": "",
-            "title": "Bevi la tua dose di energia e femminilità.",
-            "description": "Giorno dopo giorno, sentirai più forza, più forma e un lato B più definito.",
+            "title": "Buvez votre dose d'énergie et de féminité.",
+            "description": "Jour après jour, vous ressentirez plus de force, plus de forme et des fessiers plus définis.",
             "alignment": "left"
           }
         }
@@ -835,7 +835,7 @@
         "step_H8AhF9",
         "step_JXcKJd"
       ],
-      "name": "How to Use",
+      "name": "Comment utiliser",
       "settings": {}
     },
     "faq_MQHPPV": {
@@ -844,127 +844,127 @@
         "item_qfyPPE": {
           "type": "item",
           "settings": {
-            "title": "Qual è il gusto di Bradiva ?",
-            "content": "<p>Bradiva ha un sapore leggero, fruttato e piacevole.<br/><br/>Nessun retrogusto chimico o amaro: è un piacere da gustare ogni giorno.</p>"
+            "title": "Quel est le goût de Bradiva ?",
+            "content": "<p>Bradiva a un goût léger, fruité et agréable.<br/><br/>Aucun arrière-goût chimique ou amer : c'est un plaisir à déguster chaque jour.</p>"
           }
         },
         "item_yDiwY9": {
           "type": "item",
           "settings": {
-            "title": "Bradiva favorisce la perdita di peso ?",
-            "content": "<p>Sì, Bradiva aiuta a bruciare i grassi e a snellire la silhouette.<br/><br/>Ma attenzione: il suo obiettivo non è farti “dimagrire ovunque” o perdere le tue forme.</p><p>La sua formula 6 in 1 agisce come un booster naturale del metabolismo:</p><p>Aiuta il corpo a utilizzare i grassi come fonte di energia,<br/></p><p>Favorisce la digestione e il drenaggio,<br/></p><p>E soprattutto contribuisce a scolpire e mantenere le curve femminili, in particolare nella zona 🍑.<br/></p><p>✨ <strong>Il risultato:</strong> non perdi solo peso, ma ottieni una silhouette più armoniosa — vita più sottile, pancia più piatta, glutei tonici e pelle più luminosa.</p><p>⚡ <strong>Bradiva è molto più di un semplice integratore dimagrante:</strong><br/><br/>è un alleato di trasformazione che agisce su linea, curve e luminosità.</p>"
+            "title": "Bradiva favorise-t-il la perte de poids ?",
+            "content": "<p>Oui, Bradiva aide à brûler les graisses et à affiner la silhouette.<br/><br/>Mais attention : son objectif n'est pas de te faire “maigrir partout” ou de perdre tes formes.</p><p>Sa formule 6 en 1 agit comme un booster naturel du métabolisme :</p><p>Aide le corps à utiliser les graisses comme source d'énergie,<br/></p><p>Favorise la digestion et le drainage,<br/></p><p>Et surtout contribue à sculpter et maintenir les courbes féminines, en particulier dans la zone 🍑.<br/></p><p>✨ <strong>Le résultat :</strong> tu ne perds pas seulement du poids, mais tu obtiens une silhouette plus harmonieuse — taille plus fine, ventre plus plat, fessiers toniques et peau plus lumineuse.</p><p>⚡ <strong>Bradiva est bien plus qu'un simple complément alimentaire :</strong><br/><br/>c'est un allié de transformation qui agit sur la ligne, les courbes et la luminosité.</p>"
           }
         },
         "item_8yPykD": {
           "type": "item",
           "settings": {
-            "title": "In quale forma si presenta Bradiva ?",
-            "content": "<p>Bradiva è una polvere da diluire in acqua.<br/><br/>Niente capsule da ingerire, né compresse troppo grandi: solo una bevanda facile e piacevole da gustare.</p>"
+            "title": "Sous quelle forme se présente Bradiva ?",
+            "content": "<p>Bradiva est une poudre à diluer dans l'eau.<br/><br/>Pas de capsules à ingérer, ni de comprimés trop gros : juste une boisson facile et agréable à déguster.</p>"
           }
         },
         "item_Qt9h7g": {
           "type": "item",
           "settings": {
-            "title": "Come preparare Bradiva ?",
-            "content": "<p>È semplicissimo: aggiungi una dose di Bradiva in un bicchiere o nello shaker, versa dell’acqua, mescola bene… e gusta la tua bevanda! 🍑<br/><br/>Un piccolo gesto quotidiano per grandi risultati.</p><p></p>"
+            "title": "Comment préparer Bradiva ?",
+            "content": "<p>C'est très simple : ajoute une dose de Bradiva dans un verre ou dans le shaker, verse de l'eau, mélange bien… et savoure ta boisson ! 🍑<br/><br/>Un petit geste quotidien pour de grands résultats.</p><p></p>"
           }
         },
         "item_mrg8b4": {
           "type": "item",
           "settings": {
-            "title": "Bisogna fare molto sport per usare Bradiva ?",
-            "content": "<p>No! Bradiva è pensato proprio per chi non ha sempre il tempo o la voglia di passare ore ad allenarsi.<br/><br/>Bastano pochi esercizi semplici per vedere i risultati.</p>"
+            "title": "Faut-il faire beaucoup de sport pour utiliser Bradiva ?",
+            "content": "<p>Non ! Bradiva est conçu pour ceux qui n'ont pas toujours le temps ou l'envie de passer des heures à s'entraîner.<br/><br/>Il suffit de quelques exercices simples pour voir les résultats.</p>"
           }
         },
         "item_K9EhFR": {
           "type": "item",
           "settings": {
-            "title": "Quanto tempo devo allenarmi al giorno ?",
-            "content": "<p>Non serve passare ore in palestra! Bastano 10 minuti al giorno a casa per sentire i benefici: più energia, meno stress e una forma migliore.<br/><br/>E se hai un po’ più di tempo, puoi completare la tua routine con gli esercizi del PDF 2 o 3 volte a settimana per accelerare i tuoi progressi.</p>"
+            "title": "Combien de temps dois-je m'entraîner par jour ?",
+            "content": "<p>Pas besoin de passer des heures à la salle de sport ! Il suffit de 10 minutes par jour à la maison pour ressentir les bienfaits : plus d'énergie, moins de stress et une meilleure forme.<br/><br/>Et si tu as un peu plus de temps, tu peux compléter ta routine avec les exercices du PDF 2 ou 3 fois par semaine pour accélérer tes progrès.</p>"
           }
         },
         "item_XY77ii": {
           "type": "item",
           "settings": {
-            "title": "Quante volte al giorno devo prenderlo ?",
-            "content": "<p>Il programma è semplicissimo: basta <strong>1 dose al giorno</strong> per attivare tutti i benefici bruciare i grassi, scolpire le curve e donare luminosità alla pelle. ✨</p><p></p>"
+            "title": "Combien de fois par jour dois-je le prendre ?",
+            "content": "<p>Le programme est très simple : il suffit de <strong>1 dose par jour</strong> pour activer tous les bienfaits de brûler les graisses, sculpter les courbes et donner de la luminosité à la peau. ✨</p><p></p>"
           }
         },
         "item_P6yRzh": {
           "type": "item",
           "settings": {
-            "title": "È sicuro per le donne con PCOS (Sindrome dell’Ovaio Policistico) ?",
-            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si vous avez une affection cutanée sérieuse, il est recommandé de consulter votre médecin avant d'utiliser le produit.</p>"
+            "title": "Est-ce sûr pour les femmes atteintes de SOPK (Syndrome des Ovaires Polykystiques) ?",
+            "content": "<p>Oui ! Notre système de microneedling est conçu pour être sûr pour tous les types de peau, y compris les peaux sensibles.<br/><br/>Cependant, si tu as une affection cutanée sérieuse, il est recommandé de consulter ton médecin avant d'utiliser le produit.</p>"
           }
         },
         "item_6cJAWF": {
           "type": "item",
           "settings": {
-            "title": "Posso combinare questo prodotto con altri integratori alimentari ?",
-            "content": "<p>Bradiva sostituisce la maggior parte degli integratori: <strong>creatina, BCAA, collagene, glutammina e vitamine essenziali.</strong><br/><br/>Puoi comunque assumere <strong>multivitaminici, omega-3 o farmaci prescritti</strong>, ma non è più necessario acquistare creatina o BCAA separatamente.</p>"
+            "title": "Puis-je combiner ce produit avec d'autres compléments alimentaires ?",
+            "content": "<p>Bradiva remplace la plupart des compléments : <strong>créatine, BCAA, collagène, glutamine et vitamines essentielles.</strong><br/><br/>Tu peux néanmoins prendre <strong>des multivitamines, des oméga-3 ou des médicaments prescrits</strong>, mais il n'est plus nécessaire d'acheter de la créatine ou des BCAA séparément.</p>"
           }
         },
         "item_3ydTfx": {
           "type": "item",
           "settings": {
-            "title": "Che garanzia offrite ?",
-            "content": "<p>Offriamo una <strong>garanzia soddisfatta o rimborsata di 90 giorni.</strong><br/><br/>Se non noti alcun miglioramento in termini di forza, energia o forma del corpo nonostante un uso regolare, <strong>contattaci e ti rimborseremo completamente.</strong></p>"
+            "title": "Quelle garantie offrez-vous ?",
+            "content": "<p>Nous offrons une <strong>garantie satisfait ou remboursé de 90 jours.</strong><br/><br/>Si tu ne remarques aucune amélioration en termes de force, d'énergie ou de forme du corps malgré une utilisation régulière, <strong>contacte-nous et nous te rembourserons intégralement.</strong></p>"
           }
         },
         "item_QbyjD9": {
           "type": "item",
           "settings": {
-            "title": "Quali sono i risultati ?",
-            "content": "<p>Assolutamente! I nostri ingredienti sono <strong>scientificamente comprovati</strong>:<br/><br/>la <strong>creatina monoidrato</strong> è uno degli integratori più studiati al mondo, con oltre 500 ricerche che ne confermano l’efficacia.<br/><br/>Il <strong>collagene idrolizzato</strong> migliora la compattezza della pelle, mentre il <strong>Myo-Inositolo</strong> aiuta a regolare gli ormoni femminili.</p><p><strong>Risultati tipici:</strong><br/><br/>✅ <strong>1-2 settimane:</strong> più energia e miglior recupero<br/><br/>✅ <strong>3-4 settimane:</strong> aumento della forza muscolare<br/><br/>✅ <strong>6-8 settimane:</strong> silhouette più soda e definita</p><p>Più di <strong>20.000 donne</strong> si fidano già di Bradiva! 💖<br/><br/>E se dopo 90 giorni di utilizzo regolare non noti alcun miglioramento, <strong>ti rimborsiamo completamente.</strong></p>"
+            "title": "Quels sont les résultats ?",
+            "content": "<p>Absolument ! Nos ingrédients sont <strong>scientifiquement prouvés</strong> :<br/><br/>la <strong>créatine monohydrate</strong> est l'un des compléments les plus étudiés au monde, avec plus de 500 recherches confirmant son efficacité.<br/><br/>Le <strong>collagène hydrolysé</strong> améliore la fermeté de la peau, tandis que le <strong>Myo-Inositol</strong> aide à réguler les hormones féminines.</p><p><strong>Résultats typiques :</strong><br/><br/>✅ <strong>1-2 semaines :</strong> plus d'énergie et meilleure récupération<br/><br/>✅ <strong>3-4 semaines :</strong> augmentation de la force musculaire<br/><br/>✅ <strong>6-8 semaines :</strong> silhouette plus ferme et définie</p><p>Plus de <strong>20 000 femmes</strong> font déjà confiance à Bradiva ! 💖<br/><br/>Et si après 90 jours d'utilisation régulière tu ne remarques aucune amélioration, <strong>nous te remboursons intégralement.</strong></p>"
           }
         },
         "item_RKyzeA": {
           "type": "item",
           "settings": {
-            "title": "Quanto dura una confezione ?",
-            "content": "<p>Una confezione di Bradiva contiene <strong>269 g di polvere</strong>, cioè <strong>30 giorni di trattamento</strong> con la dose consigliata di <strong>1 misurino (9 g) al giorno.</strong></p><p>Per risultati ottimali, consigliamo:<br/><br/><strong>Minimo:</strong> 1 confezione (30 giorni) per percepire i primi effetti<br/><br/><strong>Consigliato:</strong> 2-3 confezioni (60-90 giorni) per una trasformazione visibile<br/><br/><strong>Ideale:</strong> trattamento continuo di 6 mesi per risultati duraturi</p><p>Molte delle nostre clienti ordinano direttamente <strong>2 o 3 confezioni</strong> per approfittare dei <strong>prezzi scontati</strong> e per evitare le <strong>rotture di stock.</strong></p>"
+            "title": "Combien de temps dure un paquet ?",
+            "content": "<p>Un paquet de Bradiva contient <strong>269 g de poudre</strong>, soit <strong>30 jours de traitement</strong> avec la dose recommandée de <strong>1 mesure (9 g) par jour.</strong></p><p>Pour des résultats optimaux, nous recommandons :<br/><br/><strong>Minimum :</strong> 1 paquet (30 jours) pour percevoir les premiers effets<br/><br/><strong>Recommandé :</strong> 2-3 paquets (60-90 jours) pour une transformation visible<br/><br/><strong>Idéal :</strong> traitement continu de 6 mois pour des résultats durables</p><p>Beaucoup de nos clientes commandent directement <strong>2 ou 3 paquets</strong> pour profiter des <strong>prix réduits</strong> et éviter les <strong>ruptures de stock.</strong></p>"
           }
         },
         "item_MihJ8p": {
           "type": "item",
           "settings": {
-            "title": "Posso usarlo se faccio già sport ?",
-            "content": "<p>Sì, anzi è <strong>fortemente consigliato!</strong> <br/><br/>Bradiva è stato formulato per <strong>potenziare i tuoi allenamenti</strong>, qualunque sia la tua attività:</p><p><strong>Palestra / Fitness:</strong> la creatina aumenta le prestazioni e accelera il recupero<br/><br/><strong>Pilates / Yoga:</strong> il collagene aiuta a mantenere la flessibilità articolare<br/><br/><strong>Cardio / Running:</strong> i BCAA riducono l’affaticamento muscolare<br/><br/><strong>Allenamenti indoor:</strong> la L-Glutamina ottimizza il recupero post sforzo</p><p><strong>Timing ottimale :</strong><br/><br/>⏰ <strong>Prima dell’allenamento:</strong> 30 minuti prima per più energia<br/><br/>💧 <strong>Dopo l’allenamento:</strong> entro un’ora per favorire il recupero</p><p>Anche se sei <strong>principiante</strong>, Bradiva ti darà l’energia e la motivazione per iniziare e progredire più velocemente! ✨</p>"
+            "title": "Puis-je l'utiliser si je fais déjà du sport ?",
+            "content": "<p>Oui, c'est même <strong>fortement recommandé !</strong> <br/><br/>Bradiva a été formulé pour <strong>booster tes entraînements</strong>, quelle que soit ton activité :</p><p><strong>Salle de sport / Fitness :</strong> la créatine augmente les performances et accélère la récupération<br/><br/><strong>Pilates / Yoga :</strong> le collagène aide à maintenir la flexibilité articulaire<br/><br/><strong>Cardio / Course :</strong> les BCAA réduisent la fatigue musculaire<br/><br/><strong>Entraînements en intérieur :</strong> la L-Glutamine optimise la récupération post-effort</p><p><strong>Timing optimal :</strong><br/><br/>⏰ <strong>Avant l'entraînement :</strong> 30 minutes avant pour plus d'énergie<br/><br/>💧 <strong>Après l'entraînement :</strong> dans l'heure pour favoriser la récupération</p><p>Même si tu es <strong>débutante</strong>, Bradiva te donnera l'énergie et la motivation pour commencer et progresser plus rapidement ! ✨</p>"
           }
         },
         "item_GWJTCQ": {
           "type": "item",
           "settings": {
-            "title": "Quali sono i costi di spedizione ?",
-            "content": "<p>Offriamo la <strong>spedizione gratuita in tutta Italia</strong>, senza alcun costo aggiuntivo per le nostre clienti. </p>"
+            "title": "Quels sont les frais de livraison ?",
+            "content": "<p>Nous offrons la <strong>livraison gratuite dans toute la France</strong>, sans aucun coût supplémentaire pour nos clientes.</p>"
           }
         },
         "item_DAfyn3": {
           "type": "item",
           "settings": {
-            "title": "Quanto dura la consegna ?",
-            "content": "<p>Spediamo con corrieri affidabili (DHL / Poste Italiane / GLS).<br/><br/>La preparazione dell’ordine richiede solitamente <strong>24-48 ore</strong>, poi la consegna avviene in <strong>4-7 giorni lavorativi</strong> in media.</p>"
+            "title": "Combien de temps dure la livraison ?",
+            "content": "<p>Nous expédions avec des transporteurs fiables (DHL / La Poste / GLS).<br/><br/>La préparation de la commande prend généralement <strong>24-48 heures</strong>, puis la livraison se fait en <strong>4-7 jours ouvrables</strong> en moyenne.</p>"
           }
         },
         "item_VnHdN7": {
           "type": "item",
           "settings": {
-            "title": "Posso tracciare il mio ordine ?",
-            "content": "<p>Sì! 📦 Non appena la spedizione viene effettuata, riceverai un <strong>numero di tracciamento via e-mail</strong> per seguire il tuo pacco in tempo reale e, se necessario, <strong>scegliere le opzioni di consegna</strong> più comode per te.</p>"
+            "title": "Puis-je suivre ma commande ?",
+            "content": "<p>Oui ! 📦 Dès que l'expédition est effectuée, tu recevras un <strong>numéro de suivi par e-mail</strong> pour suivre ton colis en temps réel et, si nécessaire, <strong>choisir les options de livraison</strong> les plus pratiques pour toi.</p>"
           }
         },
         "item_3EBPbR": {
           "type": "item",
           "settings": {
-            "title": "Come funziona il reso ?",
-            "content": "<p>Bradiva offre una <strong>garanzia soddisfatta o rimborsata di 90 giorni.</strong><br/><br/>Ti basta contattarci via e-mail all’indirizzo <a><strong>contact@bradiva.fr</strong></a> per avviare la procedura di reso.<br/><br/>Dopo la ricezione e la verifica del prodotto, il <strong>rimborso viene effettuato entro 1-5 giorni lavorativi</strong> direttamente sul tuo metodo di pagamento.</p>"
+            "title": "Comment fonctionne le retour ?",
+            "content": "<p>Bradiva offre une <strong>garantie satisfait ou remboursé de 90 jours.</strong><br/><br/>Il te suffit de nous contacter par e-mail à l'adresse <a><strong>contact@bradiva.fr</strong></a> pour initier la procédure de retour.<br/><br/>Après réception et vérification du produit, le <strong>remboursement est effectué sous 1-5 jours ouvrables</strong> directement sur ton mode de paiement.</p>"
           }
         },
         "item_D3yQPm": {
           "type": "item",
           "settings": {
-            "title": "Bradiva aiuta contro la cellulite ?",
-            "content": "<p>Sì! 💕 Il <strong>collagene</strong> agisce dall’interno rinforzando i tessuti cutanei, mentre la <strong>creatina</strong> e i <strong>BCAA</strong> contribuiscono a tonificare i muscoli.<br/><br/><strong>Il risultato:</strong> la pelle appare più compatta, il corpo più scolpito e la cellulite meno visibile. 🍑✨</p>"
+            "title": "Bradiva aide-t-il contre la cellulite ?",
+            "content": "<p>Oui ! 💕 Le <strong>collagène</strong> agit de l'intérieur en renforçant les tissus cutanés, tandis que la <strong>créatine</strong> et les <strong>BCAA</strong> contribuent à tonifier les muscles.<br/><br/><strong>Le résultat :</strong> la peau apparaît plus ferme, le corps plus sculpté et la cellulite moins visible. 🍑✨</p>"
           }
         }
       },
@@ -1012,7 +1012,7 @@
     },
     "image_with_text_overlay_kUPeMC": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+      "name": "Image avec superposition de texte",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -1029,7 +1029,7 @@
     },
     "contact_V6dyWF": {
       "type": "contact",
-      "name": "Contact form",
+      "name": "Formulaire de contact",
       "settings": {
         "full_width": true,
         "subheading": "",
