@@ -39,15 +39,6 @@
     },
     "17385188173445870c": {
       "type": "apps",
-      "blocks": {
-        "parcel_panel_app_kNB9qM": {
-          "type": "shopify://apps/parcel-panel/blocks/app/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "parcel_panel_app_kNB9qM"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -56,11 +47,51 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_8WRwne": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/besoin_d_aide.png",
+        "mobile_image": "shopify://shop_images/besoin_d_aide.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "contact_Gf8K7m": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "contact",
-    "17385188173445870c"
+    "17385188173445870c",
+    "image_with_text_overlay_8WRwne",
+    "contact_Gf8K7m"
   ]
 }
