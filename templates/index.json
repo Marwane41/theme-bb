@@ -771,6 +771,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_MyLkx7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ebook_new_da_ban.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_hBQ6RP": {
           "type": "liquid",
           "settings": {
@@ -828,6 +836,7 @@
         "description",
         "variant-picker",
         "kaching_bundles_app_block_WNzCz7",
+        "image_MyLkx7",
         "liquid_hBQ6RP",
         "buy-buttons",
         "liquid_x9KRXa",
