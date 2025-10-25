@@ -771,6 +771,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "liquid_hBQ6RP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n60J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -780,6 +786,12 @@
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "#f0c417",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_x9KRXa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .aloura-badge {\n    --border-color: #ff7e8d;\n    --text-color: #1a1a1a;\n    --subtext-color: #555;\n    --check-color: #59a10b;\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    padding: 6px 10px;\n    border: 2px dashed var(--border-color);\n    border-radius: 10px;\n    background: #ffeef1;\n    font-family: 'Inter', sans-serif;\n    font-size: 15px;\n    line-height: 1.2;\n    color: var(--text-color);\n  }\n\n  .aloura-badge .avatars {\n    display: flex;\n    align-items: center;\n  }\n\n  .aloura-badge .avatars img {\n    width: 26px;\n    height: 26px;\n    border-radius: 50%;\n    border: 2px solid #fff;\n    object-fit: cover;\n    margin-left: -8px;\n    box-shadow: 0 0 0 1px rgba(0,0,0,0.05);\n  }\n\n  .aloura-badge .avatars img:first-child {\n    margin-left: 0;\n  }\n\n  .aloura-badge .verified {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    background: #eaf9da;\n    border-radius: 50%;\n    width: 15px;\n    height: 15px;\n    margin: 0 3px;\n  }\n\n  .aloura-badge .verified svg {\n    width: 10px;\n    height: 10px;\n    fill: var(--check-color);\n  }\n\n  .aloura-badge strong {\n    font-weight: 700;\n  }\n\n  @media (max-width: 480px) {\n    .aloura-badge {\n      font-size: 14px;\n      padding: 5px 8px;\n    }\n    .aloura-badge .avatars img {\n      width: 22px;\n      height: 22px;\n      margin-left: -6px;\n    }\n  }\n</style>\n\n<div class=\"aloura-badge\">\n  <div class=\"avatars\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5070.jpg?v=1754681100&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5069.jpg?v=1754681121&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5071.jpg?v=1754681123&width=100\" alt=\"\">\n  </div>\n  <span><strong>Nathalie</strong></span>\n  <span class=\"verified\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n        d=\"M21.007 8.27C22.194 9.125 23 10.45 23 12c0 1.55-.806 2.876-1.993 3.73.24 1.442-.134 2.958-1.227 4.05-1.095 1.095-2.61 1.459-4.046 1.225C14.883 22.196 13.546 23 12 23c-1.55 0-2.878-.807-3.731-1.996-1.438.235-2.954-.128-4.05-1.224-1.095-1.095-1.459-2.611-1.217-4.05C1.816 14.877 1 13.551 1 12s.816-2.878 2.002-3.73c-.242-1.439.122-2.955 1.218-4.05 1.093-1.094 2.61-1.467 4.057-1.227C9.125 1.804 10.453 1 12 1c1.545 0 2.88.803 3.732 1.993 1.442-.24 2.956.135 4.048 1.227 1.093 1.092 1.468 2.608 1.227 4.05Zm-4.426-.084a1 1 0 0 1 .233 1.395l-5 7a1 1 0 0 1-1.521.126l-3-3a1 1 0 0 1 1.414-1.414l2.165 2.165 4.314-6.04a1 1 0 0 1 1.395-.232Z\"/>\n    </svg>\n  </span>\n  <span>et <strong>+ 14.372 femmes</strong> approuvent Bradiva</span>\n</div>"
           }
         },
         "liquid_CLCCf9": {
@@ -816,7 +828,9 @@
         "description",
         "variant-picker",
         "kaching_bundles_app_block_WNzCz7",
+        "liquid_hBQ6RP",
         "buy-buttons",
+        "liquid_x9KRXa",
         "liquid_CLCCf9",
         "liquid_QDy4EX",
         "image_NnVtjL"
