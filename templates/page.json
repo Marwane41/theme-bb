@@ -1,1 +1,159 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "multiple_images_with_text_qRcCM7": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_EVADjV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5219.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_c9cT7k": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5220.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_8fXCJC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5217.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_EVADjV",
+        "item_c9cT7k",
+        "item_8fXCJC"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "rich_text_TW6PKz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ygarDc": {
+          "type": "heading",
+          "settings": {
+            "text": "Elles l’ont fait, naturellement 🍑",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_wYyxBQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Découvrez les incroyables transformations de nos clientes. Des résultats réels, obtenus sans chirurgie juste de la constance, Bradiva et la puissance du naturel.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ygarDc",
+        "richtext_wYyxBQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_haDGr7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MFiNbH": {
+          "type": "heading",
+          "settings": {
+            "text": "Imaginé par une femme, pour sublimer toutes les femmes",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MFiNbH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_7d3fe6": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/sab owner.mov",
+        "mobile_video": "shopify://files/videos/sab owner.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multiple_images_with_text_qRcCM7",
+    "rich_text_TW6PKz",
+    "rich_text_haDGr7",
+    "video_7d3fe6"
+  ]
+}
