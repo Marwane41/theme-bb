@@ -161,31 +161,6 @@
         "text_color": ""
       }
     },
-    "video_MtxhdQ": {
-      "type": "video",
-      "blocks": {
-        "play_tbe6kH": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_tbe6kH"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/BRADIVA VID.mp4",
-        "mobile_video": "shopify://files/videos/BRADIVA VID.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "trust_pilot_reviews_AxNB3A": {
       "type": "Trust_Pilot_Reviews",
       "settings": {
@@ -556,34 +531,6 @@
     },
     "insta_6gAxCq": {
       "type": "insta",
-      "blocks": {
-        "video_c4MP6E": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/soso temoignage 1 (peut mieux faire).MP4",
-            "title": ""
-          }
-        },
-        "video_MCCCer": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/sab owner.mov",
-            "title": ""
-          }
-        },
-        "video_HdkDEg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/crea 7 1410.mov",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_c4MP6E",
-        "video_MCCCer",
-        "video_HdkDEg"
-      ],
       "name": "SS - Product videos #4",
       "settings": {
         "videos_position": "below_buy",
@@ -1451,7 +1398,6 @@
     "image_with_text_overlay_pjaxby",
     "rich_text_46BUxt",
     "rich_text_rq8eeh",
-    "video_MtxhdQ",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "storiesinsta_ixYhVp",
