@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BANNIERE_PC_BRAD.png",
-        "mobile_image": "shopify://shop_images/ban_1_rs.png",
+        "image": "shopify://shop_images/banniere_pc.png",
+        "mobile_image": "shopify://shop_images/banniere_tel.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +31,6 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie-Claire-logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +38,6 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle-logo-png_seeklogo-47116.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +45,6 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/grazia_a.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +52,6 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,8 +111,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benef_sb_2.png",
-        "mobile_image": "shopify://shop_images/benef_sb_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -159,230 +153,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_XF4amU": {
-      "type": "video",
-      "blocks": {
-        "play_nXw84h": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_nXw84h"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/BRADIVA VID.mp4",
-        "mobile_video": "shopify://files/videos/BRADIVA VID.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_nmgGRp": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_qpVwGX": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "richtext_qpVwGX"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
-        "liquid_UqCNKi": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #38af85;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h3"
-          }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "liquid_B4Egz4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .price-inline {\n    display: flex;\n    align-items: center;\n    gap: 11px; /* réduit de 20 % */\n    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;\n  }\n\n  .price-current {\n    font-size: 26px; /* -20 % */\n    font-weight: 800;\n    line-height: 1;\n    color: #0f0f0f;\n  }\n\n  .price-old {\n    font-size: 22px; /* -20 % */\n    font-weight: 800;\n    line-height: 1;\n    color: #ff7e8d;\n    position: relative;\n    padding: 0 2px;\n  }\n\n  .price-old::after {\n    content: \"\";\n    position: absolute;\n    left: -2px;\n    right: -2px;\n    top: 50%;\n    height: 3px; /* -20 % */\n    background: #ff7e8d;\n    transform: translateY(-50%) rotate(-6deg);\n    border-radius: 2px;\n    opacity: 0.9;\n  }\n\n  .discount-badge {\n    font-size: 14px; /* -20 % */\n    font-weight: 700;\n    color: #ff7e8d;\n    background: #ffeef1;\n    padding: 7px 11px; /* -20 % */\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  @media (max-width: 480px) {\n    .price-current {\n      font-size: 23px;\n    }\n    .price-old {\n      font-size: 19px;\n    }\n    .discount-badge {\n      font-size: 12px;\n      padding: 5px 8px;\n    }\n  }\n</style>\n\n<div class=\"price-inline\">\n  <div class=\"price-current\">39,90€</div>\n  <div class=\"price-old\">79,90€</div>\n  <div class=\"discount-badge\">− 50%</div>\n</div>"
-          }
-        },
-        "image_pRggRB": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_jnATdX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Bradiva Booty</div>\n</div>"
-          }
-        },
-        "image_h9L7gC": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "kaching_bundles_app_block_WNzCz7": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "image_MyLkx7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ebook_new_da_ban.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "liquid_hBQ6RP": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n60J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
-          }
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#000000",
-            "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#f0c417",
-            "payment_button_text_color": ""
-          }
-        },
-        "liquid_CLCCf9": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-video-4'></div>"
-          }
-        },
-        "liquid_x9KRXa": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .aloura-badge {\n    --border-color: #ff7e8d;\n    --text-color: #1a1a1a;\n    --subtext-color: #555;\n    --check-color: #59a10b;\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    padding: 6px 10px;\n    border: 2px dashed var(--border-color);\n    border-radius: 10px;\n    background: #ffeef1;\n    font-family: 'Inter', sans-serif;\n    font-size: 15px;\n    line-height: 1.2;\n    color: var(--text-color);\n  }\n\n  .aloura-badge .avatars {\n    display: flex;\n    align-items: center;\n  }\n\n  .aloura-badge .avatars img {\n    width: 26px;\n    height: 26px;\n    border-radius: 50%;\n    border: 2px solid #fff;\n    object-fit: cover;\n    margin-left: -8px;\n    box-shadow: 0 0 0 1px rgba(0,0,0,0.05);\n  }\n\n  .aloura-badge .avatars img:first-child {\n    margin-left: 0;\n  }\n\n  .aloura-badge .verified {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    background: #eaf9da;\n    border-radius: 50%;\n    width: 15px;\n    height: 15px;\n    margin: 0 3px;\n  }\n\n  .aloura-badge .verified svg {\n    width: 10px;\n    height: 10px;\n    fill: var(--check-color);\n  }\n\n  .aloura-badge strong {\n    font-weight: 700;\n  }\n\n  @media (max-width: 480px) {\n    .aloura-badge {\n      font-size: 14px;\n      padding: 5px 8px;\n    }\n    .aloura-badge .avatars img {\n      width: 22px;\n      height: 22px;\n      margin-left: -6px;\n    }\n  }\n</style>\n\n<div class=\"aloura-badge\">\n  <div class=\"avatars\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5070.jpg?v=1754681100&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5069.jpg?v=1754681121&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5071.jpg?v=1754681123&width=100\" alt=\"\">\n  </div>\n  <span><strong>Nathalie</strong></span>\n  <span class=\"verified\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n        d=\"M21.007 8.27C22.194 9.125 23 10.45 23 12c0 1.55-.806 2.876-1.993 3.73.24 1.442-.134 2.958-1.227 4.05-1.095 1.095-2.61 1.459-4.046 1.225C14.883 22.196 13.546 23 12 23c-1.55 0-2.878-.807-3.731-1.996-1.438.235-2.954-.128-4.05-1.224-1.095-1.095-1.459-2.611-1.217-4.05C1.816 14.877 1 13.551 1 12s.816-2.878 2.002-3.73c-.242-1.439.122-2.955 1.218-4.05 1.093-1.094 2.61-1.467 4.057-1.227C9.125 1.804 10.453 1 12 1c1.545 0 2.88.803 3.732 1.993 1.442-.24 2.956.135 4.048 1.227 1.093 1.092 1.468 2.608 1.227 4.05Zm-4.426-.084a1 1 0 0 1 .233 1.395l-5 7a1 1 0 0 1-1.521.126l-3-3a1 1 0 0 1 1.414-1.414l2.165 2.165 4.314-6.04a1 1 0 0 1 1.395-.232Z\"/>\n    </svg>\n  </span>\n  <span>et <strong>+ 14.372 femmes</strong> approuvent Bradiva</span>\n</div>"
-          }
-        },
-        "liquid_QDy4EX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-video-4'></div>"
-          }
-        },
-        "image_NnVtjL": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "liquid_UqCNKi",
-        "title",
-        "badges",
-        "liquid_B4Egz4",
-        "image_pRggRB",
-        "liquid_jnATdX",
-        "image_h9L7gC",
-        "rating",
-        "separator",
-        "description",
-        "variant-picker",
-        "kaching_bundles_app_block_WNzCz7",
-        "image_MyLkx7",
-        "liquid_hBQ6RP",
-        "buy-buttons",
-        "liquid_CLCCf9",
-        "liquid_x9KRXa",
-        "liquid_QDy4EX",
-        "image_NnVtjL"
-      ],
-      "settings": {
-        "full_width": false,
-        "product": "aloura-womens-creatine",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -573,7 +343,6 @@
         "item_H9wFkb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Francais_3.png",
             "column_size": "3",
             "title": "Valentine. S",
             "heading_tag": "h4",
@@ -649,44 +418,112 @@
         "text_color": ""
       }
     },
+    "storiesinsta_ixYhVp": {
+      "type": "storiesinsta",
+      "name": "SS - Product videos #4",
+      "settings": {
+        "videos_position": "below_buy",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 15,
+        "heading_size_mobile": 15,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "slider_view": 4.6,
+        "slider_view_mobile": 3.6,
+        "slider_gap": 16,
+        "slider_gap_mobile": 12,
+        "slider_mt": 4,
+        "slider_mt_mobile": 4,
+        "card_padding": 3,
+        "card_radius": 300,
+        "card_border_thickness": 3,
+        "card_hover": true,
+        "card_first_animation": true,
+        "video_ratio": "square",
+        "video_ratio_mobile": "square",
+        "video_overlay": 0,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 14,
+        "title_size_mobile": 12,
+        "title_height": 130,
+        "title_mt": 10,
+        "title_mt_mobile": 10,
+        "title_align": "center",
+        "title_align_mobile": "center",
+        "arrow_size": 32,
+        "arrow_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_mt": 0,
+        "dots_mt_mobile": 8,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "modal_width": 300,
+        "modal_width_mobile": 260,
+        "modal_padding_vertical": 0,
+        "modal_padding_vertical_mobile": 0,
+        "modal_padding_horizontal": 0,
+        "modal_padding_horizontal_mobile": 0,
+        "modal_radius": 16,
+        "modal_border_thickness": 0,
+        "modal_overlay": 0.3,
+        "modal_video_radius": 0,
+        "modal_video_border_thickness": 0,
+        "modal_video_ratio": "portrait",
+        "modal_video_ratio_mobile": "portrait",
+        "use_progress": true,
+        "action_size": 28,
+        "action_size_mobile": 36,
+        "action_border_thickness": 0,
+        "buttons_size": 32,
+        "buttons_size_mobile": 36,
+        "buttons_border_thickness": 0,
+        "card_bg_color": "#ffffff",
+        "card_bg_gradient": "",
+        "card_border_color": "#f95e45",
+        "video_overlay_color": "#000000",
+        "card_animation_color": "#f95e45",
+        "play_button_color": "#ffffff",
+        "title_color": "#000000",
+        "arrow_color": "#ffffff",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#000000",
+        "arrow_bg_hover_color": "#555555",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#555555",
+        "dots_color": "#000000",
+        "modal_overlay_color": "#242424",
+        "modal_bg_color": "#ffffff",
+        "modal_border_color": "#000000",
+        "modal_video_border_color": "#000000",
+        "action_icon_color": "#ffffff",
+        "action_bg_color": "#000000",
+        "action_border_color": "#000000",
+        "buttons_icon_color": "#000000",
+        "buttons_bg_color": "#ffffff",
+        "buttons_border_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "insta_6gAxCq": {
       "type": "insta",
-      "blocks": {
-        "video_xxDTD8": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/soso temoignage 1 (peut mieux faire).MP4",
-            "title": ""
-          }
-        },
-        "video_WfHLFN": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/sab owner.mov",
-            "title": ""
-          }
-        },
-        "video_E3Xrjn": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/challenge salle .mov",
-            "title": ""
-          }
-        },
-        "video_NB8b4k": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/video 3.mp4",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_xxDTD8",
-        "video_WfHLFN",
-        "video_E3Xrjn",
-        "video_NB8b4k"
-      ],
       "name": "SS - Product videos #4",
       "settings": {
         "videos_position": "below_buy",
@@ -789,6 +626,181 @@
         "lazy": true
       }
     },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_UqCNKi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #38af85;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +1000 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "liquid_B4Egz4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .price-inline {\n    display: flex;\n    align-items: center;\n    gap: 11px; /* réduit de 20 % */\n    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;\n  }\n\n  .price-current {\n    font-size: 26px; /* -20 % */\n    font-weight: 800;\n    line-height: 1;\n    color: #0f0f0f;\n  }\n\n  .price-old {\n    font-size: 22px; /* -20 % */\n    font-weight: 800;\n    line-height: 1;\n    color: #ff7e8d;\n    position: relative;\n    padding: 0 2px;\n  }\n\n  .price-old::after {\n    content: \"\";\n    position: absolute;\n    left: -2px;\n    right: -2px;\n    top: 50%;\n    height: 3px; /* -20 % */\n    background: #ff7e8d;\n    transform: translateY(-50%) rotate(-6deg);\n    border-radius: 2px;\n    opacity: 0.9;\n  }\n\n  .discount-badge {\n    font-size: 14px; /* -20 % */\n    font-weight: 700;\n    color: #ff7e8d;\n    background: #ffeef1;\n    padding: 7px 11px; /* -20 % */\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  @media (max-width: 480px) {\n    .price-current {\n      font-size: 23px;\n    }\n    .price-old {\n      font-size: 19px;\n    }\n    .discount-badge {\n      font-size: 12px;\n      padding: 5px 8px;\n    }\n  }\n</style>\n\n<div class=\"price-inline\">\n  <div class=\"price-current\">39,90€</div>\n  <div class=\"price-old\">79,90€</div>\n  <div class=\"discount-badge\">− 50%</div>\n</div>"
+          }
+        },
+        "image_pRggRB": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_jnATdX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 5 Bradiva Booty</div>\n</div>"
+          }
+        },
+        "image_h9L7gC": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "color",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "kaching_bundles_app_block_WNzCz7": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "image_MyLkx7": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_hBQ6RP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n60J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#000000",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#f0c417",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_x9KRXa": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .aloura-badge {\n    --border-color: #ff7e8d;\n    --text-color: #1a1a1a;\n    --subtext-color: #555;\n    --check-color: #59a10b;\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    padding: 6px 10px;\n    border: 2px dashed var(--border-color);\n    border-radius: 10px;\n    background: #ffeef1;\n    font-family: 'Inter', sans-serif;\n    font-size: 15px;\n    line-height: 1.2;\n    color: var(--text-color);\n  }\n\n  .aloura-badge .avatars {\n    display: flex;\n    align-items: center;\n  }\n\n  .aloura-badge .avatars img {\n    width: 26px;\n    height: 26px;\n    border-radius: 50%;\n    border: 2px solid #fff;\n    object-fit: cover;\n    margin-left: -8px;\n    box-shadow: 0 0 0 1px rgba(0,0,0,0.05);\n  }\n\n  .aloura-badge .avatars img:first-child {\n    margin-left: 0;\n  }\n\n  .aloura-badge .verified {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    background: #eaf9da;\n    border-radius: 50%;\n    width: 15px;\n    height: 15px;\n    margin: 0 3px;\n  }\n\n  .aloura-badge .verified svg {\n    width: 10px;\n    height: 10px;\n    fill: var(--check-color);\n  }\n\n  .aloura-badge strong {\n    font-weight: 700;\n  }\n\n  @media (max-width: 480px) {\n    .aloura-badge {\n      font-size: 14px;\n      padding: 5px 8px;\n    }\n    .aloura-badge .avatars img {\n      width: 22px;\n      height: 22px;\n      margin-left: -6px;\n    }\n  }\n</style>\n\n<div class=\"aloura-badge\">\n  <div class=\"avatars\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5070.jpg?v=1754681100&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5069.jpg?v=1754681121&width=100\" alt=\"\">\n    <img src=\"//aloura.de/cdn/shop/files/IMG_5071.jpg?v=1754681123&width=100\" alt=\"\">\n  </div>\n  <span><strong>Nathalie</strong></span>\n  <span class=\"verified\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n        d=\"M21.007 8.27C22.194 9.125 23 10.45 23 12c0 1.55-.806 2.876-1.993 3.73.24 1.442-.134 2.958-1.227 4.05-1.095 1.095-2.61 1.459-4.046 1.225C14.883 22.196 13.546 23 12 23c-1.55 0-2.878-.807-3.731-1.996-1.438.235-2.954-.128-4.05-1.224-1.095-1.095-1.459-2.611-1.217-4.05C1.816 14.877 1 13.551 1 12s.816-2.878 2.002-3.73c-.242-1.439.122-2.955 1.218-4.05 1.093-1.094 2.61-1.467 4.057-1.227C9.125 1.804 10.453 1 12 1c1.545 0 2.88.803 3.732 1.993 1.442-.24 2.956.135 4.048 1.227 1.093 1.092 1.468 2.608 1.227 4.05Zm-4.426-.084a1 1 0 0 1 .233 1.395l-5 7a1 1 0 0 1-1.521.126l-3-3a1 1 0 0 1 1.414-1.414l2.165 2.165 4.314-6.04a1 1 0 0 1 1.395-.232Z\"/>\n    </svg>\n  </span>\n  <span>et <strong>+ 14.372 femmes</strong> approuvent Bradiva</span>\n</div>"
+          }
+        },
+        "liquid_CLCCf9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-video-4'></div>"
+          }
+        },
+        "liquid_QDy4EX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-video-4'></div>"
+          }
+        },
+        "image_NnVtjL": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "liquid_UqCNKi",
+        "title",
+        "badges",
+        "liquid_B4Egz4",
+        "image_pRggRB",
+        "liquid_jnATdX",
+        "image_h9L7gC",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "kaching_bundles_app_block_WNzCz7",
+        "image_MyLkx7",
+        "liquid_hBQ6RP",
+        "buy-buttons",
+        "liquid_x9KRXa",
+        "liquid_CLCCf9",
+        "liquid_QDy4EX",
+        "image_NnVtjL"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "aloura-womens-creatine",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "custom_liquid_ebKGdt": {
       "type": "custom-liquid",
       "name": "Liquide Personnalisé",
@@ -873,11 +885,11 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_e205fe66-d49f-4f2e-9010-b0014d587491.png",
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "Collagène",
             "heading_tag": "h4",
-            "content": "<p><strong>Raffermit la peau</strong>, améliore <strong>l’élasticité </strong>et aide à <strong>garder des fesses toniques</strong> et <strong>rebondies</strong></p>",
+            "content": "<p>Raffermit la peau, améliore l’élasticité et aide à garder des fesses toniques et rebondies</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -886,11 +898,11 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_e60313cf-ed1a-4934-a5fc-3b2e3b8b87c1.png",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Créatine",
             "heading_tag": "h4",
-            "content": "<p><strong>Favorise</strong> <strong>la prise de muscle</strong> au niveau <strong>des fessiers</strong></p>",
+            "content": "<p>Favorise la prise de muscle au niveau des fessiers</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -899,11 +911,11 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_914d17df-d405-4944-8307-3f2e01d74d11.png",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Myo-Inositol",
             "heading_tag": "h4",
-            "content": "<p><strong>Équilibre les hormones</strong>, améliore <strong>la sensibilité</strong> à <strong>l’insuline</strong> et <strong>favorise une meilleure</strong> composition <strong>corporelle</strong></p>",
+            "content": "<p>Équilibre les hormones, améliore la sensibilité à l’insuline et favorise une meilleure composition corporelle</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -912,11 +924,10 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_504cf819-51e8-41e3-befc-bf61f1576e47.png",
             "column_size": "3",
             "title": "Vitamine B12 & B8",
             "heading_tag": "h4",
-            "content": "<p><strong>Soutient</strong> le <strong>métabolisme énergétique</strong> et la <strong>récupération</strong>, tout en <strong>réduisant la fatigue</strong></p>",
+            "content": "<p>Soutient le métabolisme énergétique et la récupération, tout en réduisant la fatigue</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -929,7 +940,7 @@
             "column_size": "3",
             "title": "BCAA",
             "heading_tag": "h4",
-            "content": "<p><strong>Stimulent </strong>la <strong>croissance musculaire</strong> et <strong>limitent</strong> la <strong>dégradation des muscles</strong>, pour des <strong>courbes plus fermes</strong></p>",
+            "content": "<p>Stimulent la croissance musculaire et limitent la dégradation des muscles, pour des courbes plus fermes</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -988,7 +999,6 @@
         "item_E9WdEM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/STEP_1.gif",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Ingestion de créatine",
@@ -1000,7 +1010,6 @@
         "item_Qqepc9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/STEP_B.gif",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Absorption musculaire ciblée 🍑",
@@ -1012,7 +1021,6 @@
         "item_PmJFmn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/STEP_C.gif",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Synthèse et croissance musculaire 🔬",
@@ -1073,7 +1081,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/IMG_5120.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1329,7 +1336,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/besoin_d_aide.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1377,12 +1383,11 @@
     "image_with_text_overlay_pjaxby",
     "rich_text_46BUxt",
     "rich_text_rq8eeh",
-    "video_XF4amU",
-    "rich_text_nmgGRp",
-    "featured-product",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
+    "storiesinsta_ixYhVp",
     "insta_6gAxCq",
+    "featured-product",
     "custom_liquid_ebKGdt",
     "tabs_Waa9zt",
     "multi_column_wTJTNc",
