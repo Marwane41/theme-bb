@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banniere_pc.png",
-        "mobile_image": "shopify://shop_images/banniere_tel.png",
+        "image": "shopify://shop_images/BANNIERE_PC_BRAD.png",
+        "mobile_image": "shopify://shop_images/bannier_tel.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,6 +31,7 @@
         "logo_A964Gc": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -38,6 +39,7 @@
         "logo_PwVxki": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -45,6 +47,7 @@
         "logo_pCMLRf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/grazia_a.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -52,6 +55,7 @@
         "logo_fjVfnh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/elle-logo-png_seeklogo-47116.png",
             "logo_width": 120,
             "link": ""
           }
@@ -111,6 +115,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/img_3_benef_a_jour.png",
+        "mobile_image": "shopify://shop_images/img_3_benef_a_jour.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -153,6 +159,22 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_iJVTLm": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/BRADIVA VID.mp4",
+        "mobile_video": "shopify://files/videos/BRADIVA VID.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "trust_pilot_reviews_AxNB3A": {
@@ -885,7 +907,7 @@
         "item_QdbeiM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/2_e205fe66-d49f-4f2e-9010-b0014d587491.png",
             "column_size": "3",
             "title": "Collagène",
             "heading_tag": "h4",
@@ -898,7 +920,7 @@
         "item_xiaYUR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/1_e60313cf-ed1a-4934-a5fc-3b2e3b8b87c1.png",
             "column_size": "3",
             "title": "Créatine",
             "heading_tag": "h4",
@@ -911,7 +933,7 @@
         "item_dPL9Rr": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/3_914d17df-d405-4944-8307-3f2e01d74d11.png",
             "column_size": "3",
             "title": "Myo-Inositol",
             "heading_tag": "h4",
@@ -924,6 +946,7 @@
         "item_LV4cm8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_504cf819-51e8-41e3-befc-bf61f1576e47.png",
             "column_size": "3",
             "title": "Vitamine B12 & B8",
             "heading_tag": "h4",
@@ -999,6 +1022,7 @@
         "item_E9WdEM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/STEP_1.gif",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Ingestion de créatine",
@@ -1010,6 +1034,7 @@
         "item_Qqepc9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/STEP_B.gif",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Absorption musculaire ciblée 🍑",
@@ -1021,6 +1046,7 @@
         "item_PmJFmn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/STEP_C.gif",
             "image_rotation_degrees": 0,
             "subheading": "",
             "title": "Synthèse et croissance musculaire 🔬",
@@ -1081,6 +1107,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/IMG_5120.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1336,6 +1363,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/besoin_d_aide.png",
+        "mobile_image": "shopify://shop_images/besoin_d_aide.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -1383,6 +1412,7 @@
     "image_with_text_overlay_pjaxby",
     "rich_text_46BUxt",
     "rich_text_rq8eeh",
+    "video_iJVTLm",
     "trust_pilot_reviews_AxNB3A",
     "multi_column_BKPLPt",
     "storiesinsta_ixYhVp",
